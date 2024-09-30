@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Everyone!+👋;This+is+Abhishek...;Nice+to+meet+you!&align=center&size=35">
   </a>
 </h1>
-<h3 align="center">Trying to enter the world of competitive world of coding</h3>
+<h3 align="center">Trying to enter the world of competitive coding</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/59ZV.gif">
 
 - 🔭 I’m currently working on [WEBSITE](https://helloabhishek.netlify.app/)
