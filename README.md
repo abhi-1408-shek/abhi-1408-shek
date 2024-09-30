@@ -32,5 +32,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-1408-shek&show_icons=true&locale=en&layout=compact" alt="abhi-1408-shek" /></p>
 
+<p align="center"><b>Profile Visitors</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/abhi-1408-shek/count.svg" alt="visitor badge"/></p>
+
+
+
 
 
