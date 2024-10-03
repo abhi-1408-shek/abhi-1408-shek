@@ -46,7 +46,6 @@
 <p align="center"><b>Profile Visitors</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/abhi-1408-shek/count.svg" alt="visitor badge"/></p>
 
-##see:<br>
-![snake gif](https://github.com/abhi-1408-shek/abhi-1408-shek/blob/output/github-contribution-grid-snake.gif)
-
-
+<br> 
+<h1 align="center">OH MY GOD 😱</h1>
+<img src="https://raw.githubusercontent.com/abhi-1408-shek/abhi-1408-shek/output/snake.svg" alt="Snake animation" />
