@@ -39,53 +39,55 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <table>
   <tr>
-    <td align="center">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    <td align="center" width="60">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="64" height="40"/> </a>
       <br />JAVA
     </td>
-    <td align="center">
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="40"/> </a> 
+    <td align="center" width="60">
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="64" height="40"/> </a> 
       <br />ILLUSTRATOR
     </td>
-    <td align="center">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="40"/> </a> 
+    <td align="center" width="60">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="64" height="40"/> </a> 
       <br />C
     </td>
-    <td align="center">
-     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="40"/> </a> 
+    <td align="center" width="60">
+     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="64" height="40"/> </a> 
       <br />HTML
     </td>
-     <td align="center">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="40"/> </a>
+     <td align="center" width="60">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="94" height="40"/> </a>
       <br />CSS
     </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <br />JAVASCRIPT
+    <td align="center" width="60">
+       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JAVASCRIPT
     </td>
-    <td align="center">
+    <td align="center" width="60">
         <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="60" height="40"
+            <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="64" height="40"
         alt="Blender"/> 
         </a> 
       <br />BLENDER
     </td>
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="40"/> </a> 
-      <br />SQL
+  </tr>
+    <tr>
+    <td align="center" width="60">
+       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
     </td>
-    <td align="center">
-     <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
+    <td align="center" width="60">
+     <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="64" height="40"/> </a> 
       <br />UNREAL
     </td>
-    <td align="center">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="40"/> </a>  </a>
-      <br />REACT
+    <td align="center" width="60">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>REACT
     </td>
-     <td align="center">
+     <td align="center" width="60">
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-    <br />TAILWIND
+    <img src="https://skillicons.dev/icons?i=tailwind" width="64" height="48" alt="tailwind" /></a>
+      <br>TAILWIND
     </td>
   </tr>
 
