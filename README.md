@@ -114,3 +114,5 @@
 <br> 
 <h1 align="center">OH MY GOD <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Screaming%20in%20Fear.png" alt="Face Screaming in Fear" width="35" height="35" /></h1>
 <img src="https://raw.githubusercontent.com/abhi-1408-shek/abhi-1408-shek/output/snake.svg" alt="Snake animation" />
+
+<div align="center"><a href="https://www.buymeacoffee.com/abhigcet" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></div>
