@@ -9,7 +9,7 @@
 
 <div align="left">
  
--🔭 I’m currently working on [GAME](https://tetra-tikki.netlify.app)
+-🔭 Check out what I am working on: [CLICK HERE](https://tetra-tikki.netlify.app)
 
 -🌱 I’m currently learning: **PYTHON AND JS**
 
