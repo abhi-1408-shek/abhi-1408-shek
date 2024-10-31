@@ -11,6 +11,8 @@
  
 -🔭 Check out what I am working on: [CLICK HERE](https://tetra-tikki.netlify.app)
 
+-🚀 Explore my resume [HERE](https://abhishek-resume-1408.netlify.app)
+
 -🌱 I’m currently learning: **PYTHON AND JS**
 
 -👯 I’m looking to collaborate on **CREATING OWN VERSION OF VIDEOGAME**
