@@ -8,10 +8,14 @@
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/59ZV.gif">
 
 <div align="left">
+
+<hr/>
+
+-🚀 Explore my resume [HERE](https://abhishek-resume-1408.netlify.app) 
+
+<hr/>
  
 -🔭 Check out what I am working on: [CLICK HERE](https://tetra-tikki.netlify.app)
-
--🚀 Explore my resume [HERE](https://abhishek-resume-1408.netlify.app)
 
 -🌱 I’m currently learning: **PYTHON AND JS**
 
@@ -35,8 +39,6 @@
 <a href="https://www.hackerrank.com/abhishekpooja141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishekpooja141" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhi_gcet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi_gcet" height="30" width="40" /></a>
 </p>
-
-<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <table>
