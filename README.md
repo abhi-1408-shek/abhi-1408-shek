@@ -9,12 +9,7 @@
 
 <div align="left">
 
-<hr/>
 
--🚀 Explore my resume [HERE](https://abhishek-resume-1408.netlify.app) 
-
-<hr/>
- 
 -🔭 Check out what I am working on: [CLICK HERE](https://tetra-tikki.netlify.app)
 
 -🌱 I’m currently learning: **PYTHON AND JS**
