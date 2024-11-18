@@ -10,15 +10,15 @@
 <div align="left">
 
 
--🔭 Check out what I am working on: [CLICK HERE](https://tetra-tikki.netlify.app)
+-🔭 Check out what I am working on: [Enter the boredom!]([https://coder-verse.netlify.app])
 
--🌱 I’m currently learning: **PYTHON AND JS**
+-🌱 I’m currently learning: **Thread Lifecycle in Java**
 
 -👯 I’m looking to collaborate on **CREATING OWN VERSION OF VIDEOGAME**
 
 -🤝 I’m looking for help with: **JAVA**
 
--💬 Ask me about: **MS PAINT, JAVA AND RUBY**
+-💬 Ask me about: **MS PAINT, JAVA  and Life....**
 
 -📫 How to reach me: **abhishekpooja1408@gmail.com**
 
