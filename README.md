@@ -10,7 +10,7 @@
 <div align="left">
 
 
--🔭 Check out what I am working on: [Enter the boredom!]([https://coder-verse.netlify.app])
+-🔭 Check out what I am working on: [Enter the boredom!](https://coder-verse.netlify.app)
 
 -🌱 I’m currently learning: **Thread Lifecycle in Java**
 
