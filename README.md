@@ -9,11 +9,16 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
   <b>Trying to enter the world of competitive coding</b>
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+  <model-viewer
+    src="https://raw.githubusercontent.com/abhi-1408-shek/abhi-1408-shek/main/assets/competitive-coding.glb"
+    alt="3D visualization of competitive coding journey"
+    auto-rotate
+    camera-controls
+    style="width: 400px; height: 400px;"
+  ></model-viewer>
 </div>
 
 ```javascript
@@ -62,6 +67,7 @@ const abhishek = {
 </picture></h1>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-1408-shek&theme=radical&hide_border=true&background=0D1117" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-1408-shek&layout=compact&theme=radical&hide_border=true&background=0D1117" width="70%" />
 <H4>THANK YOU PEOPLE FOR VISTING <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
@@ -158,8 +164,11 @@ const abhishek = {
 
 <h2 align="center">🌐 Let's Connect</h2>
 <div align="center">
-  <a href="https://twitter.com/mrabhishek1408" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <a href="https://x.com/mrabhishek1408" target="_blank">
+    <img src="https://img.shields.io/badge/(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-sharma-gcet/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.hackerrank.com/abhishekpooja141" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
@@ -169,6 +178,7 @@ const abhishek = {
   </a>
 </div>
 <br>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhi-1408-shek/abhi-1408-shek/output/snake.svg" alt="Snake animation" />
 </div>
