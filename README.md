@@ -1,41 +1,106 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+Eveyone!+👋;+This+is+Abhishek...;+Nice+to+meet+you!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello%2C+Everyone!+%F0%9F%91%8B;This+is+Abhishek...;Nice+to+meet+you!" />
 </h1>
 
-<h3 align="center">Trying to enter the world of competitive coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Locomotive.png" alt="Locomotive" width="30" height="30" /></h3>
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+  Trying to enter the world of competitive coding
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+</h3>
 
-<br/>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/59ZV.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+</div>
 
-<div align="left">
+```javascript
+const abhishek = {
+    pronouns: "He" | "Him",
+    location: "India, Earth 🌆",
+    current_status: "Learning Java Multithreading 🧵",
+    education: {
+        degree: "Bachelor of Technology 🎓",
+        major: "Computer Science 💻",
+        graduation_year: 2027
+    },
+    interests: [
+        "Full Stack Development 🚀",
+        "Game Development 🎮",
+        "Competitive Programming 💡",
+        "MS Paint Art 🎨"
+    ],
+    current_learning: {
+        language: "Java ☕",
+        focus: "Multithreading",
+        topics: [
+            "Thread Lifecycle 🔄",
+            "Synchronization 🔒",
+            "Concurrency ⚡",
+            "Thread Pools 🌊"
+        ]
+    },
+    fun_fact: "I code in MS Paint! 🎨",
+    favorite_quote: "while(!(succeed = try())); 💪",
+    contact: {
+        email: "abhishekpooja1408@gmail.com ✉️",
+        project: "https://coder-verse.netlify.app 🌐",
+        X (formally:Twitter): "@mrabhishek1408 🐦",
+        leetcode: "abhi_gcet 💻"
+    }
+};
+```
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+</div>
+ width="30">
 
--🔭 Check out what I am working on: [Enter the boredom!](https://coder-verse.netlify.app)
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30">
+  Featured Projects
+  <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30">
+</h2>
 
--🌱 I’m currently learning: **Thread Lifecycle in Java**
+<div align="center">
+  <a href="https://coder-verse.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Coder%20Verse-blue?style=for-the-badge&logo=netlify" alt="Portfolio"/>
+  </a>
+</div>
 
--👯 I’m looking to collaborate on **CREATING OWN VERSION OF VIDEOGAME**
+<h2 align="center">⚒️ Skills & Tools ⚒️</h2>
 
--🤝 I’m looking for help with: **JAVA**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+</div>
 
--💬 Ask me about: **MS PAINT, JAVA  and Life....**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi-1408-shek&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Contribution Graph" />
+</div>
 
--📫 How to reach me: **abhishekpooja1408@gmail.com**
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30">
+  Connect with me
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30">
+</h2>
 
--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25"/> Fun fact: **I code in MS PAINT**
+<div align="center">
+  <a href="https://twitter.com/mrabhishek1408" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.hackerrank.com/abhishekpooja141" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.leetcode.com/abhi_gcet" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</div>
 
- </div>
-
-<hr/>
-
-<h2 align="center">Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" />:</h2>
-<p align="center">
-<a href="https://twitter.com/mrabhishek1408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrabhishek1408" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhishekpooja141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishekpooja141" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhi_gcet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi_gcet" height="30" width="40" /></a>
-</p>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <table>
   <tr>
     <td align="center" width="96">
@@ -103,15 +168,28 @@
 
 </table>
 <hr/>
-<h2 align="center">Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /></h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-1408-shek&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi-1408-shek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-1408-shek&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages"/>
 </p>
-<p align="center"><b>Profile Visitors</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/abhi-1408-shek/count.svg" alt="visitor badge"/></p>
 
-<br> 
-<h1 align="center">OH MY GOD <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Screaming%20in%20Fear.png" alt="Face Screaming in Fear" width="35" height="35" /></h1>
-<img src="https://raw.githubusercontent.com/abhi-1408-shek/abhi-1408-shek/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-1408-shek&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhi-1408-shek&theme=tokyonight&no-frame=true&no-bg=true&row=1" alt="GitHub Trophies"/>
+</p>
+
+<p align="center"><b>Profile Views</b></p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/abhi-1408-shek/count.svg" alt="visitor badge"/>
+</p>
+
+<div align="center">
+  <h1 align="center">OH MY GOD <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Screaming%20in%20Fear.png" alt="Face Screaming in Fear" width="35" height="35" /></h1>
+  <img src="https://raw.githubusercontent.com/abhi-1408-shek/abhi-1408-shek/output/snake.svg" alt="Snake animation" />
+</div>
 
 <div align="center"><a href="https://www.buymeacoffee.com/abhigcet" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></div>
