@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello%2C+Everyone!+%F0%9F%91%8B;This+is+Abhishek...;Nice+to+meet+you!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello%2C+Everyone 👋 !+%F0%9F%91%8B;This+is+Abhishek...;Crafting+Digital+Dreams!" />
 </h1>
 
 <h3 align="center">
@@ -19,7 +19,7 @@
 ```javascript
 const abhishek = {
     pronouns: "He" | "Him",
-    location: "India, Earth 🌆",
+    location: "India, Earth 🌍",
     current_status: "Learning Java Multithreading 🧵",
     education: {
         degree: "Bachelor of Technology 🎓",
