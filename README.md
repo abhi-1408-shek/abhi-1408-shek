@@ -52,9 +52,24 @@ const abhishek = {
     }
 };
 ```
-
+<h1 ALIGN = "CENTER"> <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32">
+</picture> GITHUB STATS
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32">
+</picture></h1>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-1408-shek&theme=radical&hide_border=true&background=0D1117" width="70%" />
+<H4>THANK YOU PEOPLE FOR VISTING <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
+</picture>:</H4>
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/abhi-1408-shek/count.svg" alt="visitor badge"/>
+ 
+</div>
 </div>
 
 <br>
@@ -153,14 +168,7 @@ const abhishek = {
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
-
 <br>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/abhi-1408-shek/count.svg" alt="visitor badge"/>
- 
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhi-1408-shek/abhi-1408-shek/output/snake.svg" alt="Snake animation" />
 </div>
