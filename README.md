@@ -6,6 +6,35 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+Everyone+👋;This+is+Abhishek...;Crafting+Digital+Dreams!" />
 </div>
 
+<h2 align="center">🚀 My Coding Journey</h2>
+
+<div align="center">
+  <br>
+
+```mermaid
+timeline
+    title My Coding Journey
+    2021 : QBasic Programming
+         : C Language Basics
+    2022 : Dynamic HTML
+         : Java Basics
+    2023 : Python Basics
+         : SQL & Databases
+    2024 : C++ Development
+         : DSA Journey
+```
+
+  <br>
+  <img src="https://img.shields.io/badge/2021-QBasic_&_C-success?style=for-the-badge" alt="2021"/>
+  <img src="https://img.shields.io/badge/2022-Web_&_Java_Basics-orange?style=for-the-badge&logo=html5" alt="2022"/>
+  <img src="https://img.shields.io/badge/2023-Python_&_SQL-blue?style=for-the-badge&logo=python" alt="2023"/>
+  <img src="https://img.shields.io/badge/2024-C++_&_DSA-red?style=for-the-badge&logo=cplusplus" alt="2024"/>
+  
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+  
+</div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
   <b>Trying to enter the world of competitive coding</b>
@@ -57,6 +86,7 @@ const abhishek = {
     }
 };
 ```
+
 <h1 ALIGN = "CENTER"> <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32">
