@@ -187,8 +187,12 @@ const abhishek = {
 </h2>
 
 <div align="center">
+  <a href="https://abhi-1408-shek.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://coder-verse.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Coder%20Verse-blue?style=for-the-badge&logo=netlify" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Code_Verse-4CAF50?style=for-the-badge&logo=code&logoColor=white" alt="Code Verse" />
   </a>
 </div>
 
