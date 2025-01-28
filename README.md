@@ -21,6 +21,7 @@ timeline
          : SQL & Databases
     2024 : C++ Development
          : DSA Journey
+    2025 : Machine Learning
 ```
 
   <br>
