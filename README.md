@@ -187,7 +187,7 @@ const abhishek = {
 </h2>
 
 <div align="center">
-  <a href="https://abhi-1408-shek.github.io/Portfolio/" target="_blank">
+  <a href="https://abhi-gcet.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
