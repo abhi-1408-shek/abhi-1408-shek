@@ -104,7 +104,7 @@ timeline
 
 <!--START_SECTION:unique-->
 ## 🧠 Currently Thinking About
-> Exploring: Update
+> Exploring: Data, Update
 
 ## 🌟 Repo Spotlight (This Week)
 
