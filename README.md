@@ -1,205 +1,187 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+Everyone+👋;This+is+Abhishek...;Crafting+Digital+Dreams!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=25c2a0&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Abhishek;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%A7%A0" alt="Typing SVG" />
 </div>
+
+<br>
+
+```python
+class Abhishek:
+    def __init__(self):
+        self.name = "Abhishek Sharma"
+        self.pronouns = "He/Him"
+        self.location = "India 🇮🇳"
+        self.education = "B.Tech in Computer Science (2027)"
+        
+        self.current_focus = [
+            "Machine Learning 🤖",
+            "Deep Learning 🧠",
+            "Data Science 📊",
+            "Competitive Programming 💡"
+        ]
+        
+        self.tech_stack = {
+            "languages": ["Python", "Java", "C++", "SQL"],
+            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
+            "data_tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
+            "web": ["React", "HTML/CSS", "JavaScript"]
+        }
+        
+        self.current_learning = "Transformers & LLMs 🔥"
+        self.fun_fact = "I code in MS Paint! 🎨"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = Abhishek()
+me.say_hi()
+```
+
+<br>
 
 <h2 align="center">🚀 My Coding Journey</h2>
 
 <div align="center">
-  <br>
 
 ```mermaid
 timeline
-    title My Coding Journey
-    2021 : QBasic Programming
-         : C Language Basics
-    2022 : Dynamic HTML
-         : Java Basics
-    2023 : Python Basics
-         : SQL & Databases
-    2024 : C++ Development
-         : DSA Journey
+    title My Evolution
+    2021 : QBasic & C
+         : "Hello World"
+    2022 : HTML/CSS & Java
+         : First Website
+    2023 : Python & SQL
+         : Data & Logic
+    2024 : C++ & DSA
+         : Problem Solving
     2025 : Machine Learning
+         : The Future is Now
 ```
 
-  <br>
-  <img src="https://img.shields.io/badge/2021-QBasic_&_C-success?style=for-the-badge" alt="2021"/>
-  <img src="https://img.shields.io/badge/2022-Web_&_Java_Basics-orange?style=for-the-badge&logo=html5" alt="2022"/>
-  <img src="https://img.shields.io/badge/2023-Python_&_SQL-blue?style=for-the-badge&logo=python" alt="2023"/>
-  <img src="https://img.shields.io/badge/2024-C++_&_DSA-red?style=for-the-badge&logo=cplusplus" alt="2024"/>
-  
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-  
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-  <b>Trying to enter the world of competitive coding</b>
-</div>
-
-<div align="center">
-  <model-viewer
-    src="https://raw.githubusercontent.com/abhi-1408-shek/abhi-1408-shek/main/assets/competitive-coding.glb"
-    alt="3D visualization of competitive coding journey"
-    auto-rotate
-    camera-controls
-    style="width: 400px; height: 400px;"
-  ></model-viewer>
-</div>
-
-```javascript
-const abhishek = {
-    pronouns: "He" | "Him",
-    location: "India, Earth 🌍",
-    current_status: "Learning Java Multithreading 🧵",
-    education: {
-        degree: "Bachelor of Technology 🎓",
-        major: "Computer Science 💻",
-        graduation_year: 2027
-    },
-    interests: [
-        "Full Stack Development 🚀",
-        "Game Development 🎮",
-        "Competitive Programming 💡",
-        "MS Paint Art 🎨"
-    ],
-    current_learning: {
-        language: "Java ☕",
-        focus: "Multithreading",
-        topics: [
-            "Thread Lifecycle 🔄",
-            "Synchronization 🔒",
-            "Concurrency ⚡",
-            "Thread Pools 🌊"
-        ]
-    },
-    fun_fact: "I code in MS Paint! 🎨",
-    favorite_quote: "while(!(succeed = try())); 💪",
-    contact: {
-        email: "abhishekpooja1408@gmail.com ✉️",
-        project: "https://coder-verse.netlify.app 🌐",
-        X (formally:Twitter): "@mrabhishek1408 🐦",
-        leetcode: "abhi_gcet 💻"
-    }
-};
-```
-
-<h1 ALIGN = "CENTER"> <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32">
-</picture> GITHUB STATS
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32">
-</picture></h1>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-1408-shek&theme=radical&hide_border=true&background=0D1117" width="70%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-1408-shek&layout=compact&theme=radical&hide_border=true&background=0D1117" width="70%" />
-<H4>THANK YOU PEOPLE FOR VISTING <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
-</picture>:</H4>
-  <div align="center">
-  <img src="https://profile-counter.glitch.me/abhi-1408-shek/count.svg" alt="visitor badge"/>
- 
-</div>
 </div>
 
 <br>
 
-<h2 align="center">⚒️ Languages and Tools ⚒️</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></a>
-    <br />JAVA
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="64" height="40"/> </a> 
-      <br />C
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="60">
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="64" height="48" alt="tailwind" /></a>
-      <br>TAILWIND
-    </td>
-    <td align="center" width="96">
-       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JAVASCRIPT
-    </td>
-    <td align="center" width="60">
-       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="60">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>REACT
-    </td>
-    <td align="center" width="60">
-     <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="64" height="40"/> </a> 
-      <br />UNREAL
-    </td>
-    <td align="center" width="96">
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></a>
-    <br>GITHUB
-    </td>
-  </tr>
-  <tr>
-     <td align="center" width="96">
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="64" height="40"/> </a> 
-      <br />ILLUSTRATOR
-    </td>
-     <td align="center" width="96">
-        <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="BLENDER" />
-        </a> 
-      <br />BLENDER
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="48" height="48">
-        <br/> VS CODE
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhi-1408-shek&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7" alt="abhi-1408-shek" />
+</div>
 
 <br>
 
-<!-- Projects -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30">
-  Featured Projects
-  <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30">
-</h2>
+<h2 align="center">📊 Weekly Development Breakdown</h2>
 
+<!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 📦 Used 0 Bytes in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 Public Repositories 
+ > 
+> 🔑 Private Repositories  
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Setting up WakaTime...
+```
+
+📅 **I'm Most Productive on Weekends** 
+
+```text
+Monday       █░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday      █░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday    █░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday     █░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday       █░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday     █░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday       █░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+💻 **I Mostly Code in** 
+
+```text
+Python       ████████████░░░░░░░░░░░░░   50.00 % 
+Java         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript   ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+C++          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+*🔄 Stats will auto-update once WakaTime is configured!*
+<!--END_SECTION:waka-->
+
+<br>
+
+<h2 align="center">⚡ GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi-1408-shek&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000" alt="Abhishek's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-1408-shek&layout=compact&theme=algolia&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-1408-shek&theme=algolia&hide_border=true&background=00000000" alt="Streak" />
+</div>
+
+<br>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+  
+### 🤖 Machine Learning & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Tools & Design
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+</div>
+
+<br>
+
+<h2 align="center">🔥 Featured Projects</h2>
 <div align="center">
   <a href="https://abhi-gcet.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="https://coder-verse.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Code_Verse-4CAF50?style=for-the-badge&logo=code&logoColor=white" alt="Code Verse" />
+    <img src="https://img.shields.io/badge/💻_Code_Verse-4CAF50?style=for-the-badge" alt="Code Verse" />
   </a>
 </div>
 
-<h2 align="center">🌐 Let's Connect</h2>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhi-1408-shek/abhi-1408-shek/output/snake.svg" alt="Snake animation" />
+</div>
+
+<h2 align="center">📫 Connect With Me</h2>
 <div align="center">
   <a href="https://x.com/mrabhishek1408" target="_blank">
-    <img src="https://img.shields.io/badge/(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/abhishek-sharma-gcet/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -210,18 +192,23 @@ const abhishek = {
   <a href="https://www.leetcode.com/abhi_gcet" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-</div>
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhi-1408-shek/abhi-1408-shek/output/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/abhigcet" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+  <a href="https://www.kaggle.com/abhigcet" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </div>
+
+<br>
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=abhi-1408-shek&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/abhigcet" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" >
+  </a>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&fontAlignY=35&fontSize=40" width="100%"/>
 </div>
