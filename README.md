@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%3E+initialize_system+--user+abhishek+--mode+ml_expert;%3E+loading_neural_networks...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%5B100%25%5D;%3E+system_ready.+Welcome!" alt="Terminal" />
+  <h1>👋 Hello, I'm Abhishek Sharma</h1>
+  <h3>Machine Learning Engineer | Data Science Enthusiast | Building Intelligent Systems</h3>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=25c2a0&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Abhishek;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=25c2a0&center=true&vCenter=true&width=600&lines=Training+Neural+Networks+%F0%9F%A7%A0;Exploring+Deep+Learning+%F0%9F%94%AC;Automating+Everything+%E2%9A%A1;Learning+Never+Stops+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <br>
@@ -65,16 +66,32 @@ timeline
 
 <br>
 
+<h2 align="center">📚 Today's ML Paper</h2>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi-1408-shek&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7" alt="abhi-1408-shek" />
+
+<!--START_SECTION:arxiv-->
+**Fetching latest Machine Learning paper from ArXiv...**
+
+*This section auto-updates daily with trending ML research*
+<!--END_SECTION:arxiv-->
+
 </div>
 
 <br>
 
-<h2 align="center">🏙️ My Contribution City</h2>
+<h2 align="center">🤖 Automated System Status</h2>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+
+| Agent | Status | Last Run |
+|-------|--------|----------|
+| 📚 Daily ArXiv Paper | ![Daily Paper](https://github.com/abhi-1408-shek/abhi-1408-shek/actions/workflows/daily-paper.yml/badge.svg) | Auto-updates at 00:00 UTC |
+| 📊 WakaTime Stats | ![Waka Readme](https://github.com/abhi-1408-shek/abhi-1408-shek/actions/workflows/waka-readme.yml/badge.svg) | Auto-updates at 18:30 IST |
+| 🐍 Contribution Snake | ![Snake](https://github.com/abhi-1408-shek/abhi-1408-shek/actions/workflows/main.yaml/badge.svg) | Auto-updates on push |
+
+*All workflows running autonomously via GitHub Actions*
+
 </div>
 
 <br>
