@@ -1,15 +1,17 @@
-name: Daily BTC Predictor
+name: Profile Analyzer
 
 on:
   schedule:
-    - cron: '0 16 * * *'  # Runs at 4PM UTC (After US market close)
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
   workflow_dispatch:
+  push:
+    branches: [main, master]
 
 permissions:
   contents: write
 
 jobs:
-  predict:
+  analyze:
     runs-on: ubuntu-latest
     
     steps:
@@ -21,17 +23,15 @@ jobs:
           python-version: '3.10'
       
       - name: Install dependencies
-        run: |
-          pip install yfinance pandas numpy scikit-learn matplotlib
+        run: pip install requests
       
-      - name: Run BTC Predictor
-        run: |
-          python scripts/predict_btc.py
+      - name: Run Profile Analyzer
+        run: python scripts/profile_analyzer.py
       
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add README.md assets/
-          git commit -m "🤖 Daily BTC Prediction Update" || exit 0
+          git add README.md
+          git commit -m "🤖 Auto-update: Profile insights refreshed" || exit 0
           git push
