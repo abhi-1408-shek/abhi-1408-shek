@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%3E+initialize_system+--user+abhishek+--mode+ml_expert;%3E+loading_neural_networks...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%5B100%25%5D;%3E+system_ready.+Welcome!" alt="Terminal" />
 </div>
 
 <div align="center">
@@ -67,6 +67,14 @@ timeline
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhi-1408-shek&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7" alt="abhi-1408-shek" />
+</div>
+
+<br>
+
+<h2 align="center">🏙️ My Contribution City</h2>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
 <br>
@@ -207,6 +215,11 @@ C++          ██░░░░░░░░░░░░░░░░░░░░�
   <a href="https://www.buymeacoffee.com/abhigcet" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" >
   </a>
+</div>
+
+<br>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=algolia&hideBorder" alt="Jokes Card" />
 </div>
 
 <div align="center">
