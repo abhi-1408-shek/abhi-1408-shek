@@ -86,6 +86,7 @@ timeline
 
 | Agent | Status | Last Run |
 |-------|--------|----------|
+| 📈 BTC Predictor | ![BTC Predictor](https://github.com/abhi-1408-shek/abhi-1408-shek/actions/workflows/btc-predictor.yml/badge.svg) | Auto-updates at 16:00 UTC |
 | 📚 Daily ArXiv Paper | ![Daily Paper](https://github.com/abhi-1408-shek/abhi-1408-shek/actions/workflows/daily-paper.yml/badge.svg) | Auto-updates at 00:00 UTC |
 | 📊 WakaTime Stats | ![Waka Readme](https://github.com/abhi-1408-shek/abhi-1408-shek/actions/workflows/waka-readme.yml/badge.svg) | Auto-updates at 18:30 IST |
 | 🐍 Contribution Snake | ![Snake](https://github.com/abhi-1408-shek/abhi-1408-shek/actions/workflows/main.yaml/badge.svg) | Auto-updates on push |
@@ -142,16 +143,32 @@ C++          ██░░░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <br>
-
-<h2 align="center">⚡ GitHub Stats</h2>
+<h2 align="center">📈 Live ML Experiment: BTC Predictor</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi-1408-shek&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000" alt="Abhishek's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-1408-shek&layout=compact&theme=algolia&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-1408-shek&theme=algolia&hide_border=true&background=00000000" alt="Streak" />
+
+**A real ML model that trains daily on live data and predicts Bitcoin prices**
+
+<img src="./assets/btc_prediction.png" alt="BTC Prediction Chart" width="700"/>
+
+<!--START_SECTION:btc-->
+| Metric | Value |
+|--------|-------|
+| 📈 Tomorrow's Prediction | **Loading...** |
+| 📉 Last Actual Price | Loading... |
+| 🎯 Model RMSE | Loading... |
+| 🕐 Last Updated | Awaiting first run |
+
+*Model: RandomForestRegressor | Features: MA(7), MA(14), Lag(1,3,7) | Data: Yahoo Finance*
+<!--END_SECTION:btc-->
+
+**How it works:**
+1. 📡 Fetches 90 days of live BTC-USD data
+2. 🔧 Engineers features (Moving Averages, Lag values)
+3. 🤖 Trains a `RandomForestRegressor`
+4. 📊 Predicts tomorrow's price & generates this chart
+5. 🔄 Runs automatically every day at 4PM UTC
+
 </div>
 
 <br>

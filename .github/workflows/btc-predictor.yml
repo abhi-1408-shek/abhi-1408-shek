@@ -1,0 +1,37 @@
+name: Daily BTC Predictor
+
+on:
+  schedule:
+    - cron: '0 16 * * *'  # Runs at 4PM UTC (After US market close)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  predict:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          pip install yfinance pandas numpy scikit-learn matplotlib
+      
+      - name: Run BTC Predictor
+        run: |
+          python scripts/predict_btc.py
+      
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md assets/
+          git commit -m "🤖 Daily BTC Prediction Update" || exit 0
+          git push
