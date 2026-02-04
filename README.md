@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=500&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E_+system.init(abhishek);%3E_+status%3A+ONLINE+%E2%9A%A1;%3E_+loading+ml_core...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+OK" alt="Glitch Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&repeat=true&width=500&height=60&lines=%3E_+system.init(abhishek)" alt="Header" />
 </div>
 
 <div align="center">
