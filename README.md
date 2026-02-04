@@ -1,10 +1,9 @@
 <div align="center">
-  <h1>👋 Hello, I'm Abhishek Sharma</h1>
-  <h3>Machine Learning Engineer | Data Science Enthusiast | Building Intelligent Systems</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=500&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E_+system.init(abhishek);%3E_+status%3A+ONLINE+%E2%9A%A1;%3E_+loading+ml_core...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+OK" alt="Glitch Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=25c2a0&center=true&vCenter=true&width=600&lines=Training+Neural+Networks+%F0%9F%A7%A0;Exploring+Deep+Learning+%F0%9F%94%AC;Automating+Everything+%E2%9A%A1;Learning+Never+Stops+%F0%9F%93%9A" alt="Typing SVG" />
+  <h3>Machine Learning Engineer | Data Science Enthusiast | Building Intelligent Systems</h3>
 </div>
 
 <br>
