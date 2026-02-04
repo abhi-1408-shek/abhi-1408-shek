@@ -144,24 +144,30 @@ C++          ██░░░░░░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:unique-->
 ## 🧠 Currently Thinking About
-> Analyzing your recent commits...
+> Exploring: Update
 
 ## 🌟 Repo Spotlight (This Week)
-*Loading your featured project...*
+
+| | |
+|---|---|
+| **[SIH_RAG](https://github.com/abhi-1408-shek/SIH_RAG)** | RAG prototype built during SIH’25 Finale |
+| 🔤 HTML | ⭐ 4 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | Analyzing... |
-| 📅 Most Active | Analyzing... |
-| 💬 Favorite Word | Analyzing... |
+| ⏰ Coding Style | 🌅 Early Bird |
+| 📅 Most Active | Tuesday |
+| 💬 Favorite Word | `feat:` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
 |------|----------|
-| 🚀 | Loading your timeline... |
+| 🚀 Jul 2024 | 🎉 Joined GitHub |
+| 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
+| ⚡ Feb 2026 | 🔥 Still Going Strong! |
 
-*Run the Profile Analyzer workflow to populate this section!*
+*Auto-updated: 2026-02-04*
 <!--END_SECTION:unique-->
 
 <br>
