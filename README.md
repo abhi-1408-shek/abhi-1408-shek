@@ -164,7 +164,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 <!--START_SECTION:unique-->
 ## 🧠 Currently Thinking About
-> Exploring: Data, Update
+> Exploring: Update
 
 ## 🌟 Repo Spotlight (This Week)
 
