@@ -70,9 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**Fetching latest Machine Learning paper from ArXiv...**
+**📄 Knowledge Distillation for mmWave Beam Prediction Using Sub-6 GHz Channels**
 
-*This section auto-updates daily with trending ML research*
+👥 *Authors*: Sina Tavakolian, Nhan Thanh Nguyen, Ahmed Alkhateeb et al.
+
+📝 *Abstract*: Beamforming in millimeter-wave (mmWave) high-mobility environments typically incurs substantial training overhead. While prior studies suggest that sub-6 GHz channels can be exploited to predict optimal mmWave beams, existing methods depend on large deep learning (DL) models with prohibitive comp...
+
+🔗 [Read on ArXiv](https://arxiv.org/abs/2602.04703v1)
+
+*Last updated: 2026-02-05 02:43 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
