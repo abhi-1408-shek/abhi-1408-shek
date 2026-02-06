@@ -167,15 +167,15 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 | | |
 |---|---|
-| **[SIH_RAG](https://github.com/abhi-1408-shek/SIH_RAG)** | RAG prototype built during SIH’25 Finale |
-| 🔤 HTML | ⭐ 4 stars |
+| **[PYTHON_CS50](https://github.com/abhi-1408-shek/PYTHON_CS50)** | CS50_PYTHON |
+| 🔤 Java | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | ☀️ Day Coder |
+| ⏰ Coding Style | 🌅 Early Bird |
 | 📅 Most Active | Tuesday |
-| 💬 Favorite Word | `deployment` |
+| 💬 Favorite Word | `arxiv` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
