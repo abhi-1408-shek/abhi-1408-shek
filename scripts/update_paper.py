@@ -5,7 +5,7 @@ from datetime import datetime
 def fetch_latest_ml_paper():
     """Fetch the latest popular ML paper from ArXiv."""
     # ArXiv API for cs.LG (Machine Learning) category, sorted by submissions
-    arxiv_url = "http://export.arxiv.org/api/query?search_query=cat:cs.LG&start=0&max_results=1&sortBy=submittedDate&sortOrder=descending"
+    arxiv_url = "https://export.arxiv.org/api/query?search_query=cat:cs.LG&start=0&max_results=1&sortBy=submittedDate&sortOrder=descending"
     
     feed = feedparser.parse(arxiv_url)
     
