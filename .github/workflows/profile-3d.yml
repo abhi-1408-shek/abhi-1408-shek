@@ -26,4 +26,5 @@ jobs:
           git config user.email github-actions@github.com
           git add -A profile-3d-contrib
           git commit -m "Generated 3D contribution graph" || exit 0
+          git pull --rebase
           git push
