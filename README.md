@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Knowledge Distillation for mmWave Beam Prediction Using Sub-6 GHz Channels**
+**📄 Shared LoRA Subspaces for almost Strict Continual Learning**
 
-👥 *Authors*: Sina Tavakolian, Nhan Thanh Nguyen, Ahmed Alkhateeb et al.
+👥 *Authors*: Prakhar Kaushik, Ankit Vaidya, Shravan Chaudhari et al.
 
-📝 *Abstract*: Beamforming in millimeter-wave (mmWave) high-mobility environments typically incurs substantial training overhead. While prior studies suggest that sub-6 GHz channels can be exploited to predict optimal mmWave beams, existing methods depend on large deep learning (DL) models with prohibitive comp...
+📝 *Abstract*: Adapting large pretrained models to new tasks efficiently and continually is crucial for real-world deployment but remains challenging due to catastrophic forgetting and the high cost of retraining. While parameter-efficient tuning methods like low rank adaptation (LoRA) reduce computational dema...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2602.04703v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2602.06043v1)
 
-*Last updated: 2026-02-05 02:43 UTC*
+*Last updated: 2026-02-06 08:40 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
