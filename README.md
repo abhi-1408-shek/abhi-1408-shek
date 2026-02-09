@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Shared LoRA Subspaces for almost Strict Continual Learning**
+**📄 Learning a Generative Meta-Model of LLM Activations**
 
-👥 *Authors*: Prakhar Kaushik, Ankit Vaidya, Shravan Chaudhari et al.
+👥 *Authors*: Grace Luo, Jiahai Feng, Trevor Darrell et al.
 
-📝 *Abstract*: Adapting large pretrained models to new tasks efficiently and continually is crucial for real-world deployment but remains challenging due to catastrophic forgetting and the high cost of retraining. While parameter-efficient tuning methods like low rank adaptation (LoRA) reduce computational dema...
+📝 *Abstract*: Existing approaches for analyzing neural network activations, such as PCA and sparse autoencoders, rely on strong structural assumptions. Generative models offer an alternative: they can uncover structure without such assumptions and act as priors that improve intervention fidelity. We explore th...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2602.06043v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2602.06964v1)
 
-*Last updated: 2026-02-08 03:23 UTC*
+*Last updated: 2026-02-09 02:52 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
