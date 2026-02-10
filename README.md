@@ -162,7 +162,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 <!--START_SECTION:unique-->
 ## 🧠 Currently Thinking About
-> Exploring: Update, Feature
+> Exploring: Feature
 
 ## 🌟 Repo Spotlight (This Week)
 
