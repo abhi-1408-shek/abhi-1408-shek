@@ -177,7 +177,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 |-------|-------|
 | ⏰ Coding Style | ☀️ Day Coder |
 | 📅 Most Active | Tuesday |
-| 💬 Favorite Word | `auto-update:` |
+| 💬 Favorite Word | `feat:` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
