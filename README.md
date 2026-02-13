@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 ROCKET: Rapid Optimization via Calibration-guided Knapsack Enhanced Truncation for Efficient Model Compression**
+**📄 Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation**
 
-👥 *Authors*: Ammar Ali, Baher Mohammad, Denis Makhov et al.
+👥 *Authors*: Wenkai Yang, Weijie Liu, Ruobing Xie et al.
 
-📝 *Abstract*: We present ROCKET, a training-free model compression method that achieves state-of-the-art performance in comparison with factorization, structured-sparsification and dynamic compression baselines. Operating under a global compression budget, ROCKET comprises two key innovations: First, it formul...
+📝 *Abstract*: On-policy distillation (OPD), which aligns the student with the teacher's logit distribution on student-generated trajectories, has demonstrated strong empirical gains in improving student performance and often outperforms off-policy distillation and reinforcement learning (RL) paradigms. In this...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2602.11008v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2602.12125v1)
 
-*Last updated: 2026-02-12 02:53 UTC*
+*Last updated: 2026-02-13 02:53 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
