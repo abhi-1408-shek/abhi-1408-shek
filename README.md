@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation**
+**📄 UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**
 
-👥 *Authors*: Wenkai Yang, Weijie Liu, Ruobing Xie et al.
+👥 *Authors*: Leon Liangyu Chen, Haoyu Ma, Zhipeng Fan et al.
 
-📝 *Abstract*: On-policy distillation (OPD), which aligns the student with the teacher's logit distribution on student-generated trajectories, has demonstrated strong empirical gains in improving student performance and often outperforms off-policy distillation and reinforcement learning (RL) paradigms. In this...
+📝 *Abstract*: Unified models can handle both multimodal understanding and generation within a single architecture, yet they typically operate in a single pass without iteratively refining their outputs. Many multimodal tasks, especially those involving complex spatial compositions, multiple interacting objects...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2602.12125v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2602.12279v1)
 
-*Last updated: 2026-02-13 02:53 UTC*
+*Last updated: 2026-02-14 02:41 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
