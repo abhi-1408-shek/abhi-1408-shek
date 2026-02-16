@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**
+**📄 Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos**
 
-👥 *Authors*: Leon Liangyu Chen, Haoyu Ma, Zhipeng Fan et al.
+👥 *Authors*: Albert J. Zhai, Kuo-Hao Zeng, Jiasen Lu et al.
 
-📝 *Abstract*: Unified models can handle both multimodal understanding and generation within a single architecture, yet they typically operate in a single pass without iteratively refining their outputs. Many multimodal tasks, especially those involving complex spatial compositions, multiple interacting objects...
+📝 *Abstract*: The ability to learn manipulation skills by watching videos of humans has the potential to unlock a new source of highly scalable data for robot learning. Here, we tackle prehensile manipulation, in which tasks involve grasping an object before performing various post-grasp motions. Human videos ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2602.12279v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2602.13197v1)
 
-*Last updated: 2026-02-15 02:54 UTC*
+*Last updated: 2026-02-16 02:49 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
