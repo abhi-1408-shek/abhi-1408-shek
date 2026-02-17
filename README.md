@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos**
+**📄 Learning Part-Aware Dense 3D Feature Field for Generalizable Articulated Object Manipulation**
 
-👥 *Authors*: Albert J. Zhai, Kuo-Hao Zeng, Jiasen Lu et al.
+👥 *Authors*: Yue Chen, Muqing Jiang, Kaifeng Zheng et al.
 
-📝 *Abstract*: The ability to learn manipulation skills by watching videos of humans has the potential to unlock a new source of highly scalable data for robot learning. Here, we tackle prehensile manipulation, in which tasks involve grasping an object before performing various post-grasp motions. Human videos ...
+📝 *Abstract*: Articulated object manipulation is essential for various real-world robotic tasks, yet generalizing across diverse objects remains a major challenge. A key to generalization lies in understanding functional parts (e.g., door handles and knobs), which indicate where and how to manipulate across di...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2602.13197v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2602.14193v1)
 
-*Last updated: 2026-02-16 02:49 UTC*
+*Last updated: 2026-02-17 02:46 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
