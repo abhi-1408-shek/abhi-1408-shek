@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Learning Part-Aware Dense 3D Feature Field for Generalizable Articulated Object Manipulation**
+**📄 Knowledge-Embedded Latent Projection for Robust Representation Learning**
 
-👥 *Authors*: Yue Chen, Muqing Jiang, Kaifeng Zheng et al.
+👥 *Authors*: Weijing Tang, Ming Yuan, Zongqi Xia et al.
 
-📝 *Abstract*: Articulated object manipulation is essential for various real-world robotic tasks, yet generalizing across diverse objects remains a major challenge. A key to generalization lies in understanding functional parts (e.g., door handles and knobs), which indicate where and how to manipulate across di...
+📝 *Abstract*: Latent space models are widely used for analyzing high-dimensional discrete data matrices, such as patient-feature matrices in electronic health records (EHRs), by capturing complex dependence structures through low-dimensional embeddings. However, estimation becomes challenging in the imbalanced...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2602.14193v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2602.16709v1)
 
-*Last updated: 2026-02-17 02:46 UTC*
+*Last updated: 2026-02-19 02:49 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
