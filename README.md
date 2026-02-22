@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Knowledge-Embedded Latent Projection for Robust Representation Learning**
+**📄 Sink-Aware Pruning for Diffusion Language Models**
 
-👥 *Authors*: Weijing Tang, Ming Yuan, Zongqi Xia et al.
+👥 *Authors*: Aidar Myrzakhan, Tianyi Li, Bowei Guo et al.
 
-📝 *Abstract*: Latent space models are widely used for analyzing high-dimensional discrete data matrices, such as patient-feature matrices in electronic health records (EHRs), by capturing complex dependence structures through low-dimensional embeddings. However, estimation becomes challenging in the imbalanced...
+📝 *Abstract*: Diffusion Language Models (DLMs) incur high inference cost due to iterative denoising, motivating efficient pruning. Existing pruning heuristics largely inherited from autoregressive (AR) LLMs, typically preserve attention sink tokens because AR sinks serve as stable global anchors. We show that ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2602.16709v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2602.17664v1)
 
-*Last updated: 2026-02-19 02:49 UTC*
+*Last updated: 2026-02-22 02:50 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
