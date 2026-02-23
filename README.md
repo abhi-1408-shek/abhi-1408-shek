@@ -162,8 +162,8 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 | | |
 |---|---|
-| **[summer-of-code-2024](https://github.com/abhi-1408-shek/summer-of-code-2024)** | 5-week long hackathon spanning across 4 tracks |
-| 🔤 Multiple | ⭐ 0 stars |
+| **[Leetcode-Solutions](https://github.com/abhi-1408-shek/Leetcode-Solutions)** | This repository is managed by Abhishek Commit Bot |
+| 🔤 Java | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
@@ -179,7 +179,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Feb 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-02-22*
+*Auto-updated: 2026-02-23*
 <!--END_SECTION:unique-->
 
 <br>
