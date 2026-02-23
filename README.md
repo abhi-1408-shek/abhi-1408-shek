@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Sink-Aware Pruning for Diffusion Language Models**
+**📄 Assigning Confidence: K-partition Ensembles**
 
-👥 *Authors*: Aidar Myrzakhan, Tianyi Li, Bowei Guo et al.
+👥 *Authors*: Aggelos Semoglou, John Pavlopoulos
 
-📝 *Abstract*: Diffusion Language Models (DLMs) incur high inference cost due to iterative denoising, motivating efficient pruning. Existing pruning heuristics largely inherited from autoregressive (AR) LLMs, typically preserve attention sink tokens because AR sinks serve as stable global anchors. We show that ...
+📝 *Abstract*: Clustering is widely used for unsupervised structure discovery, yet it offers limited insight into how reliable each individual assignment is. Diagnostics, such as convergence behavior or objective values, may reflect global quality, but they do not indicate whether particular instances are assig...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2602.17664v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2602.18435v1)
 
-*Last updated: 2026-02-22 02:50 UTC*
+*Last updated: 2026-02-23 02:50 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
