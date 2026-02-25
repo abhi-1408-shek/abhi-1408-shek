@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Assigning Confidence: K-partition Ensembles**
+**📄 Scaling Vision Transformers: Evaluating DeepSpeed for Image-Centric Workloads**
 
-👥 *Authors*: Aggelos Semoglou, John Pavlopoulos
+👥 *Authors*: Huy Trinh, Rebecca Ma, Zeqi Yu et al.
 
-📝 *Abstract*: Clustering is widely used for unsupervised structure discovery, yet it offers limited insight into how reliable each individual assignment is. Diagnostics, such as convergence behavior or objective values, may reflect global quality, but they do not indicate whether particular instances are assig...
+📝 *Abstract*: Vision Transformers (ViTs) have demonstrated remarkable potential in image processing tasks by utilizing self-attention mechanisms to capture global relationships within data. However, their scalability is hindered by significant computational and memory demands, especially for large-scale models...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2602.18435v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2602.21081v1)
 
-*Last updated: 2026-02-23 02:50 UTC*
+*Last updated: 2026-02-25 02:48 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
