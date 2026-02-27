@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Disease Progression and Subtype Modeling for Combined Discrete and Continuous Input Data**
+**📄 Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments**
 
-👥 *Authors*: Sterre de Jonge, Elisabeth J. Vinke, Meike W. Vernooij et al.
+👥 *Authors*: Evangelia Christakopoulou, Vivekkumar Patel, Hemanth Velaga et al.
 
-📝 *Abstract*: Disease progression modeling provides a robust framework to identify long-term disease trajectories from short-term biomarker data. It is a valuable tool to gain a deeper understanding of diseases with a long disease trajectory, such as Alzheimer's disease. A key limitation of most disease progre...
+📝 *Abstract*: Large-scale commercial search systems optimize for relevance to drive successful sessions that help users find what they are looking for. To maximize relevance, we leverage two complementary objectives: behavioral relevance (results users tend to click or download) and textual relevance (a result...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2602.22018v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2602.23234v1)
 
-*Last updated: 2026-02-26 02:43 UTC*
+*Last updated: 2026-02-27 02:41 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
