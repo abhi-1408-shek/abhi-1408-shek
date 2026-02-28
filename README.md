@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments**
+**📄 Model Agreement via Anchoring**
 
-👥 *Authors*: Evangelia Christakopoulou, Vivekkumar Patel, Hemanth Velaga et al.
+👥 *Authors*: Eric Eaton, Surbhi Goel, Marcel Hussing et al.
 
-📝 *Abstract*: Large-scale commercial search systems optimize for relevance to drive successful sessions that help users find what they are looking for. To maximize relevance, we leverage two complementary objectives: behavioral relevance (results users tend to click or download) and textual relevance (a result...
+📝 *Abstract*: Numerous lines of aim to control $	extit{model disagreement}$ -- the extent to which two machine learning models disagree in their predictions. We adopt a simple and standard notion of model disagreement in real-valued prediction problems, namely the expected squared difference in predictions be...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2602.23234v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2602.23360v1)
 
-*Last updated: 2026-02-27 02:41 UTC*
+*Last updated: 2026-02-28 02:30 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
