@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Model Agreement via Anchoring**
+**📄 Better Learning-Augmented Spanning Tree Algorithms via Metric Forest Completion**
 
-👥 *Authors*: Eric Eaton, Surbhi Goel, Marcel Hussing et al.
+👥 *Authors*: Nate Veldt, Thomas Stanley, Benjamin W. Priest et al.
 
-📝 *Abstract*: Numerous lines of aim to control $	extit{model disagreement}$ -- the extent to which two machine learning models disagree in their predictions. We adopt a simple and standard notion of model disagreement in real-valued prediction problems, namely the expected squared difference in predictions be...
+📝 *Abstract*: We present improved learning-augmented algorithms for finding an approximate minimum spanning tree (MST) for points in an arbitrary metric space. Our work follows a recent framework called metric forest completion (MFC), where the learned input is a forest that must be given additional edges to f...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2602.23360v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2602.24232v1)
 
-*Last updated: 2026-03-01 03:13 UTC*
+*Last updated: 2026-03-02 02:44 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
