@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization**
+**📄 From Complex Dynamics to DynFormer: Rethinking Transformers for PDEs**
 
-👥 *Authors*: Theophilus Amaefuna, Hitesh Vaidya, Anshuman Chhabra et al.
+👥 *Authors*: Pengyu Lai, Yixiao Chen, Dewu Yang et al.
 
-📝 *Abstract*: Layer-wise capacity in large language models is highly non-uniform: some layers contribute disproportionately to loss reduction while others are near-redundant. Existing methods for exploiting this non-uniformity, such as influence-function-based layer scoring, produce sensitivity estimates but o...
+📝 *Abstract*: Partial differential equations (PDEs) are fundamental for modeling complex physical systems, yet classical numerical solvers face prohibitive computational costs in high-dimensional and multi-scale regimes. While Transformer-based neural operators have emerged as powerful data-driven alternatives...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.00910v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.03112v1)
 
-*Last updated: 2026-03-03 02:47 UTC*
+*Last updated: 2026-03-04 02:40 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
