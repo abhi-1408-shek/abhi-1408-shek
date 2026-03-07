@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Reducing hyperparameter sensitivity in measurement-feedback based Ising machines**
+**📄 RoboPocket: Improve Robot Policies Instantly with Your Phone**
 
-👥 *Authors*: Toon Sevenants, Guy Van der Sande, Guy Verschaffelt
+👥 *Authors*: Junjie Fang, Wendi Chen, Han Xue et al.
 
-📝 *Abstract*: Analog Ising machines have been proposed as heuristic hardware solvers for combinatorial optimization problems, with the potential to outperform conventional approaches, provided that their hyperparameters are carefully tuned. Their temporal evolution is often described using time-continuous dyna...
+📝 *Abstract*: Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predominantly operate in an open-loop manner: operators blindly collect demonstrations without knowing...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.04093v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.05504v1)
 
-*Last updated: 2026-03-05 02:43 UTC*
+*Last updated: 2026-03-07 02:33 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
