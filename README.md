@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 RoboPocket: Improve Robot Policies Instantly with Your Phone**
+**📄 BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations**
 
-👥 *Authors*: Junjie Fang, Wendi Chen, Han Xue et al.
+👥 *Authors*: Thomas Monninger, Shaoyuan Xie, Qi Alfred Chen et al.
 
-📝 *Abstract*: Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predominantly operate in an open-loop manner: operators blindly collect demonstrations without knowing...
+📝 *Abstract*: The integration of Large Language Models (LLMs) into autonomous driving has attracted growing interest for their strong reasoning and semantic understanding abilities, which are essential for handling complex decision-making and long-tail scenarios. However, existing methods typically feed LLMs w...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.05504v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.06576v1)
 
-*Last updated: 2026-03-08 02:46 UTC*
+*Last updated: 2026-03-09 02:48 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
