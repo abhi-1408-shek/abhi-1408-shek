@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations**
+**📄 Revisiting Gradient Staleness: Evaluating Distance Metrics for Asynchronous Federated Learning Aggregation**
 
-👥 *Authors*: Thomas Monninger, Shaoyuan Xie, Qi Alfred Chen et al.
+👥 *Authors*: Patrick Wilhelm, Odej Kao
 
-📝 *Abstract*: The integration of Large Language Models (LLMs) into autonomous driving has attracted growing interest for their strong reasoning and semantic understanding abilities, which are essential for handling complex decision-making and long-tail scenarios. However, existing methods typically feed LLMs w...
+📝 *Abstract*: In asynchronous federated learning (FL), client devices send updates to a central server at varying times based on their computational speed, often using stale versions of the global model. This staleness can degrade the convergence and accuracy of the global model. Previous work, such as AsyncFe...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.06576v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.08211v1)
 
-*Last updated: 2026-03-09 02:48 UTC*
+*Last updated: 2026-03-10 02:39 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
