@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Revisiting Gradient Staleness: Evaluating Distance Metrics for Asynchronous Federated Learning Aggregation**
+**📄 Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes**
 
-👥 *Authors*: Patrick Wilhelm, Odej Kao
+👥 *Authors*: Aleksei Rozanov, Arvind Renganathan, Vipin Kumar
 
-📝 *Abstract*: In asynchronous federated learning (FL), client devices send updates to a central server at varying times based on their computational speed, often using stale versions of the global model. This staleness can degrade the convergence and accuracy of the global model. Previous work, such as AsyncFe...
+📝 *Abstract*: Accurately upscaling terrestrial carbon fluxes is central to estimating the global carbon budget, yet remains challenging due to the sparse and regionally biased distribution of ground measurements. Existing data-driven upscaling products often fail to generalize beyond observed domains, leading ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.08211v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.09974v1)
 
-*Last updated: 2026-03-10 02:39 UTC*
+*Last updated: 2026-03-11 02:39 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
