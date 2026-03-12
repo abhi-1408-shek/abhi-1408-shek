@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes**
+**📄 Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation**
 
-👥 *Authors*: Aleksei Rozanov, Arvind Renganathan, Vipin Kumar
+👥 *Authors*: Tao Zhong, Yixun Hu, Dongzhe Zheng et al.
 
-📝 *Abstract*: Accurately upscaling terrestrial carbon fluxes is central to estimating the global carbon budget, yet remains challenging due to the sparse and regionally biased distribution of ground measurements. Existing data-driven upscaling products often fail to generalize beyond observed domains, leading ...
+📝 *Abstract*: We propose Neural Field Thermal Tomography (NeFTY), a differentiable physics framework for the quantitative 3D reconstruction of material properties from transient surface temperature measurements. While traditional thermography relies on pixel-wise 1D approximations that neglect lateral diffusio...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.09974v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.11045v1)
 
-*Last updated: 2026-03-11 02:39 UTC*
+*Last updated: 2026-03-12 02:44 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
