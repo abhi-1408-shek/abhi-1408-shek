@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation**
+**📄 The Latent Color Subspace: Emergent Order in High-Dimensional Chaos**
 
-👥 *Authors*: Tao Zhong, Yixun Hu, Dongzhe Zheng et al.
+👥 *Authors*: Mateusz Pach, Jessica Bader, Quentin Bouniot et al.
 
-📝 *Abstract*: We propose Neural Field Thermal Tomography (NeFTY), a differentiable physics framework for the quantitative 3D reconstruction of material properties from transient surface temperature measurements. While traditional thermography relies on pixel-wise 1D approximations that neglect lateral diffusio...
+📝 *Abstract*: Text-to-image generation models have advanced rapidly, yet achieving fine-grained control over generated images remains difficult, largely due to limited understanding of how semantic information is encoded. We develop an interpretation of the color representation in the Variational Autoencoder l...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.11045v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.12261v1)
 
-*Last updated: 2026-03-12 02:44 UTC*
+*Last updated: 2026-03-13 02:42 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
