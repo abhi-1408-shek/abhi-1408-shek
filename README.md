@@ -170,7 +170,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 |-------|-------|
 | ⏰ Coding Style | 🌅 Early Bird |
 | 📅 Most Active | Tuesday |
-| 💬 Favorite Word | `feat:` |
+| 💬 Favorite Word | `auto-update:` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
