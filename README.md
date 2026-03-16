@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 The Latent Color Subspace: Emergent Order in High-Dimensional Chaos**
+**📄 PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization**
 
-👥 *Authors*: Mateusz Pach, Jessica Bader, Quentin Bouniot et al.
+👥 *Authors*: Yangsong Zhang, Anujith Muraleedharan, Rikhat Akizhanov et al.
 
-📝 *Abstract*: Text-to-image generation models have advanced rapidly, yet achieving fine-grained control over generated images remains difficult, largely due to limited understanding of how semantic information is encoded. We develop an interpretation of the color representation in the Variational Autoencoder l...
+📝 *Abstract*: Recent progress in text-conditioned human motion generation has been largely driven by diffusion models trained on large-scale human motion data. Building on this progress, recent methods attempt to transfer such models for character animation and real robot control by applying a Whole-Body Contr...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.12261v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.13228v1)
 
-*Last updated: 2026-03-15 03:19 UTC*
+*Last updated: 2026-03-16 03:21 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
