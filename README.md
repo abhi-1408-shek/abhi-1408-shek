@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization**
+**📄 Lightweight User-Personalization Method for Closed Split Computing**
 
-👥 *Authors*: Yangsong Zhang, Anujith Muraleedharan, Rikhat Akizhanov et al.
+👥 *Authors*: Yuya Okada, Takayuki Nishio
 
-📝 *Abstract*: Recent progress in text-conditioned human motion generation has been largely driven by diffusion models trained on large-scale human motion data. Building on this progress, recent methods attempt to transfer such models for character animation and real robot control by applying a Whole-Body Contr...
+📝 *Abstract*: Split Computing enables collaborative inference between edge devices and the cloud by partitioning a deep neural network into an edge-side head and a server-side tail, reducing latency and limiting exposure of raw input data. However, inference performance often degrades in practical deployments ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.13228v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.14958v1)
 
-*Last updated: 2026-03-16 03:21 UTC*
+*Last updated: 2026-03-17 02:44 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
