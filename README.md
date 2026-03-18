@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Lightweight User-Personalization Method for Closed Split Computing**
+**📄 Efficient Reasoning on the Edge**
 
-👥 *Authors*: Yuya Okada, Takayuki Nishio
+👥 *Authors*: Yelysei Bondarenko, Thomas Hehn, Rob Hesselink et al.
 
-📝 *Abstract*: Split Computing enables collaborative inference between edge devices and the cloud by partitioning a deep neural network into an edge-side head and a server-side tail, reducing latency and limiting exposure of raw input data. However, inference performance often degrades in practical deployments ...
+📝 *Abstract*: Large language models (LLMs) with chain-of-thought reasoning achieve state-of-the-art performance across complex problem-solving tasks, but their verbose reasoning traces and large context requirements make them impractical for edge deployment. These challenges include high token generation costs...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.14958v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.16867v1)
 
-*Last updated: 2026-03-17 02:44 UTC*
+*Last updated: 2026-03-18 02:51 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
