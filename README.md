@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Efficient Reasoning on the Edge**
+**📄 Unified Spatio-Temporal Token Scoring for Efficient Video VLMs**
 
-👥 *Authors*: Yelysei Bondarenko, Thomas Hehn, Rob Hesselink et al.
+👥 *Authors*: Jianrui Zhang, Yue Yang, Rohun Tripathi et al.
 
-📝 *Abstract*: Large language models (LLMs) with chain-of-thought reasoning achieve state-of-the-art performance across complex problem-solving tasks, but their verbose reasoning traces and large context requirements make them impractical for edge deployment. These challenges include high token generation costs...
+📝 *Abstract*: Token pruning is essential for enhancing the computational efficiency of vision-language models (VLMs), particularly for video-based tasks where temporal redundancy is prevalent. Prior approaches typically prune tokens either (1) within the vision transformer (ViT) exclusively for unimodal percep...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.16867v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.18004v1)
 
-*Last updated: 2026-03-18 02:51 UTC*
+*Last updated: 2026-03-19 02:52 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
