@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Unified Spatio-Temporal Token Scoring for Efficient Video VLMs**
+**📄 NavTrust: Benchmarking Trustworthiness for Embodied Navigation**
 
-👥 *Authors*: Jianrui Zhang, Yue Yang, Rohun Tripathi et al.
+👥 *Authors*: Huaide Jiang, Yash Chaudhary, Yuping Wang et al.
 
-📝 *Abstract*: Token pruning is essential for enhancing the computational efficiency of vision-language models (VLMs), particularly for video-based tasks where temporal redundancy is prevalent. Prior approaches typically prune tokens either (1) within the vision transformer (ViT) exclusively for unimodal percep...
+📝 *Abstract*: There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agents navigate to a specified target object. However, existing work primarily evaluates model perform...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.18004v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.19229v1)
 
-*Last updated: 2026-03-19 02:52 UTC*
+*Last updated: 2026-03-20 02:43 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
