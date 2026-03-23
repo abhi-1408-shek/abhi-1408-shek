@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 NavTrust: Benchmarking Trustworthiness for Embodied Navigation**
+**📄 From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering**
 
-👥 *Authors*: Huaide Jiang, Yash Chaudhary, Yuping Wang et al.
+👥 *Authors*: Xinyi Shang, Yi Tang, Jiacheng Cui et al.
 
-📝 *Abstract*: There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agents navigate to a specified target object. However, existing work primarily evaluates model perform...
+📝 *Abstract*: Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtle yet consequential edits outside the mask are treated as natural. We reformulate VLM image tampe...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.19229v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.20193v1)
 
-*Last updated: 2026-03-22 02:53 UTC*
+*Last updated: 2026-03-23 02:53 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
