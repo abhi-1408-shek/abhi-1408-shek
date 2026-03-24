@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering**
+**📄 ROM: Real-time Overthinking Mitigation via Streaming Detection and Intervention**
 
-👥 *Authors*: Xinyi Shang, Yi Tang, Jiacheng Cui et al.
+👥 *Authors*: Xinyan Wang, Xiaogeng Liu, Chaowei Xiao
 
-📝 *Abstract*: Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtle yet consequential edits outside the mask are treated as natural. We reformulate VLM image tampe...
+📝 *Abstract*: Large Reasoning Models (LRMs) achieve strong accuracy on challenging tasks by generating long Chain-of-Thought traces, but suffer from overthinking. Even after reaching the correct answer, they continue generating redundant reasoning steps. This behavior increases latency and compute cost and can...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.20193v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.22016v1)
 
-*Last updated: 2026-03-23 02:53 UTC*
+*Last updated: 2026-03-24 02:45 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
