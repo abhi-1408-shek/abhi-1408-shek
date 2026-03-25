@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 ROM: Real-time Overthinking Mitigation via Streaming Detection and Intervention**
+**📄 Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning**
 
-👥 *Authors*: Xinyan Wang, Xiaogeng Liu, Chaowei Xiao
+👥 *Authors*: Chandler B. Smith, S. Hales Swift, Andrew Steyer et al.
 
-📝 *Abstract*: Large Reasoning Models (LRMs) achieve strong accuracy on challenging tasks by generating long Chain-of-Thought traces, but suffer from overthinking. Even after reaching the correct answer, they continue generating redundant reasoning steps. This behavior increases latency and compute cost and can...
+📝 *Abstract*: Accurate estimation of aerodynamic state variables such as freestream velocity and angle of attack (AoA) is important for aerodynamic load prediction, flight control, and model validation. This work presents a non-intrusive method for estimating vehicle velocity and AoA from structural vibration ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.22016v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.23496v1)
 
-*Last updated: 2026-03-24 02:45 UTC*
+*Last updated: 2026-03-25 02:50 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
