@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning**
+**📄 Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**
 
-👥 *Authors*: Chandler B. Smith, S. Hales Swift, Andrew Steyer et al.
+👥 *Authors*: Zehao Wang, Huaide Jiang, Shuaiwu Dong et al.
 
-📝 *Abstract*: Accurate estimation of aerodynamic state variables such as freestream velocity and angle of attack (AoA) is important for aerodynamic load prediction, flight control, and model validation. This work presents a non-intrusive method for estimating vehicle velocity and AoA from structural vibration ...
+📝 *Abstract*: Human driving behavior is inherently personal, which is shaped by long-term habits and influenced by short-term intentions. Individuals differ in how they accelerate, brake, merge, yield, and overtake across diverse situations. However, existing end-to-end autonomous driving systems either optimi...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.23496v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.25740v1)
 
-*Last updated: 2026-03-25 02:50 UTC*
+*Last updated: 2026-03-27 03:19 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
