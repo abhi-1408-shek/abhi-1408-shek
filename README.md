@@ -168,9 +168,9 @@ CSS                      2 repos             ██░░░░░░░░░�
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | 🌅 Early Bird |
+| ⏰ Coding Style | ☀️ Day Coder |
 | 📅 Most Active | Tuesday |
-| 💬 Favorite Word | `auto-update:` |
+| 💬 Favorite Word | `feat:` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
