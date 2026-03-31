@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**
+**📄 Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds**
 
-👥 *Authors*: Zehao Wang, Huaide Jiang, Shuaiwu Dong et al.
+👥 *Authors*: N Alex Cayco Gajic, Arthur Pellegrino
 
-📝 *Abstract*: Human driving behavior is inherently personal, which is shaped by long-term habits and influenced by short-term intentions. Individuals differ in how they accelerate, brake, merge, yield, and overtake across diverse situations. However, existing end-to-end autonomous driving systems either optimi...
+📝 *Abstract*: Similarity measures are widely used to interpret the representational geometries used by neural networks to solve tasks. Yet, because existing methods compare the extrinsic geometry of representations in state space, rather than their intrinsic geometry, they may fail to capture subtle yet crucia...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.25740v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.28764v1)
 
-*Last updated: 2026-03-28 02:49 UTC*
+*Last updated: 2026-03-31 03:17 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
