@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds**
+**📄 Aligned, Orthogonal or In-conflict: When can we safely optimize Chain-of-Thought?**
 
-👥 *Authors*: N Alex Cayco Gajic, Arthur Pellegrino
+👥 *Authors*: Max Kaufmann, David Lindner, Roland S. Zimmermann et al.
 
-📝 *Abstract*: Similarity measures are widely used to interpret the representational geometries used by neural networks to solve tasks. Yet, because existing methods compare the extrinsic geometry of representations in state space, rather than their intrinsic geometry, they may fail to capture subtle yet crucia...
+📝 *Abstract*: Chain-of-Thought (CoT) monitoring, in which automated systems monitor the CoT of an LLM, is a promising approach for effectively overseeing AI systems. However, the extent to which a model's CoT helps us oversee the model - the monitorability of the CoT - can be affected by training, for instance...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.28764v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2603.30036v1)
 
-*Last updated: 2026-03-31 03:17 UTC*
+*Last updated: 2026-04-01 03:30 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
