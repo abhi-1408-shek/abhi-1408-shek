@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Aligned, Orthogonal or In-conflict: When can we safely optimize Chain-of-Thought?**
+**📄 LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED)**
 
-👥 *Authors*: Max Kaufmann, David Lindner, Roland S. Zimmermann et al.
+👥 *Authors*: Yuxuan Bao, Xingyue Zhang, J. Nathan Kutz
 
-📝 *Abstract*: Chain-of-Thought (CoT) monitoring, in which automated systems monitor the CoT of an LLM, is a promising approach for effectively overseeing AI systems. However, the extent to which a model's CoT helps us oversee the model - the monitorability of the CoT - can be affected by training, for instance...
+📝 *Abstract*: Reconstructing full spatio-temporal dynamics from sparse observations in both space and time remains a central challenge in complex systems, as measurements can be spatially incomplete and can be also limited to narrow temporal windows. Yet approximating the complete spatio-temporal trajectory is...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2603.30036v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.01216v1)
 
-*Last updated: 2026-04-01 03:30 UTC*
+*Last updated: 2026-04-02 02:54 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
