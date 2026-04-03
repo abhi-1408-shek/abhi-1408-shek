@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED)**
+**📄 ActionParty: Multi-Subject Action Binding in Generative Video Games**
 
-👥 *Authors*: Yuxuan Bao, Xingyue Zhang, J. Nathan Kutz
+👥 *Authors*: Alexander Pondaven, Ziyi Wu, Igor Gilitschenski et al.
 
-📝 *Abstract*: Reconstructing full spatio-temporal dynamics from sparse observations in both space and time remains a central challenge in complex systems, as measurements can be spatially incomplete and can be also limited to narrow temporal windows. Yet approximating the complete spatio-temporal trajectory is...
+📝 *Abstract*: Recent advances in video diffusion have enabled the development of "world models" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings, failing to control multiple agents simultaneously in a scene. In this work, we tackle a fundamen...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.01216v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.02330v1)
 
-*Last updated: 2026-04-02 02:54 UTC*
+*Last updated: 2026-04-03 02:57 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
