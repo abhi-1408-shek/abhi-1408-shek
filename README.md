@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 ActionParty: Multi-Subject Action Binding in Generative Video Games**
+**📄 Enhancing Robustness of Federated Learning via Server Learning**
 
-👥 *Authors*: Alexander Pondaven, Ziyi Wu, Igor Gilitschenski et al.
+👥 *Authors*: Van Sy Mai, Kushal Chakrabarti, Richard J. La et al.
 
-📝 *Abstract*: Recent advances in video diffusion have enabled the development of "world models" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings, failing to control multiple agents simultaneously in a scene. In this work, we tackle a fundamen...
+📝 *Abstract*: This paper explores the use of server learning for enhancing the robustness of federated learning against malicious attacks even when clients' training data are not independent and identically distributed. We propose a heuristic algorithm that uses server learning and client update filtering in c...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.02330v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.03226v1)
 
-*Last updated: 2026-04-05 03:25 UTC*
+*Last updated: 2026-04-06 03:28 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
