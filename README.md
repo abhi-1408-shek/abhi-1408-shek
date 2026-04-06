@@ -165,15 +165,15 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 | | |
 |---|---|
-| **[Leetcode-Solutions](https://github.com/abhi-1408-shek/Leetcode-Solutions)** | This repository is managed by Abhishek Commit Bot |
-| 🔤 Java | ⭐ 0 stars |
+| **[SIH_RAG](https://github.com/abhi-1408-shek/SIH_RAG)** | RAG prototype built during SIH’25 Finale |
+| 🔤 HTML | ⭐ 4 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
 | ⏰ Coding Style | 🌅 Early Bird |
 | 📅 Most Active | Tuesday |
-| 💬 Favorite Word | `auto-update:` |
+| 💬 Favorite Word | `feat:` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
@@ -182,7 +182,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Apr 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-04-05*
+*Auto-updated: 2026-04-06*
 <!--END_SECTION:unique-->
 
 <br>
