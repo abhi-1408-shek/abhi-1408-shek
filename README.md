@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Enhancing Robustness of Federated Learning via Server Learning**
+**📄 In-Place Test-Time Training**
 
-👥 *Authors*: Van Sy Mai, Kushal Chakrabarti, Richard J. La et al.
+👥 *Authors*: Guhao Feng, Shengjie Luo, Kai Hua et al.
 
-📝 *Abstract*: This paper explores the use of server learning for enhancing the robustness of federated learning against malicious attacks even when clients' training data are not independent and identically distributed. We propose a heuristic algorithm that uses server learning and client update filtering in c...
+📝 *Abstract*: The static ``train then deploy" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real-world tasks. Test-Time Training (TTT) offers a compelling alternative by updating a subset of mo...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.03226v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.06169v1)
 
-*Last updated: 2026-04-06 03:28 UTC*
+*Last updated: 2026-04-08 03:20 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
