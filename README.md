@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 In-Place Test-Time Training**
+**📄 Fast Spatial Memory with Elastic Test-Time Training**
 
-👥 *Authors*: Guhao Feng, Shengjie Luo, Kai Hua et al.
+👥 *Authors*: Ziqiao Ma, Xueyang Yu, Haoyu Zhen et al.
 
-📝 *Abstract*: The static ``train then deploy" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real-world tasks. Test-Time Training (TTT) offers a compelling alternative by updating a subset of mo...
+📝 *Abstract*: Large Chunk Test-Time Training (LaCT) has shown strong performance on long-context 3D reconstruction, but its fully plastic inference-time updates remain vulnerable to catastrophic forgetting and overfitting. As a result, LaCT is typically instantiated with a single large chunk spanning the full ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.06169v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.07350v1)
 
-*Last updated: 2026-04-08 03:20 UTC*
+*Last updated: 2026-04-09 02:55 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
