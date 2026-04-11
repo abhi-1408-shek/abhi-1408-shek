@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Fast Spatial Memory with Elastic Test-Time Training**
+**📄 Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding**
 
-👥 *Authors*: Ziqiao Ma, Xueyang Yu, Haoyu Zhen et al.
+👥 *Authors*: Mu Nan, Muquan Yu, Weijian Mai et al.
 
-📝 *Abstract*: Large Chunk Test-Time Training (LaCT) has shown strong performance on long-context 3D reconstruction, but its fully plastic inference-time updates remain vulnerable to catastrophic forgetting and overfitting. As a result, LaCT is typically instantiated with a single large chunk spanning the full ...
+📝 *Abstract*: Visual decoding from brain signals is a key challenge at the intersection of computer vision and neuroscience, requiring methods that bridge neural representations and computational models of vision. A field-wide goal is to achieve generalizable, cross-subject models. A major obstacle towards thi...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.07350v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.08537v1)
 
-*Last updated: 2026-04-09 02:55 UTC*
+*Last updated: 2026-04-11 02:52 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
