@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding**
+**📄 Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism**
 
-👥 *Authors*: Mu Nan, Muquan Yu, Weijian Mai et al.
+👥 *Authors*: Hadas Orgad, Boyi Wei, Kaden Zheng et al.
 
-📝 *Abstract*: Visual decoding from brain signals is a key challenge at the intersection of computer vision and neuroscience, requiring methods that bridge neural representations and computational models of vision. A field-wide goal is to achieve generalizable, cross-subject models. A major obstacle towards thi...
+📝 *Abstract*: Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can induce ``emergent misalignment'' that generalizes broadly. Whether this brittleness reflects a f...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.08537v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.09544v1)
 
-*Last updated: 2026-04-12 03:32 UTC*
+*Last updated: 2026-04-13 03:38 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
