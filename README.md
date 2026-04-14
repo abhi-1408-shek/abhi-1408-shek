@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism**
+**📄 Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems**
 
-👥 *Authors*: Hadas Orgad, Boyi Wei, Kaden Zheng et al.
+👥 *Authors*: Mohammed Ezzaldin Babiker Abdullah
 
-📝 *Abstract*: Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can induce ``emergent misalignment'' that generalizes broadly. Whether this brittleness reflects a f...
+📝 *Abstract*: The stable operation of autonomous off-grid photovoltaic systems dictates reliance on solar forecasting algorithms that respect atmospheric thermodynamics. Contemporary deep learning models consistently exhibit critical anomalies, primarily severe temporal phase lags during cloud transients and p...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.09544v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.11807v1)
 
-*Last updated: 2026-04-13 03:38 UTC*
+*Last updated: 2026-04-14 03:28 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
