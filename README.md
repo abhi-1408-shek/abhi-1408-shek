@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems**
+**📄 CLAD: Efficient Log Anomaly Detection Directly on Compressed Representations**
 
-👥 *Authors*: Mohammed Ezzaldin Babiker Abdullah
+👥 *Authors*: Benzhao Tang, Shiyu Yang
 
-📝 *Abstract*: The stable operation of autonomous off-grid photovoltaic systems dictates reliance on solar forecasting algorithms that respect atmospheric thermodynamics. Contemporary deep learning models consistently exhibit critical anomalies, primarily severe temporal phase lags during cloud transients and p...
+📝 *Abstract*: The explosive growth of system logs makes streaming compression essential, yet existing log anomaly detection (LAD) methods incur severe pre-processing overhead by requiring full decompression and parsing. We introduce CLAD, the first deep learning framework to perform LAD directly on compressed ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.11807v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.13024v1)
 
-*Last updated: 2026-04-14 03:28 UTC*
+*Last updated: 2026-04-15 03:27 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
