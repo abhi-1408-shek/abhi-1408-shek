@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 CLAD: Efficient Log Anomaly Detection Directly on Compressed Representations**
+**📄 From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space**
 
-👥 *Authors*: Benzhao Tang, Shiyu Yang
+👥 *Authors*: Yuqiao Tan, Minzheng Wang, Bo Liu et al.
 
-📝 *Abstract*: The explosive growth of system logs makes streaming compression essential, yet existing log anomaly detection (LAD) methods incur severe pre-processing overhead by requiring full decompression and parsing. We introduce CLAD, the first deep learning framework to perform LAD directly on compressed ...
+📝 *Abstract*: While reinforcement learning with verifiable rewards (RLVR) significantly enhances LLM reasoning by optimizing the conditional distribution P(y|x), its potential is fundamentally bounded by the base model's existing output distribution. Optimizing the marginal distribution P(y) in the Pre-train S...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.13024v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.14142v1)
 
-*Last updated: 2026-04-15 03:27 UTC*
+*Last updated: 2026-04-16 03:34 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
