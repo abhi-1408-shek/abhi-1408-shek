@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space**
+**📄 Generalization in LLM Problem Solving: The Case of the Shortest Path**
 
-👥 *Authors*: Yuqiao Tan, Minzheng Wang, Bo Liu et al.
+👥 *Authors*: Yao Tong, Jiayuan Ye, Anastasia Borovykh et al.
 
-📝 *Abstract*: While reinforcement learning with verifiable rewards (RLVR) significantly enhances LLM reasoning by optimizing the conditional distribution P(y|x), its potential is fundamentally bounded by the base model's existing output distribution. Optimizing the marginal distribution P(y) in the Pre-train S...
+📝 *Abstract*: Whether language models can systematically generalize remains actively debated. Yet empirical performance is jointly shaped by multiple factors such as training data, training paradigms, and inference-time strategies, making failures difficult to interpret. We introduce a controlled synthetic env...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.14142v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.15306v1)
 
-*Last updated: 2026-04-16 03:34 UTC*
+*Last updated: 2026-04-17 03:30 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
