@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Generalization in LLM Problem Solving: The Case of the Shortest Path**
+**📄 Geometric regularization of autoencoders via observed stochastic dynamics**
 
-👥 *Authors*: Yao Tong, Jiayuan Ye, Anastasia Borovykh et al.
+👥 *Authors*: Sean Hill, Felix X. -F. Ye
 
-📝 *Abstract*: Whether language models can systematically generalize remains actively debated. Yet empirical performance is jointly shaped by multiple factors such as training data, training paradigms, and inference-time strategies, making failures difficult to interpret. We introduce a controlled synthetic env...
+📝 *Abstract*: Stochastic dynamical systems with slow or metastable behavior evolve, on long time scales, on an unknown low-dimensional manifold in high-dimensional ambient space. Building a reduced simulator from short-burst ambient ensembles is a long-standing problem: local-chart methods like ATLAS suffer fr...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.15306v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.16282v1)
 
-*Last updated: 2026-04-19 03:36 UTC*
+*Last updated: 2026-04-20 03:38 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
