@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Geometric regularization of autoencoders via observed stochastic dynamics**
+**📄 MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval**
 
-👥 *Authors*: Sean Hill, Felix X. -F. Ye
+👥 *Authors*: Shaden Alshammari, Kevin Wen, Abrar Zainal et al.
 
-📝 *Abstract*: Stochastic dynamical systems with slow or metastable behavior evolve, on long time scales, on an unknown low-dimensional manifold in high-dimensional ambient space. Building a reduced simulator from short-burst ambient ensembles is a long-standing problem: local-chart methods like ATLAS suffer fr...
+📝 *Abstract*: Mathematical problem solving remains a challenging test of reasoning for large language and multimodal models, yet existing benchmarks are limited in size, language coverage, and task diversity. We introduce MathNet, a high-quality, large-scale, multimodal, and multilingual dataset of Olympiad-le...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.16282v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.18584v1)
 
-*Last updated: 2026-04-20 03:38 UTC*
+*Last updated: 2026-04-21 03:31 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
