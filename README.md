@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval**
+**📄 Generalization at the Edge of Stability**
 
-👥 *Authors*: Shaden Alshammari, Kevin Wen, Abrar Zainal et al.
+👥 *Authors*: Mario Tuci, Caner Korkmaz, Umut Şimşekli et al.
 
-📝 *Abstract*: Mathematical problem solving remains a challenging test of reasoning for large language and multimodal models, yet existing benchmarks are limited in size, language coverage, and task diversity. We introduce MathNet, a high-quality, large-scale, multimodal, and multilingual dataset of Olympiad-le...
+📝 *Abstract*: Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this regime often yields improved generalization performance, yet the underlying mechanism remains poorl...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.18584v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.19740v1)
 
-*Last updated: 2026-04-21 03:31 UTC*
+*Last updated: 2026-04-22 03:29 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
