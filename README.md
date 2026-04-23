@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Generalization at the Edge of Stability**
+**📄 FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels**
 
-👥 *Authors*: Mario Tuci, Caner Korkmaz, Umut Şimşekli et al.
+👥 *Authors*: Sina Gholami, Abdulmoneam Ali, Tania Haghighi et al.
 
-📝 *Abstract*: Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this regime often yields improved generalization performance, yet the underlying mechanism remains poorl...
+📝 *Abstract*: Federated learning (FL) enables collaborative model training without sharing raw data; however, the presence of noisy labels across distributed clients can severely degrade the learning performance. In this paper, we propose FedSIR, a multi-stage framework for robust FL under noisy labels. Differ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.19740v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.20825v1)
 
-*Last updated: 2026-04-22 03:29 UTC*
+*Last updated: 2026-04-23 03:32 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
