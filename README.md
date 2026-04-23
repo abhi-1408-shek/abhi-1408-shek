@@ -170,7 +170,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | 🌆 Evening Hacker |
+| ⏰ Coding Style | 🌅 Early Bird |
 | 📅 Most Active | Tuesday |
 | 💬 Favorite Word | `feat:` |
 
