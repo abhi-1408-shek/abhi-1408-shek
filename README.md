@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels**
+**📄 Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**
 
-👥 *Authors*: Sina Gholami, Abdulmoneam Ali, Tania Haghighi et al.
+👥 *Authors*: Nicolae Filat, Ahmed Hussain, Konstantinos Kalogiannis et al.
 
-📝 *Abstract*: Federated learning (FL) enables collaborative model training without sharing raw data; however, the presence of noisy labels across distributed clients can severely degrade the learning performance. In this paper, we propose FedSIR, a multi-stage framework for robust FL under noisy labels. Differ...
+📝 *Abstract*: Streaming Continual Learning (CL) typically converts a continuous stream into a sequence of discrete tasks through temporal partitioning. We argue that this temporal taskification step is not a neutral preprocessing choice, but a structural component of evaluation: different valid splits of the s...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.20825v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.21930v1)
 
-*Last updated: 2026-04-23 03:32 UTC*
+*Last updated: 2026-04-24 03:35 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
