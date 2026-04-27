@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**
+**📄 Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection**
 
-👥 *Authors*: Nicolae Filat, Ahmed Hussain, Konstantinos Kalogiannis et al.
+👥 *Authors*: Sijie Li, Shanda Li, Haowei Lin et al.
 
-📝 *Abstract*: Streaming Continual Learning (CL) typically converts a continuous stream into a sequence of discrete tasks through temporal partitioning. We argue that this temporal taskification step is not a neutral preprocessing choice, but a structural component of evaluation: different valid splits of the s...
+📝 *Abstract*: Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot experiments is already a major budget-allocation problem rather than a routine preprocessing step....
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.21930v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.22753v1)
 
-*Last updated: 2026-04-26 03:41 UTC*
+*Last updated: 2026-04-27 03:47 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
