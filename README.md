@@ -162,7 +162,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 | | |
 |---|---|
-| **[WEB_DEVELOPMENT_FULL](https://github.com/abhi-1408-shek/WEB_DEVELOPMENT_FULL)** | FULL COURSE OF WEBDEV |
+| **[summer-of-code-2024](https://github.com/abhi-1408-shek/summer-of-code-2024)** | 5-week long hackathon spanning across 4 tracks |
 | 🔤 Multiple | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
@@ -170,7 +170,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 |-------|-------|
 | ⏰ Coding Style | 🌅 Early Bird |
 | 📅 Most Active | Tuesday |
-| 💬 Favorite Word | `auto-update:` |
+| 💬 Favorite Word | `feat:` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
@@ -179,7 +179,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Apr 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-04-26*
+*Auto-updated: 2026-04-27*
 <!--END_SECTION:unique-->
 
 <br>
