@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection**
+**📄 Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components**
 
-👥 *Authors*: Sijie Li, Shanda Li, Haowei Lin et al.
+👥 *Authors*: Griffin Pitts, Muntasir Hoq, Peter Brusilovsky et al.
 
-📝 *Abstract*: Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot experiments is already a major budget-allocation problem rather than a routine preprocessing step....
+📝 *Abstract*: Adaptive programming practice often relies on fixed libraries of worked examples and practice problems, which require substantial authoring effort and may not correspond well to the logical errors and partial solutions students produce while writing code. As a result, students may receive learnin...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.22753v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.24758v1)
 
-*Last updated: 2026-04-27 03:47 UTC*
+*Last updated: 2026-04-28 03:52 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
