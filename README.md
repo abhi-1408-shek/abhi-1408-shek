@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components**
+**📄 Recursive Multi-Agent Systems**
 
-👥 *Authors*: Griffin Pitts, Muntasir Hoq, Peter Brusilovsky et al.
+👥 *Authors*: Xiyuan Yang, Jiaru Zou, Rui Pan et al.
 
-📝 *Abstract*: Adaptive programming practice often relies on fixed libraries of worked examples and practice problems, which require substantial authoring effort and may not correspond well to the logical errors and partial solutions students produce while writing code. As a result, students may receive learnin...
+📝 *Abstract*: Recursive or looped language models have recently emerged as a new scaling axis by iteratively refining the same model computation over latent states to deepen reasoning. We extend such scaling principle from a single model to multi-agent systems, and ask: Can agent collaboration itself be scaled...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.24758v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.25917v1)
 
-*Last updated: 2026-04-28 03:52 UTC*
+*Last updated: 2026-04-29 03:49 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
