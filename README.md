@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Recursive Multi-Agent Systems**
+**📄 Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models**
 
-👥 *Authors*: Xiyuan Yang, Jiaru Zou, Rui Pan et al.
+👥 *Authors*: Gongbo Zhang, Wen Wang, Ye Tian et al.
 
-📝 *Abstract*: Recursive or looped language models have recently emerged as a new scaling axis by iteratively refining the same model computation over latent states to deepen reasoning. We extend such scaling principle from a single model to multi-agent systems, and ask: Can agent collaboration itself be scaled...
+📝 *Abstract*: Diffusion large language models (dLLMs) offer parallel decoding and bidirectional context, but state-of-the-art dLLMs require billions of parameters for competitive performance. While existing distillation methods for dLLMs reduce inference steps within a single architecture, none address cross-a...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.25917v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.26951v1)
 
-*Last updated: 2026-04-29 03:49 UTC*
+*Last updated: 2026-04-30 03:50 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
