@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models**
+**📄 Computing Equilibrium beyond Unilateral Deviation**
 
-👥 *Authors*: Gongbo Zhang, Wen Wang, Ye Tian et al.
+👥 *Authors*: Mingyang Liu, Gabriele Farina, Asuman Ozdaglar
 
-📝 *Abstract*: Diffusion large language models (dLLMs) offer parallel decoding and bidirectional context, but state-of-the-art dLLMs require billions of parameters for competitive performance. While existing distillation methods for dLLMs reduce inference steps within a single architecture, none address cross-a...
+📝 *Abstract*: Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against profitable coordinated deviations by coalitions. Although the literature proposes solution concep...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.26951v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2604.28186v1)
 
-*Last updated: 2026-04-30 03:50 UTC*
+*Last updated: 2026-05-01 04:01 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
