@@ -163,13 +163,13 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 | | |
 |---|---|
-| **[summer-of-code-2024](https://github.com/abhi-1408-shek/summer-of-code-2024)** | 5-week long hackathon spanning across 4 tracks |
+| **[WEB_DEVELOPMENT_FULL](https://github.com/abhi-1408-shek/WEB_DEVELOPMENT_FULL)** | FULL COURSE OF WEBDEV |
 | 🔤 Multiple | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | ☀️ Day Coder |
+| ⏰ Coding Style | 🌅 Early Bird |
 | 📅 Most Active | Tuesday |
 | 💬 Favorite Word | `auto-update:` |
 
