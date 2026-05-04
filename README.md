@@ -163,13 +163,13 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 | | |
 |---|---|
-| **[WEB_DEVELOPMENT_FULL](https://github.com/abhi-1408-shek/WEB_DEVELOPMENT_FULL)** | FULL COURSE OF WEBDEV |
-| 🔤 Multiple | ⭐ 0 stars |
+| **[Leetcode-Solutions](https://github.com/abhi-1408-shek/Leetcode-Solutions)** | This repository is managed by Abhishek Commit Bot |
+| 🔤 Java | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | 🌅 Early Bird |
+| ⏰ Coding Style | ☀️ Day Coder |
 | 📅 Most Active | Tuesday |
 | 💬 Favorite Word | `auto-update:` |
 
@@ -180,7 +180,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ May 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-05-03*
+*Auto-updated: 2026-05-04*
 <!--END_SECTION:unique-->
 
 <br>
