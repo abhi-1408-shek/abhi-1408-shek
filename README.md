@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Computing Equilibrium beyond Unilateral Deviation**
+**📄 HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs**
 
-👥 *Authors*: Mingyang Liu, Gabriele Farina, Asuman Ozdaglar
+👥 *Authors*: Jinpai Zhao, Nishant Panda, Yen Ting Lin et al.
 
-📝 *Abstract*: Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against profitable coordinated deviations by coalitions. Although the literature proposes solution concep...
+📝 *Abstract*: We introduce HyCOP, a modular framework that learns parametric PDE solution operators by composing simple modules (advection, diffusion, learned closures, boundary handling) in a query-conditioned way. Rather than learning a monolithic map, HyCOP learns a policy over short programs - which module...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2604.28186v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2605.00820v1)
 
-*Last updated: 2026-05-03 03:57 UTC*
+*Last updated: 2026-05-04 03:54 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
