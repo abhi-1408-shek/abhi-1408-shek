@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs**
+**📄 SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection**
 
-👥 *Authors*: Jinpai Zhao, Nishant Panda, Yen Ting Lin et al.
+👥 *Authors*: Shikhar Shukla
 
-📝 *Abstract*: We introduce HyCOP, a modular framework that learns parametric PDE solution operators by composing simple modules (advection, diffusion, learned closures, boundary handling) in a query-conditioned way. Rather than learning a monolithic map, HyCOP learns a policy over short programs - which module...
+📝 *Abstract*: Speculative decoding accelerates large language model (LLM) inference by using a small draft model to propose candidate tokens that a larger target model verifies. A critical hyperparameter in this process is the speculation length~$γ$, which determines how many tokens the draft model proposes pe...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2605.00820v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2605.02888v1)
 
-*Last updated: 2026-05-04 03:54 UTC*
+*Last updated: 2026-05-05 03:35 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
