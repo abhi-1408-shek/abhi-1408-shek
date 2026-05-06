@@ -157,20 +157,27 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 <!--START_SECTION:unique-->
 ## 🧠 Currently Thinking About
-> Working on: abhi-1408-shek
+> Exploring: Feature
 
 ## 🌟 Repo Spotlight (This Week)
+
+| | |
+|---|---|
+| **[Leetcode-Solutions](https://github.com/abhi-1408-shek/Leetcode-Solutions)** | This repository is managed by Abhishek Commit Bot |
+| 🔤 Java | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | 🌆 Evening Hacker |
+| ⏰ Coding Style | 🌅 Early Bird |
 | 📅 Most Active | Tuesday |
 | 💬 Favorite Word | `auto-update:` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
 |------|----------|
+| 🚀 Jul 2024 | 🎉 Joined GitHub |
+| 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ May 2026 | 🔥 Still Going Strong! |
 
 *Auto-updated: 2026-05-06*
