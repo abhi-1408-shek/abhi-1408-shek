@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection**
+**📄 Taming Outlier Tokens in Diffusion Transformers**
 
-👥 *Authors*: Shikhar Shukla
+👥 *Authors*: Xiaoyu Wu, Yifei Wang, Tsu-Jui Fu et al.
 
-📝 *Abstract*: Speculative decoding accelerates large language model (LLM) inference by using a small draft model to propose candidate tokens that a larger target model verifies. A critical hyperparameter in this process is the speculation length~$γ$, which determines how many tokens the draft model proposes pe...
+📝 *Abstract*: We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract disproportionate attention while carrying limited local information, but their role in generative models ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2605.02888v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2605.05206v1)
 
-*Last updated: 2026-05-05 03:35 UTC*
+*Last updated: 2026-05-07 03:49 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
