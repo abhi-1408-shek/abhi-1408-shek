@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Taming Outlier Tokens in Diffusion Transformers**
+**📄 ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**
 
-👥 *Authors*: Xiaoyu Wu, Yifei Wang, Tsu-Jui Fu et al.
+👥 *Authors*: Omar El Khalifi, Thomas Rossi, Oscar Fossey et al.
 
-📝 *Abstract*: We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract disproportionate attention while carrying limited local information, but their role in generative models ...
+📝 *Abstract*: For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot method for video generation that jointly transfers character motion from a driving video into a ne...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2605.05206v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2605.06667v1)
 
-*Last updated: 2026-05-07 03:49 UTC*
+*Last updated: 2026-05-08 03:40 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
