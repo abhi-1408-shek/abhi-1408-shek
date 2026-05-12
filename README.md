@@ -159,21 +159,21 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 <!--START_SECTION:unique-->
 ## 🧠 Currently Thinking About
-> Exploring: Feature
+> Working on: abhi-1408-shek
 
 ## 🌟 Repo Spotlight (This Week)
 
 | | |
 |---|---|
-| **[SIH_RAG](https://github.com/abhi-1408-shek/SIH_RAG)** | RAG prototype built during SIH’25 Finale |
-| 🔤 HTML | ⭐ 4 stars |
+| **[DATA-SCIENCE-CLASSWORK](https://github.com/abhi-1408-shek/DATA-SCIENCE-CLASSWORK)** | ASSIGNMENT-1 AND ASSIGNMENT-2 |
+| 🔤 Multiple | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | 🌅 Early Bird |
+| ⏰ Coding Style | ☀️ Day Coder |
 | 📅 Most Active | Tuesday |
-| 💬 Favorite Word | `feat:` |
+| 💬 Favorite Word | `files` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
