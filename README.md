@@ -166,7 +166,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 | | |
 |---|---|
 | **[DATA-SCIENCE-CLASSWORK](https://github.com/abhi-1408-shek/DATA-SCIENCE-CLASSWORK)** | ASSIGNMENT-1 AND ASSIGNMENT-2 |
-| 🔤 Multiple | ⭐ 0 stars |
+| 🔤 Jupyter Notebook | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
@@ -182,7 +182,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ May 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-05-12*
+*Auto-updated: 2026-05-13*
 <!--END_SECTION:unique-->
 
 <br>
