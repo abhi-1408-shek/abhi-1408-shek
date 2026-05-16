@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**
+**📄 RefDecoder: Enhancing Visual Generation with Conditional Video Decoding**
 
-👥 *Authors*: Omar El Khalifi, Thomas Rossi, Oscar Fossey et al.
+👥 *Authors*: Xiang Fan, Yuheng Wang, Bohan Fang et al.
 
-📝 *Abstract*: For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot method for video generation that jointly transfers character motion from a driving video into a ne...
+📝 *Abstract*: Video generation powers a vast array of downstream applications. However, while the de facto standard, i.e., latent diffusion models, typically employ heavily conditioned denoising networks, their decoders often remain unconditional. We observe that this architectural asymmetry leads to significa...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2605.06667v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2605.15196v1)
 
-*Last updated: 2026-05-10 03:58 UTC*
+*Last updated: 2026-05-16 03:48 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
