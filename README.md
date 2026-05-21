@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 RefDecoder: Enhancing Visual Generation with Conditional Video Decoding**
+**📄 Variance Reduction for Expectations with Diffusion Teachers**
 
-👥 *Authors*: Xiang Fan, Yuheng Wang, Bohan Fang et al.
+👥 *Authors*: Jesse Bettencourt, Xindi Wu, Matan Atzmon et al.
 
-📝 *Abstract*: Video generation powers a vast array of downstream applications. However, while the de facto standard, i.e., latent diffusion models, typically employ heavily conditioned denoising networks, their decoders often remain unconditional. We observe that this architectural asymmetry leads to significa...
+📝 *Abstract*: Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are Monte Carlo (MC) expectations over noise levels and Gaussian noise samples; their estimator varia...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2605.15196v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2605.21489v1)
 
-*Last updated: 2026-05-16 03:48 UTC*
+*Last updated: 2026-05-21 04:22 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
