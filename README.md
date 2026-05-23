@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Variance Reduction for Expectations with Diffusion Teachers**
+**📄 Tokenisation via Convex Relaxations**
 
-👥 *Authors*: Jesse Bettencourt, Xindi Wu, Matan Atzmon et al.
+👥 *Authors*: Jan Tempus, Philip Whittington, Craig W. Schmidt et al.
 
-📝 *Abstract*: Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are Monte Carlo (MC) expectations over noise levels and Gaussian noise samples; their estimator varia...
+📝 *Abstract*: Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering the resulting vocabulary as a whole. We instead formulate tokeniser construction as a linear progr...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2605.21489v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2605.22821v1)
 
-*Last updated: 2026-05-21 04:22 UTC*
+*Last updated: 2026-05-23 03:55 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
