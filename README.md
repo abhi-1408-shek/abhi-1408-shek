@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Tokenisation via Convex Relaxations**
+**📄 LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws**
 
-👥 *Authors*: Jan Tempus, Philip Whittington, Craig W. Schmidt et al.
+👥 *Authors*: Xu Ouyang, Deyi Liu, Yuhang Cai et al.
 
-📝 *Abstract*: Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering the resulting vocabulary as a whole. We instead formulate tokeniser construction as a linear progr...
+📝 *Abstract*: Existing scaling laws for Large Language Models (LLMs), predominantly monotonic power laws, fail to explain emerging non-monotonic phenomena such as catastrophic overtraining and quantization-induced degradation, where performance deteriorates despite increased compute.   We propose the Shannon S...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2605.22821v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2605.23901v1)
 
-*Last updated: 2026-05-24 04:16 UTC*
+*Last updated: 2026-05-25 04:38 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
