@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws**
+**📄 From Model Scaling to System Scaling: Scaling the Harness in Agentic AI**
 
-👥 *Authors*: Xu Ouyang, Deyi Liu, Yuhang Cai et al.
+👥 *Authors*: Shangding Gu
 
-📝 *Abstract*: Existing scaling laws for Large Language Models (LLMs), predominantly monotonic power laws, fail to explain emerging non-monotonic phenomena such as catastrophic overtraining and quantization-induced degradation, where performance deteriorates despite increased compute.   We propose the Shannon S...
+📝 *Abstract*: This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation models. We refer to this shift as scaling the harness: treating the structured execution layer around ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2605.23901v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2605.26112v1)
 
-*Last updated: 2026-05-25 04:38 UTC*
+*Last updated: 2026-05-26 04:13 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
