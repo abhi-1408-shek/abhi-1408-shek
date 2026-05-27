@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 From Model Scaling to System Scaling: Scaling the Harness in Agentic AI**
+**📄 MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation**
 
-👥 *Authors*: Shangding Gu
+👥 *Authors*: Huawei Lin, Peng Li, Jie Song et al.
 
-📝 *Abstract*: This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation models. We refer to this shift as scaling the harness: treating the structured execution layer around ...
+📝 *Abstract*: Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability, reliability, and long-term improvement. We propose MUSE-Autoskill Agent (Memory-Utilizing Skill ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2605.26112v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2605.27366v1)
 
-*Last updated: 2026-05-26 04:13 UTC*
+*Last updated: 2026-05-27 04:26 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
