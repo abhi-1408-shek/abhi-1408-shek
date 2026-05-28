@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation**
+**📄 PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective**
 
-👥 *Authors*: Huawei Lin, Peng Li, Jie Song et al.
+👥 *Authors*: Yangyi Huang, Ruotian Peng, Zeju Qiu et al.
 
-📝 *Abstract*: Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability, reliability, and long-term improvement. We propose MUSE-Autoskill Agent (Memory-Utilizing Skill ...
+📝 *Abstract*: Parameter-efficient finetuning (PEFT) has become the standard approach for adapting large language models, yet evaluations largely emphasize downstream accuracy while overlooking the retention of pretrained capabilities. We argue that PEFT should be assessed through the stability-plasticity dilem...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2605.27366v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2605.28819v1)
 
-*Last updated: 2026-05-27 04:26 UTC*
+*Last updated: 2026-05-28 04:16 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
