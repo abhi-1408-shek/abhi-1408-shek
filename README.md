@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective**
+**📄 DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation**
 
-👥 *Authors*: Yangyi Huang, Ruotian Peng, Zeju Qiu et al.
+👥 *Authors*: Jusuk Lee, Seungjae Lee, Jonghun Shin et al.
 
-📝 *Abstract*: Parameter-efficient finetuning (PEFT) has become the standard approach for adapting large language models, yet evaluations largely emphasize downstream accuracy while overlooking the retention of pretrained capabilities. We argue that PEFT should be assessed through the stability-plasticity dilem...
+📝 *Abstract*: Robot manipulation critically depends on perception that preserves the action-relevant aspects of a scene. Yet most robot learning pipelines are built upon visual encoders pre-trained for static recognition or vision-language alignment, leaving motion understanding to downstream policies. We intr...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2605.28819v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2605.30350v1)
 
-*Last updated: 2026-05-28 04:16 UTC*
+*Last updated: 2026-05-30 04:04 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
