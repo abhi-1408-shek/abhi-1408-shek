@@ -162,8 +162,8 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 | | |
 |---|---|
-| **[PYTHON_CS50](https://github.com/abhi-1408-shek/PYTHON_CS50)** | CS50_PYTHON |
-| 🔤 Java | ⭐ 0 stars |
+| **[WEB_DEVELOPMENT_FULL](https://github.com/abhi-1408-shek/WEB_DEVELOPMENT_FULL)** | FULL COURSE OF WEBDEV |
+| 🔤 Multiple | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
@@ -177,9 +177,9 @@ CSS                      2 repos             ██░░░░░░░░░�
 |------|----------|
 | 🚀 Jul 2024 | 🎉 Joined GitHub |
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
-| ⚡ May 2026 | 🔥 Still Going Strong! |
+| ⚡ Jun 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-05-31*
+*Auto-updated: 2026-06-01*
 <!--END_SECTION:unique-->
 
 <br>
