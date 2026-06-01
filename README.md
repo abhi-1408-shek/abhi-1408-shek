@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation**
+**📄 KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems**
 
-👥 *Authors*: Jusuk Lee, Seungjae Lee, Jonghun Shin et al.
+👥 *Authors*: Alireza Kheirandish, Jihoon Hong, Sara Fridovich-Keil
 
-📝 *Abstract*: Robot manipulation critically depends on perception that preserves the action-relevant aspects of a scene. Yet most robot learning pipelines are built upon visual encoders pre-trained for static recognition or vision-language alignment, leaving motion understanding to downstream policies. We intr...
+📝 *Abstract*: Diffusion models have shown promising performance as data-driven priors for computational imaging, as well as some capacity to detect out-of-distribution (OOD) images. However, existing approaches to OOD detection often require some knowledge of the shifted distribution, fail to detect subtle or ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2605.30350v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2605.31596v1)
 
-*Last updated: 2026-05-31 04:39 UTC*
+*Last updated: 2026-06-01 05:00 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
