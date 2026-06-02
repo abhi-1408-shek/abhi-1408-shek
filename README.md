@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems**
+**📄 ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning**
 
-👥 *Authors*: Alireza Kheirandish, Jihoon Hong, Sara Fridovich-Keil
+👥 *Authors*: Yu-Cheng Shi, Zhen-Hao Xie, Jun-Tao Tang et al.
 
-📝 *Abstract*: Diffusion models have shown promising performance as data-driven priors for computational imaging, as well as some capacity to detect out-of-distribution (OOD) images. However, existing approaches to OOD detection often require some knowledge of the shifted distribution, fail to detect subtle or ...
+📝 *Abstract*: Multimodal Large Language Models (MLLMs) achieve strong performance through instruction tuning, but real-world deployment requires them to continually acquire new vision-language capabilities, making Multimodal Continual Instruction Tuning (MCIT) essential. To reduce inter-task interference and p...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2605.31596v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.02576v1)
 
-*Last updated: 2026-06-01 05:00 UTC*
+*Last updated: 2026-06-02 04:47 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
