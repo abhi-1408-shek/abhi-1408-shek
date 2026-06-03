@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning**
+**📄 Neuron Populations Exhibit Divergent Selectivity with Scale**
 
-👥 *Authors*: Yu-Cheng Shi, Zhen-Hao Xie, Jun-Tao Tang et al.
+👥 *Authors*: Amil Dravid, Yasaman Bahri, Alexei A. Efros et al.
 
-📝 *Abstract*: Multimodal Large Language Models (MLLMs) achieve strong performance through instruction tuning, but real-world deployment requires them to continually acquire new vision-language capabilities, making Multimodal Continual Instruction Tuning (MCIT) essential. To reduce inter-task interference and p...
+📝 *Abstract*: We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Rosetta Neurons, a previously characterized class of neurons whose activation patterns are similar a...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.02576v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.03990v1)
 
-*Last updated: 2026-06-02 04:47 UTC*
+*Last updated: 2026-06-03 04:57 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
