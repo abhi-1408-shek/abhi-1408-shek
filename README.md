@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Neuron Populations Exhibit Divergent Selectivity with Scale**
+**📄 STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations**
 
-👥 *Authors*: Amil Dravid, Yasaman Bahri, Alexei A. Efros et al.
+👥 *Authors*: Rishit Dagli, Abir Harrasse, Luke Zhang et al.
 
-📝 *Abstract*: We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Rosetta Neurons, a previously characterized class of neurons whose activation patterns are similar a...
+📝 *Abstract*: Training Data Attribution (TDA) seeks to trace a model's predictions back to its training data. The gold standard for TDA relies on causal interventions, observing how a model changes when data is added or removed, but repeated retraining is computationally challenging for Large Language Models (...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.03990v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.05165v1)
 
-*Last updated: 2026-06-03 04:57 UTC*
+*Last updated: 2026-06-04 04:50 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
