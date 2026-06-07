@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations**
+**📄 TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning**
 
-👥 *Authors*: Rishit Dagli, Abir Harrasse, Luke Zhang et al.
+👥 *Authors*: Marius Dragoi, Ioana Pintilie, Alexandra Dragomir et al.
 
-📝 *Abstract*: Training Data Attribution (TDA) seeks to trace a model's predictions back to its training data. The gold standard for TDA relies on causal interventions, observing how a model changes when data is added or removed, but repeated retraining is computationally challenging for Large Language Models (...
+📝 *Abstract*: Parameter-efficient finetuning methods based on spectral decomposition have enabled progress in Continual Learning. In this paper we introduce TailLoR, which utilizes the singular bases U and V of the pre-trained weights as a fixed reference frame to learn a low-rank update applied to the singula...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.05165v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.06494v1)
 
-*Last updated: 2026-06-04 04:50 UTC*
+*Last updated: 2026-06-07 04:44 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
