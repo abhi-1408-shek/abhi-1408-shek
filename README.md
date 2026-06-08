@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning**
+**📄 Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning**
 
-👥 *Authors*: Marius Dragoi, Ioana Pintilie, Alexandra Dragomir et al.
+👥 *Authors*: Fatema Siddika, Md Anwar Hossen, Tanwi Mallick et al.
 
-📝 *Abstract*: Parameter-efficient finetuning methods based on spectral decomposition have enabled progress in Continual Learning. In this paper we introduce TailLoR, which utilizes the singular bases U and V of the pre-trained weights as a fixed reference frame to learn a low-rank update applied to the singula...
+📝 *Abstract*: Continual learning in Large Language Models (LLMs) is hindered by the plasticity-stability dilemma, where acquiring new capabilities often leads to catastrophic forgetting of previous knowledge. Existing methods typically treat parameters uniformly, failing to distinguish between specific task kn...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.06494v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.07500v1)
 
-*Last updated: 2026-06-07 04:44 UTC*
+*Last updated: 2026-06-08 04:49 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
