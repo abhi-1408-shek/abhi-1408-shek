@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning**
+**📄 An Agency-Transferring Model-Free Policy Enhancement Technique**
 
-👥 *Authors*: Fatema Siddika, Md Anwar Hossen, Tanwi Mallick et al.
+👥 *Authors*: Anton Bolychev, Georgiy Malaniya, Sinan Ibrahim et al.
 
-📝 *Abstract*: Continual learning in Large Language Models (LLMs) is hindered by the plasticity-stability dilemma, where acquiring new capabilities often leads to catastrophic forgetting of previous knowledge. Existing methods typically treat parameters uniformly, failing to distinguish between specific task kn...
+📝 *Abstract*: Training reinforcement learning (RL) policies from scratch is   costly: it requires careful reward and environment design,   extensive tuning, and substantial computation.   Yet many control problems already have a functional but   suboptimal policy available as a baseline.   This paper proposes ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.07500v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.09825v1)
 
-*Last updated: 2026-06-08 04:49 UTC*
+*Last updated: 2026-06-09 04:11 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
