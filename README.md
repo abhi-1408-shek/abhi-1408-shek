@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 An Agency-Transferring Model-Free Policy Enhancement Technique**
+**📄 When to Align, When to Predict: A Phase Diagram for Multimodal Learning**
 
-👥 *Authors*: Anton Bolychev, Georgiy Malaniya, Sinan Ibrahim et al.
+👥 *Authors*: Ilay Kamai, Hugues Van Assel, Aviv Regev et al.
 
-📝 *Abstract*: Training reinforcement learning (RL) policies from scratch is   costly: it requires careful reward and environment design,   extensive tuning, and substantial computation.   Yet many control problems already have a functional but   suboptimal policy available as a baseline.   This paper proposes ...
+📝 *Abstract*: Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each fails, and when cross-modal training helps at all -- a gap that leaves practitioners, especially ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.09825v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.11190v1)
 
-*Last updated: 2026-06-09 04:11 UTC*
+*Last updated: 2026-06-10 04:22 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
