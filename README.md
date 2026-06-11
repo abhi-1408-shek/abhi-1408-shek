@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 When to Align, When to Predict: A Phase Diagram for Multimodal Learning**
+**📄 Context-Driven Incremental Compression for Multi-Turn Dialogue Generation**
 
-👥 *Authors*: Ilay Kamai, Hugues Van Assel, Aviv Regev et al.
+👥 *Authors*: Yeongseo Jung, Jaehyeok Kim, Eunseo Jung et al.
 
-📝 *Abstract*: Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each fails, and when cross-modal training helps at all -- a gap that leaves practitioners, especially ...
+📝 *Abstract*: Modern conversational agents condition on an ever-growing dialogue history at each turn, incurring redundant attention and encoding costs that grow with conversation length. Naive truncation or summarization degrades fidelity, while existing context compressors lack cross-turn memory sharing or r...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.11190v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.12411v1)
 
-*Last updated: 2026-06-10 04:22 UTC*
+*Last updated: 2026-06-11 04:44 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
