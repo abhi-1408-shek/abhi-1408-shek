@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Context-Driven Incremental Compression for Multi-Turn Dialogue Generation**
+**📄 Mana: Dexterous Manipulation of Articulated Tools**
 
-👥 *Authors*: Yeongseo Jung, Jaehyeok Kim, Eunseo Jung et al.
+👥 *Authors*: Zhao-Heng Yin, Guanya Shi, Pieter Abbeel et al.
 
-📝 *Abstract*: Modern conversational agents condition on an ever-growing dialogue history at each turn, incurring redundant attention and encoding costs that grow with conversation length. Naive truncation or summarization degrades fidelity, while existing context compressors lack cross-turn memory sharing or r...
+📝 *Abstract*: Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focused on rigid objects, articulated tool use remains underexplored because of its physical complexi...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.12411v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.13677v1)
 
-*Last updated: 2026-06-11 04:44 UTC*
+*Last updated: 2026-06-12 04:47 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
