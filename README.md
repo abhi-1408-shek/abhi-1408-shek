@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Mana: Dexterous Manipulation of Articulated Tools**
+**📄 Gaze Heads: How VLMs Look at What They Describe**
 
-👥 *Authors*: Zhao-Heng Yin, Guanya Shi, Pieter Abbeel et al.
+👥 *Authors*: Rohit Gandikota, David Bau
 
-📝 *Abstract*: Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focused on rigid objects, articulated tool use remains underexplored because of its physical complexi...
+📝 *Abstract*: How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its language-model backbone, which we call gaze heads, whose attention tracks the image region the mo...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.13677v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.14703v1)
 
-*Last updated: 2026-06-14 04:53 UTC*
+*Last updated: 2026-06-15 05:10 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
