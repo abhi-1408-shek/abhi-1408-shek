@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Gaze Heads: How VLMs Look at What They Describe**
+**📄 Exact Posterior Score Estimation for Solving Linear Inverse Problems**
 
-👥 *Authors*: Rohit Gandikota, David Bau
+👥 *Authors*: Abbas Mammadov, Ozgur Kara, Kaan Oktay et al.
 
-📝 *Abstract*: How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its language-model backbone, which we call gaze heads, whose attention tracks the image region the mo...
+📝 *Abstract*: Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the posterior, but the score that the prior provides is the unconditional score, not the posterior score....
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.14703v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.17048v1)
 
-*Last updated: 2026-06-15 05:10 UTC*
+*Last updated: 2026-06-16 05:15 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
