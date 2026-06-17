@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Exact Posterior Score Estimation for Solving Linear Inverse Problems**
+**📄 ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues**
 
-👥 *Authors*: Abbas Mammadov, Ozgur Kara, Kaan Oktay et al.
+👥 *Authors*: Shanda Li, Qiuhong Anna Wei, Jingwu Tang et al.
 
-📝 *Abstract*: Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the posterior, but the score that the prior provides is the unconditional score, not the posterior score....
+📝 *Abstract*: Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate whether LLM agents can assist with reproducibility, but they are difficult to scale due to their reliance on substantial manual effort for data curat...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.17048v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.18237v1)
 
-*Last updated: 2026-06-16 05:15 UTC*
+*Last updated: 2026-06-17 04:56 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
