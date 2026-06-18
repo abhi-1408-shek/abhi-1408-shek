@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues**
+**📄 Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States**
 
-👥 *Authors*: Shanda Li, Qiuhong Anna Wei, Jingwu Tang et al.
+👥 *Authors*: Denis Peskoff, Joe Barrow, Christopher Vu et al.
 
-📝 *Abstract*: Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate whether LLM agents can assist with reproducibility, but they are difficult to scale due to their reliance on substantial manual effort for data curat...
+📝 *Abstract*: Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable corpora: local ordinances. Local codes govern zoning, housing, business licensing, public health...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.18237v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.19334v1)
 
-*Last updated: 2026-06-17 04:56 UTC*
+*Last updated: 2026-06-18 04:46 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
