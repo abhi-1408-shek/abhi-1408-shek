@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States**
+**📄 How Transparent is DiffusionGemma?**
 
-👥 *Authors*: Denis Peskoff, Joe Barrow, Christopher Vu et al.
+👥 *Authors*: Joshua Engels, Callum McDougall, Bilal Chughtai et al.
 
-📝 *Abstract*: Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable corpora: local ordinances. Local codes govern zoning, housing, business licensing, public health...
+📝 *Abstract*: LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a larger fraction of its computation in a continuous latent space; does this make its reasoning les...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.19334v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.20560v1)
 
-*Last updated: 2026-06-18 04:46 UTC*
+*Last updated: 2026-06-19 05:06 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
