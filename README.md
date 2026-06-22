@@ -162,8 +162,8 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 | | |
 |---|---|
-| **[DATA-SCIENCE-CLASSWORK](https://github.com/abhi-1408-shek/DATA-SCIENCE-CLASSWORK)** | ASSIGNMENT-1 AND ASSIGNMENT-2 |
-| 🔤 Jupyter Notebook | ⭐ 0 stars |
+| **[SIH_RAG](https://github.com/abhi-1408-shek/SIH_RAG)** | RAG prototype built during SIH’25 Finale |
+| 🔤 HTML | ⭐ 4 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
@@ -179,7 +179,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Jun 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-06-21*
+*Auto-updated: 2026-06-22*
 <!--END_SECTION:unique-->
 
 <br>
