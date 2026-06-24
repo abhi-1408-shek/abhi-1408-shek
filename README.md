@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 How Transparent is DiffusionGemma?**
+**📄 InSight: Self-Guided Skill Acquisition via Steerable VLAs**
 
-👥 *Authors*: Joshua Engels, Callum McDougall, Bilal Chughtai et al.
+👥 *Authors*: Maggie Wang, Lars Osterberg, Stephen Tian et al.
 
-📝 *Abstract*: LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a larger fraction of its computation in a continuous latent space; does this make its reasoning les...
+📝 *Abstract*: Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.20560v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.24884v1)
 
-*Last updated: 2026-06-22 05:11 UTC*
+*Last updated: 2026-06-24 04:12 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
