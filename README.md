@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 InSight: Self-Guided Skill Acquisition via Steerable VLAs**
+**📄 RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments**
 
-👥 *Authors*: Maggie Wang, Lars Osterberg, Stephen Tian et al.
+👥 *Authors*: Babak Rahmani, Sebastian Dziadzio, Joschka Strüber et al.
 
-📝 *Abstract*: Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., ...
+📝 *Abstract*: For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by targeted intervention. We pose a computational analogue: given only behavioral traces of an agent ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.24884v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.26094v1)
 
-*Last updated: 2026-06-24 04:12 UTC*
+*Last updated: 2026-06-25 04:12 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
