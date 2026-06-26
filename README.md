@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments**
+**📄 DanceOPD: On-Policy Generative Field Distillation**
 
-👥 *Authors*: Babak Rahmani, Sebastian Dziadzio, Joschka Strüber et al.
+👥 *Authors*: Wei Zhou, Xiongwei Zhu, Zelin Xu et al.
 
-📝 *Abstract*: For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by targeted intervention. We pose a computational analogue: given only behavioral traces of an agent ...
+📝 *Abstract*: Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally aligned and often conflict. For instance, editing tends to degrade T2I performance, while global and...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.26094v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.27377v1)
 
-*Last updated: 2026-06-25 04:12 UTC*
+*Last updated: 2026-06-26 04:18 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
