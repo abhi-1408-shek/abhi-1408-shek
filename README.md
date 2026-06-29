@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 DanceOPD: On-Policy Generative Field Distillation**
+**📄 DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand**
 
-👥 *Authors*: Wei Zhou, Xiongwei Zhu, Zelin Xu et al.
+👥 *Authors*: Dihong Huang, Zhenyu Wei, Zhuxiu Xu et al.
 
-📝 *Abstract*: Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally aligned and often conflict. For instance, editing tends to degrade T2I performance, while global and...
+📝 *Abstract*: Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation skill often imposes conflicting demands on overlapping fingers and contact modes, causing destruct...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.27377v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.28323v1)
 
-*Last updated: 2026-06-28 04:38 UTC*
+*Last updated: 2026-06-29 04:46 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
