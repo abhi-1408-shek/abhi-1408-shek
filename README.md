@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand**
+**📄 One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining**
 
-👥 *Authors*: Dihong Huang, Zhenyu Wei, Zhuxiu Xu et al.
+👥 *Authors*: Philip Zmushko, Egor Petrov, Nursultan Abdullaev et al.
 
-📝 *Abstract*: Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation skill often imposes conflicting demands on overlapping fingers and contact modes, causing destruct...
+📝 *Abstract*: Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchronous Pipeline Parallelism eliminates these bubbles, maximizing throughput at the cost of gradient...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.28323v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.30634v1)
 
-*Last updated: 2026-06-29 04:46 UTC*
+*Last updated: 2026-06-30 04:13 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
