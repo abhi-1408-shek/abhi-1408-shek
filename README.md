@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining**
+**📄 Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**
 
-👥 *Authors*: Philip Zmushko, Egor Petrov, Nursultan Abdullaev et al.
+👥 *Authors*: Zifan Carl Guo, Laura Ruis, Jacob Andreas et al.
 
-📝 *Abstract*: Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchronous Pipeline Parallelism eliminates these bubbles, maximizing throughput at the cost of gradient...
+📝 *Abstract*: When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified input...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.30634v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2606.32038v1)
 
-*Last updated: 2026-06-30 04:13 UTC*
+*Last updated: 2026-07-01 04:41 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
