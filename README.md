@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**
+**📄 Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training**
 
-👥 *Authors*: Zifan Carl Guo, Laura Ruis, Jacob Andreas et al.
+👥 *Authors*: Zijian Zhang, Rizhen Hu, Athanasios Glentis et al.
 
-📝 *Abstract*: When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified input...
+📝 *Abstract*: Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Existing approaches typically update all model parameters uniformly, implicitly assuming that every ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2606.32038v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.01232v1)
 
-*Last updated: 2026-07-01 04:41 UTC*
+*Last updated: 2026-07-02 04:08 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
