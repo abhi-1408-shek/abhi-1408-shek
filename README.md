@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training**
+**📄 LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning**
 
-👥 *Authors*: Zijian Zhang, Rizhen Hu, Athanasios Glentis et al.
+👥 *Authors*: Matteo Boglioni, Thibault Rousset, Siva Reddy et al.
 
-📝 *Abstract*: Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Existing approaches typically update all model parameters uniformly, implicitly assuming that every ...
+📝 *Abstract*: LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising solution, with state-of-the-art(SOTA) methods often following a localize-first, unlearn-second paradigm...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.01232v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.02513v1)
 
-*Last updated: 2026-07-02 04:08 UTC*
+*Last updated: 2026-07-03 03:55 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
