@@ -27,5 +27,5 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "True"
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: "False"
           LOCALE: "en"
