@@ -70,15 +70,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning**
+**📄 From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model**
 
-👥 *Authors*: Matteo Boglioni, Thibault Rousset, Siva Reddy et al.
+👥 *Authors*: Wenhao Li, Xueying Jiang, Quanhao Qian et al.
 
-📝 *Abstract*: LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising solution, with state-of-the-art(SOTA) methods often following a localize-first, unlearn-second paradigm...
+📝 *Abstract*: Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Language-Action (VLA) policies tolerate such camera variations only when the camera extrinsics are ex...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.02513v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.05396v1)
 
-*Last updated: 2026-07-06 04:14 UTC*
+*Last updated: 2026-07-07 04:03 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
