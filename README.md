@@ -174,21 +174,21 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 <!--START_SECTION:unique-->
 ## 🧠 Currently Thinking About
-> Exploring: Update
+> Working on: abhi-1408-shek
 
 ## 🌟 Repo Spotlight (This Week)
 
 | | |
 |---|---|
-| **[SIH_RAG](https://github.com/abhi-1408-shek/SIH_RAG)** | RAG prototype built during SIH’25 Finale |
-| 🔤 HTML | ⭐ 4 stars |
+| **[AQI_PREDICTER](https://github.com/abhi-1408-shek/AQI_PREDICTER)** | SIMPLE STREAMLIT APP FOR AQI PREDICTION (NO API) |
+| 🔤 Python | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
 | ⏰ Coding Style | 🌆 Evening Hacker |
 | 📅 Most Active | Monday |
-| 💬 Favorite Word | `auto-update:` |
+| 💬 Favorite Word | `profile` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
