@@ -158,20 +158,20 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 <!--START_SECTION:unique-->
 ## 🧠 Currently Thinking About
-> Working on: abhi-1408-shek
+> Exploring: Update
 
 ## 🌟 Repo Spotlight (This Week)
 
 | | |
 |---|---|
-| **[WEB_DEVELOPMENT_FULL](https://github.com/abhi-1408-shek/WEB_DEVELOPMENT_FULL)** | FULL COURSE OF WEBDEV |
-| 🔤 Multiple | ⭐ 0 stars |
+| **[SIH_RAG](https://github.com/abhi-1408-shek/SIH_RAG)** | RAG prototype built during SIH’25 Finale |
+| 🔤 HTML | ⭐ 4 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | ☀️ Day Coder |
-| 📅 Most Active | Tuesday |
+| ⏰ Coding Style | 🌆 Evening Hacker |
+| 📅 Most Active | Monday |
 | 💬 Favorite Word | `auto-update:` |
 
 ## 📅 My GitHub Journey
@@ -181,7 +181,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Jul 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-07-06*
+*Auto-updated: 2026-07-07*
 <!--END_SECTION:unique-->
 
 <br>
