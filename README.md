@@ -175,7 +175,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 |-------|-------|
 | ⏰ Coding Style | 🌆 Evening Hacker |
 | 📅 Most Active | Monday |
-| 💬 Favorite Word | `profile` |
+| 💬 Favorite Word | `auto-update:` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
