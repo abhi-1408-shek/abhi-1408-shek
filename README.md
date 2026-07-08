@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model**
+**📄 ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation**
 
-👥 *Authors*: Wenhao Li, Xueying Jiang, Quanhao Qian et al.
+👥 *Authors*: Tianjiao Yu, Xinzhuo Li, Yifan Shen et al.
 
-📝 *Abstract*: Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Language-Action (VLA) policies tolerate such camera variations only when the camera extrinsics are ex...
+📝 *Abstract*: Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatenate text and 3D tokens into a flat sequence and rely on self-attention, collapsing coarse structur...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.05396v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.06565v1)
 
-*Last updated: 2026-07-07 04:03 UTC*
+*Last updated: 2026-07-08 03:29 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
