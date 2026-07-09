@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation**
+**📄 Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning**
 
-👥 *Authors*: Tianjiao Yu, Xinzhuo Li, Yifan Shen et al.
+👥 *Authors*: Chen Tang, Yizhou Wang, Jianyu Wu et al.
 
-📝 *Abstract*: Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatenate text and 3D tokens into a flat sequence and rely on self-attention, collapsing coarse structur...
+📝 *Abstract*: Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically explaining these relationships requires interpreting structural evidence through...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.06565v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.07708v1)
 
-*Last updated: 2026-07-08 03:29 UTC*
+*Last updated: 2026-07-09 03:58 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
