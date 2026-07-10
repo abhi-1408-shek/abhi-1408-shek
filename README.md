@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning**
+**📄 Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling**
 
-👥 *Authors*: Chen Tang, Yizhou Wang, Jianyu Wu et al.
+👥 *Authors*: Yiwei Zhou
 
-📝 *Abstract*: Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically explaining these relationships requires interpreting structural evidence through...
+📝 *Abstract*: Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal error does not guarantee numerical stability. We construct a single smooth score field with arbitrari...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.07708v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.08757v1)
 
-*Last updated: 2026-07-09 03:58 UTC*
+*Last updated: 2026-07-10 03:58 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
