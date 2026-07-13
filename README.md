@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling**
+**📄 PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis**
 
-👥 *Authors*: Yiwei Zhou
+👥 *Authors*: Ren Takahashi, Emre Yusuf, Jayabrata Bhaduri
 
-📝 *Abstract*: Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal error does not guarantee numerical stability. We construct a single smooth score field with arbitrari...
+📝 *Abstract*: Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve (AUC) of approximately 0.70 on the DREAM database (Wong et al., 2025, Nature Commu...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.08757v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.09662v1)
 
-*Last updated: 2026-07-12 03:36 UTC*
+*Last updated: 2026-07-13 03:39 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
