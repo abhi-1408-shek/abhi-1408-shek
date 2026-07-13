@@ -173,8 +173,8 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 | | |
 |---|---|
-| **[AQI_PREDICTER](https://github.com/abhi-1408-shek/AQI_PREDICTER)** | SIMPLE STREAMLIT APP FOR AQI PREDICTION (NO API) |
-| 🔤 Python | ⭐ 0 stars |
+| **[SIH_RAG](https://github.com/abhi-1408-shek/SIH_RAG)** | Multimodal RAG prototype built during SIH’25 Finale |
+| 🔤 HTML | ⭐ 4 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
@@ -190,7 +190,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Jul 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-07-12*
+*Auto-updated: 2026-07-13*
 <!--END_SECTION:unique-->
 
 <br>
