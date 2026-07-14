@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis**
+**📄 Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data**
 
-👥 *Authors*: Ren Takahashi, Emre Yusuf, Jayabrata Bhaduri
+👥 *Authors*: Shikai Qiu, Marc Finzi, Yujia Zheng et al.
 
-📝 *Abstract*: Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve (AUC) of approximately 0.70 on the DREAM database (Wong et al., 2025, Nature Commu...
+📝 *Abstract*: Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functions far simpler than their parameter counts suggest, but it is challenging to construct codes that...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.09662v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.11883v1)
 
-*Last updated: 2026-07-13 03:39 UTC*
+*Last updated: 2026-07-14 03:14 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
