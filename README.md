@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data**
+**📄 The Seriality Gap in Video Diffusion Models**
 
-👥 *Authors*: Shikai Qiu, Marc Finzi, Yujia Zheng et al.
+👥 *Authors*: Jorge Diaz Chao, Konpat Preechakul, Yuxi Liu et al.
 
-📝 *Abstract*: Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functions far simpler than their parameter counts suggest, but it is challenging to construct codes that...
+📝 *Abstract*: When one ball strikes another, then another, video models should predict the consequences of each bounce. In controlled experiments on multi-ball hard-sphere dynamics, we find that the performance of standard bidirectional video diffusion degrades as the causal chain lengthens, even when provided...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.11883v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.13031v1)
 
-*Last updated: 2026-07-14 03:14 UTC*
+*Last updated: 2026-07-15 03:13 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
