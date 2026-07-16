@@ -170,14 +170,14 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 | | |
 |---|---|
-| **[AQI_PREDICTER](https://github.com/abhi-1408-shek/AQI_PREDICTER)** | SIMPLE STREAMLIT APP FOR AQI PREDICTION (NO API) |
-| 🔤 Python | ⭐ 0 stars |
+| **[PYTHON_CS50](https://github.com/abhi-1408-shek/PYTHON_CS50)** | CS50_PYTHON |
+| 🔤 Java | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
 | ⏰ Coding Style | 🌆 Evening Hacker |
-| 📅 Most Active | Wednesday |
+| 📅 Most Active | Monday |
 | 💬 Favorite Word | `adding` |
 
 ## 📅 My GitHub Journey
