@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 The Seriality Gap in Video Diffusion Models**
+**📄 Leveraging unlabelled data for generalizable neural population decoding**
 
-👥 *Authors*: Jorge Diaz Chao, Konpat Preechakul, Yuxi Liu et al.
+👥 *Authors*: Ximeng Mao, Nanda H. Krishna, Avery Hee-Woon Ryoo et al.
 
-📝 *Abstract*: When one ball strikes another, then another, video models should predict the consequences of each bounce. In controlled experiments on multi-ball hard-sphere dynamics, we find that the performance of standard bidirectional video diffusion degrades as the causal chain lengthens, even when provided...
+📝 *Abstract*: Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike level facilitates multi-session pretraining and delivers state-of-the-art decoding performance. Howev...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.13031v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.14086v1)
 
-*Last updated: 2026-07-15 03:13 UTC*
+*Last updated: 2026-07-16 03:20 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
