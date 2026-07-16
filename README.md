@@ -164,21 +164,21 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 <!--START_SECTION:unique-->
 ## 🧠 Currently Thinking About
-> Working on: abhi-1408-shek
+> Exploring: Python
 
 ## 🌟 Repo Spotlight (This Week)
 
 | | |
 |---|---|
-| **[SIH_RAG](https://github.com/abhi-1408-shek/SIH_RAG)** | Multimodal RAG prototype built during SIH’25 Finale |
-| 🔤 HTML | ⭐ 4 stars |
+| **[AQI_PREDICTER](https://github.com/abhi-1408-shek/AQI_PREDICTER)** | SIMPLE STREAMLIT APP FOR AQI PREDICTION (NO API) |
+| 🔤 Python | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
 | ⏰ Coding Style | 🌆 Evening Hacker |
-| 📅 Most Active | Monday |
-| 💬 Favorite Word | `initial` |
+| 📅 Most Active | Wednesday |
+| 💬 Favorite Word | `adding` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
@@ -187,7 +187,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Jul 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-07-15*
+*Auto-updated: 2026-07-16*
 <!--END_SECTION:unique-->
 
 <br>
