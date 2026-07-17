@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Leveraging unlabelled data for generalizable neural population decoding**
+**📄 RoboTTT: Context Scaling for Robot Policies**
 
-👥 *Authors*: Ximeng Mao, Nanda H. Krishna, Avery Hee-Woon Ryoo et al.
+👥 *Authors*: Yunfan Jiang, Yevgen Chebotar, Ruijie Zheng et al.
 
-📝 *Abstract*: Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike level facilitates multi-session pretraining and delivers state-of-the-art decoding performance. Howev...
+📝 *Abstract*: Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, witho...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.14086v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.15275v1)
 
-*Last updated: 2026-07-16 03:20 UTC*
+*Last updated: 2026-07-17 03:23 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
