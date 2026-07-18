@@ -172,15 +172,15 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 | | |
 |---|---|
-| **[PYTHON_CS50](https://github.com/abhi-1408-shek/PYTHON_CS50)** | CS50_PYTHON |
-| 🔤 Java | ⭐ 0 stars |
+| **[LanguagePlay](https://github.com/abhi-1408-shek/LanguagePlay)** | LanguagePlay Android App |
+| 🔤 Multiple | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | 🌆 Evening Hacker |
-| 📅 Most Active | Monday |
-| 💬 Favorite Word | `adding` |
+| ⏰ Coding Style | ☀️ Day Coder |
+| 📅 Most Active | Saturday |
+| 💬 Favorite Word | `updated` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
