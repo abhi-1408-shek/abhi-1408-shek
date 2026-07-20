@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 RoboTTT: Context Scaling for Robot Policies**
+**📄 PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization**
 
-👥 *Authors*: Yunfan Jiang, Yevgen Chebotar, Ruijie Zheng et al.
+👥 *Authors*: Yuchen Yang, Yifan Zhao, Anisha Dasgupta et al.
 
-📝 *Abstract*: Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, witho...
+📝 *Abstract*: Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension between the GPU memory requirements of the model weights and the growing KV cache. We propose PagedWei...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.15275v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.16184v1)
 
-*Last updated: 2026-07-19 03:32 UTC*
+*Last updated: 2026-07-20 03:47 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
