@@ -167,20 +167,20 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 <!--START_SECTION:unique-->
 ## 🧠 Currently Thinking About
-> Exploring: Model
+> Exploring: Data
 
 ## 🌟 Repo Spotlight (This Week)
 
 | | |
 |---|---|
-| **[LanguagePlay](https://github.com/abhi-1408-shek/LanguagePlay)** | LanguagePlay Android App |
-| 🔤 Multiple | ⭐ 0 stars |
+| **[SunLe-AI](https://github.com/abhi-1408-shek/SunLe-AI)** | A serverless GenAI prototype for health coaching, featuring strict evidence grounding and human-in-the-loop review. |
+| 🔤 JavaScript | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | ☀️ Day Coder |
-| 📅 Most Active | Saturday |
+| ⏰ Coding Style | 🌆 Evening Hacker |
+| 📅 Most Active | Sunday |
 | 💬 Favorite Word | `auto-update:` |
 
 ## 📅 My GitHub Journey
@@ -190,7 +190,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Jul 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-07-19*
+*Auto-updated: 2026-07-20*
 <!--END_SECTION:unique-->
 
 <br>
