@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization**
+**📄 The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric**
 
-👥 *Authors*: Yuchen Yang, Yifan Zhao, Anisha Dasgupta et al.
+👥 *Authors*: Sheng-Yu Wang, Yotam Nitzan, Aaron Hertzmann et al.
 
-📝 *Abstract*: Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension between the GPU memory requirements of the model weights and the growing KV cache. We propose PagedWei...
+📝 *Abstract*: Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances into a single scalar value, offering no mechanism to condition on specific aspects. To bridge thi...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.16184v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.18237v1)
 
-*Last updated: 2026-07-20 03:47 UTC*
+*Last updated: 2026-07-21 03:26 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
