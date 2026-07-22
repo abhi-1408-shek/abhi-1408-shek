@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric**
+**📄 1-Lipschitz Neural Networks on Hadamard Manifolds**
 
-👥 *Authors*: Sheng-Yu Wang, Yotam Nitzan, Aaron Hertzmann et al.
+👥 *Authors*: Davide Murari, Marta Ghirardelli, Ben Adcock et al.
 
-📝 *Abstract*: Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances into a single scalar value, offering no mechanism to condition on specific aspects. To bridge thi...
+📝 *Abstract*: Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we construct and analyze a class of 1-Lipschitz neural networks on Hadamard manifolds. Our layers ar...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.18237v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.19335v1)
 
-*Last updated: 2026-07-21 03:26 UTC*
+*Last updated: 2026-07-22 03:25 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
