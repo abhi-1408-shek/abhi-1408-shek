@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 1-Lipschitz Neural Networks on Hadamard Manifolds**
+**📄 3D-Aware VLMs with Implicit and Explicit Geometries**
 
-👥 *Authors*: Davide Murari, Marta Ghirardelli, Ben Adcock et al.
+👥 *Authors*: Wenhao Li, Xueying Jiang, Quanhao Qian et al.
 
-📝 *Abstract*: Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we construct and analyze a class of 1-Lipschitz neural networks on Hadamard manifolds. Our layers ar...
+📝 *Abstract*: Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial aw...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.19335v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.21595v1)
 
-*Last updated: 2026-07-22 03:25 UTC*
+*Last updated: 2026-07-24 03:26 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
