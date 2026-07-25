@@ -180,7 +180,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 | Trait | Value |
 |-------|-------|
 | ⏰ Coding Style | ☀️ Day Coder |
-| 📅 Most Active | Sunday |
+| 📅 Most Active | Saturday |
 | 💬 Favorite Word | `auto-update:` |
 
 ## 📅 My GitHub Journey
