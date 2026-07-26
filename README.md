@@ -108,7 +108,7 @@ timeline
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -135,18 +135,17 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.44 % 
-Markdown                 2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-Text                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Markdown                 1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+Text                     1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Other                    1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Python                   55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 
 🐱‍💻 Projects: 
-internshala_project      4 hrs 58 mins       █████████████░░░░░░░░░░░░   52.39 % 
-new_project              1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-hdfc                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-video_gyaan              1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+new_project              1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   35.15 % 
+hdfc                     1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+internshala_project      1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+video_gyaan              1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +161,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 14:24:32 UTC
+ Last Updated on 26/07/2026 14:21:17 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
