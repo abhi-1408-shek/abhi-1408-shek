@@ -108,7 +108,9 @@ timeline
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2032%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -135,17 +137,36 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-Text                     1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Other                    1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Python                   55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Markdown                 33 mins             ██████████░░░░░░░░░░░░░░░   41.77 % 
+Other                    29 mins             █████████░░░░░░░░░░░░░░░░   36.07 % 
+Python                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-new_project              1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   35.15 % 
-hdfc                     1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-internshala_project      1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-video_gyaan              1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+hdfc                     1 hr 21 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 54 mins (67.01%)
+
+✍️ 16 lines written by AI, 19 lines written by hand (45.71% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 25 AI Prompts
+
+Gemini                   26 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 45.71% of written lines came from AI
+📝 Concise Prompter — average 146 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 46.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -161,7 +182,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 14:21:17 UTC
+ Last Updated on 27/07/2026 15:34:37 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
