@@ -108,28 +108,24 @@ timeline
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2032%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%204%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-🌆 Daytime                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-🌃 Evening                418 commits         ████████████████░░░░░░░░░   64.41 % 
-🌙 Night                  110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+🌞 Morning                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+🌆 Daytime                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+🌃 Evening                418 commits         ████████████████░░░░░░░░░   64.21 % 
+🌙 Night                  112 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   146 commits         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Tuesday                  92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Wednesday                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Thursday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Friday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Sunday                   138 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Monday                   146 commits         ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+Tuesday                  92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Wednesday                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Thursday                 82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Friday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Sunday                   138 commits         █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
 ```
 
 
@@ -172,17 +168,17 @@ Gemini                   26 lines            ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
-JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   12 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 27/07/2026 15:34:37 UTC
+ Last Updated on 28/07/2026 15:08:57 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
