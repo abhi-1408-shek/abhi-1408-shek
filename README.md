@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 3D-Aware VLMs with Implicit and Explicit Geometries**
+**📄 Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport**
 
-👥 *Authors*: Wenhao Li, Xueying Jiang, Quanhao Qian et al.
+👥 *Authors*: Xinyang Wen
 
-📝 *Abstract*: Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial aw...
+📝 *Abstract*: Dynamic applications, including optimal-transport Flow Matching, repeatedly solve related entropic optimal transport problems, yet conventional distributed Sinkhorn processes frames sequentially and synchronizes after every iteration. We present TemporalSinkhorn, a parallel-in-time executor that ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.21595v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.24741v1)
 
-*Last updated: 2026-07-26 03:38 UTC*
+*Last updated: 2026-07-28 03:18 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
