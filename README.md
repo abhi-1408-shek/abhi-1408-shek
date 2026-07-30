@@ -200,7 +200,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 |-------|-------|
 | ⏰ Coding Style | ☀️ Day Coder |
 | 📅 Most Active | Wednesday |
-| 💬 Favorite Word | `generated` |
+| 💬 Favorite Word | `updated` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
