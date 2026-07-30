@@ -137,36 +137,35 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 33 mins             ██████████░░░░░░░░░░░░░░░   41.77 % 
-Other                    29 mins             █████████░░░░░░░░░░░░░░░░   36.07 % 
-Python                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    34 mins             █████████████░░░░░░░░░░░░   53.86 % 
+Python                   17 mins             ███████░░░░░░░░░░░░░░░░░░   26.74 % 
+Markdown                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
 
 🐱‍💻 Projects: 
-hdfc                     1 hr 21 mins        █████████████████████████   100.00 % 
+hdfc                     58 mins             ███████████████████████░░   90.84 % 
+wow                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (67.01%)
+⏱ AI Coding Time: 1 hr (94.3%)
 
-✍️ 16 lines written by AI, 19 lines written by hand (45.71% AI-written)
+✍️ 16 lines written by AI, 18 lines written by hand (47.06% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 25 AI Prompts
+🧠 3 AI Sessions, 21 AI Prompts
 
 Gemini                   26 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 45.71% of written lines came from AI
-📝 Concise Prompter — average 146 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 46.94% of changed lines were hand-edited
+⚖️ Balanced with AI — 47.06% of written lines came from AI
+📝 Concise Prompter — average 352 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 40.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -182,7 +181,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 15:02:19 UTC
+ Last Updated on 30/07/2026 14:58:31 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
