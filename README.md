@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport**
+**📄 Learning to Trace Seiberg Dualities**
 
-👥 *Authors*: Xinyang Wen
+👥 *Authors*: Jonathan J. Heckman, Shani Meynet, Alessandro Mininno et al.
 
-📝 *Abstract*: Dynamic applications, including optimal-transport Flow Matching, repeatedly solve related entropic optimal transport problems, yet conventional distributed Sinkhorn processes frames sequentially and synchronizes after every iteration. We present TemporalSinkhorn, a parallel-in-time executor that ...
+📝 *Abstract*: Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two systems are dual, even when all of the "rules of the game" are well-known. Said diff...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.24741v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.28628v1)
 
-*Last updated: 2026-07-28 03:18 UTC*
+*Last updated: 2026-07-31 03:36 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
