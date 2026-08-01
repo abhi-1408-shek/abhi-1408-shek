@@ -187,20 +187,20 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 <!--START_SECTION:unique-->
 ## 🧠 Currently Thinking About
-> Exploring: Python
+> Working on: LanguagePlay
 
 ## 🌟 Repo Spotlight (This Week)
 
 | | |
 |---|---|
-| **[SunLe-AI](https://github.com/abhi-1408-shek/SunLe-AI)** | A serverless GenAI prototype for health coaching, featuring strict evidence grounding and human-in-the-loop review. |
-| 🔤 JavaScript | ⭐ 0 stars |
+| **[EDGE_CORRECTOR_THERMAL](https://github.com/abhi-1408-shek/EDGE_CORRECTOR_THERMAL)** | pixelift group |
+| 🔤 Jupyter Notebook | ⭐ 3 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
 | ⏰ Coding Style | ☀️ Day Coder |
-| 📅 Most Active | Sunday |
+| 📅 Most Active | Friday |
 | 💬 Favorite Word | `auto-update:` |
 
 ## 📅 My GitHub Journey
@@ -208,9 +208,9 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 |------|----------|
 | 🚀 Jul 2024 | 🎉 Joined GitHub |
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
-| ⚡ Jul 2026 | 🔥 Still Going Strong! |
+| ⚡ Aug 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-07-31*
+*Auto-updated: 2026-08-01*
 <!--END_SECTION:unique-->
 
 <br>
