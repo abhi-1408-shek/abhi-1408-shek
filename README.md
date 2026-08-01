@@ -187,7 +187,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 <!--START_SECTION:unique-->
 ## 🧠 Currently Thinking About
-> Working on: LanguagePlay
+> Working on: abhi-1408-shek
 
 ## 🌟 Repo Spotlight (This Week)
 
@@ -200,7 +200,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 | Trait | Value |
 |-------|-------|
 | ⏰ Coding Style | ☀️ Day Coder |
-| 📅 Most Active | Friday |
+| 📅 Most Active | Saturday |
 | 💬 Favorite Word | `auto-update:` |
 
 ## 📅 My GitHub Journey
