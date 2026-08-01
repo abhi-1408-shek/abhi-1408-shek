@@ -110,8 +110,6 @@ timeline
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2010%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -147,27 +145,6 @@ hdfc                     36 mins             ███████████�
 wow                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 38 mins (89.68%)
-
-✍️ 16 lines written by AI, 18 lines written by hand (47.06% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 18 AI Prompts
-
-Gemini                   26 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 47.06% of written lines came from AI
-📝 Concise Prompter — average 331 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 42.22% of changed lines were hand-edited
-```
 
 **I Mostly Code in Python** 
 
