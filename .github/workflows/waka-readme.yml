@@ -29,3 +29,5 @@ jobs:
           SHOW_UPDATED_DATE: "True"
           COMMIT_BY_ME: "False"
           LOCALE: "en"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
