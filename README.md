@@ -135,13 +135,15 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    12 mins             ██████████████████████░░░   89.34 % 
-CSV                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    30 mins             ███████████████████████░░   91.51 % 
+CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-hdfc                     7 mins              █████████████░░░░░░░░░░░░   52.88 % 
-wow                      6 mins              ████████████░░░░░░░░░░░░░   47.12 % 
+hdfc                     25 mins             ███████████████████░░░░░░   76.13 % 
+wow                      6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+abhi-1408-shek           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 ```
 
 **I Mostly Code in Python** 
@@ -157,7 +159,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 14:18:44 UTC
+ Last Updated on 02/08/2026 14:20:37 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
