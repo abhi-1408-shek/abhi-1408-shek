@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Learning to Trace Seiberg Dualities**
+**📄 Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering**
 
-👥 *Authors*: Jonathan J. Heckman, Shani Meynet, Alessandro Mininno et al.
+👥 *Authors*: Arkajyoti Bhattacharjee, Arnab Auddy
 
-📝 *Abstract*: Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two systems are dual, even when all of the "rules of the game" are well-known. Said diff...
+📝 *Abstract*: Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study differentially private recovery of density modes for multivariate distributions under local smoothness...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.28628v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2607.29675v1)
 
-*Last updated: 2026-08-02 03:35 UTC*
+*Last updated: 2026-08-03 03:37 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
