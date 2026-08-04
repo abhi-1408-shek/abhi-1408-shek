@@ -108,7 +108,7 @@ timeline
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2043%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -135,15 +135,16 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 7 mins         ██████████████████████░░░   87.81 % 
-Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    1 hr 19 mins        ████████████████████░░░░░   78.39 % 
+Python                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🐱‍💻 Projects: 
-hdfc                     1 hr 8 mins         ██████████████████████░░░   89.58 % 
-wow                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-abhi-1408-shek           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+hdfc                     1 hr 33 mins        ███████████████████████░░   92.17 % 
+wow                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+abhi-1408-shek           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 
 **I Mostly Code in Python** 
@@ -159,7 +160,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 15:34:26 UTC
+ Last Updated on 04/08/2026 15:13:41 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
