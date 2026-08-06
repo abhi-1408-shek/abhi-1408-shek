@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering**
+**📄 OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling**
 
-👥 *Authors*: Arkajyoti Bhattacharjee, Arnab Auddy
+👥 *Authors*: Indraneil Paul, Falko Helm, Goran Glavaš et al.
 
-📝 *Abstract*: Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study differentially private recovery of density modes for multivariate distributions under local smoothness...
+📝 *Abstract*: Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora, however, are dominated by books, academic articles, and code repositories, which are finite res...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2607.29675v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2608.05141v1)
 
-*Last updated: 2026-08-03 03:37 UTC*
+*Last updated: 2026-08-06 03:19 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
