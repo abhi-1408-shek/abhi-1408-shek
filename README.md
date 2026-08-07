@@ -108,47 +108,6 @@ timeline
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2055%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-🌆 Daytime                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-🌃 Evening                418 commits         ████████████████░░░░░░░░░   64.01 % 
-🌙 Night                  112 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   146 commits         ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-Tuesday                  92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Wednesday                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Thursday                 82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Friday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Saturday                 68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Sunday                   138 commits         █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    1 hr 47 mins        ███████████░░░░░░░░░░░░░░   42.02 % 
-Markdown                 1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-Python                   1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-
-🐱‍💻 Projects: 
-hdfc                     2 hrs 17 mins       ██████████████░░░░░░░░░░░   54.08 % 
-new_hdfc                 58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-old                      56 mins             ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-abhi-1408-shek           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-wow                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -162,7 +121,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 15:03:59 UTC
+ Last Updated on 07/08/2026 14:03:15 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
