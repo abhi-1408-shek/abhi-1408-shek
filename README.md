@@ -135,16 +135,16 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   36.01 % 
-Markdown                 1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   30.21 % 
-Python                   1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Python                   1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   35.01 % 
+Markdown                 1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   33.62 % 
+Other                    48 mins             ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+SQL                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🐱‍💻 Projects: 
-hdfc                     2 hrs 2 mins        █████████████░░░░░░░░░░░░   51.53 % 
-new_hdfc                 58 mins             ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-old                      56 mins             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+hdfc                     1 hr 19 mins        ██████████░░░░░░░░░░░░░░░   40.72 % 
+new_hdfc                 58 mins             ████████░░░░░░░░░░░░░░░░░   30.16 % 
+old                      56 mins             ███████░░░░░░░░░░░░░░░░░░   29.12 % 
 ```
 
 **I Mostly Code in Python** 
@@ -160,7 +160,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 13:39:26 UTC
+ Last Updated on 10/08/2026 14:09:52 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
