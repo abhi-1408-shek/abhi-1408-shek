@@ -171,15 +171,15 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 | | |
 |---|---|
-| **[SunLe-AI](https://github.com/abhi-1408-shek/SunLe-AI)** | A serverless GenAI prototype for health coaching, featuring strict evidence grounding and human-in-the-loop review. |
-| 🔤 JavaScript | ⭐ 0 stars |
+| **[AQI_PREDICTER](https://github.com/abhi-1408-shek/AQI_PREDICTER)** | SIMPLE STREAMLIT APP FOR AQI PREDICTION (NO API) |
+| 🔤 Python | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | ☀️ Day Coder |
+| ⏰ Coding Style | 🌆 Evening Hacker |
 | 📅 Most Active | Sunday |
-| 💬 Favorite Word | `updated` |
+| 💬 Favorite Word | `generated` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
@@ -188,7 +188,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Aug 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-08-09*
+*Auto-updated: 2026-08-10*
 <!--END_SECTION:unique-->
 
 <br>
