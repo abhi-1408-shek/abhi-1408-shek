@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling**
+**📄 ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls**
 
-👥 *Authors*: Indraneil Paul, Falko Helm, Goran Glavaš et al.
+👥 *Authors*: Chen Lyu, Xingwei Tan, Simon Cullen et al.
 
-📝 *Abstract*: Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora, however, are dominated by books, academic articles, and code repositories, which are finite res...
+📝 *Abstract*: Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats and coercion can appear directly in messages, while behaviours such as surveill...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2608.05141v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2608.11200v1)
 
-*Last updated: 2026-08-06 03:19 UTC*
+*Last updated: 2026-08-12 02:29 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
