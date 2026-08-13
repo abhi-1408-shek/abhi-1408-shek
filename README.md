@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls**
+**📄 AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses**
 
-👥 *Authors*: Chen Lyu, Xingwei Tan, Simon Cullen et al.
+👥 *Authors*: Cheng Qian, Wenting Zhao, Liangwei Yang et al.
 
-📝 *Abstract*: Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats and coercion can appear directly in messages, while behaviours such as surveill...
+📝 *Abstract*: Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-time methods. In this paper, we ask whether such transfer can instead occur at test time. We stud...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2608.11200v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2608.12307v1)
 
-*Last updated: 2026-08-12 02:29 UTC*
+*Last updated: 2026-08-13 02:30 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
