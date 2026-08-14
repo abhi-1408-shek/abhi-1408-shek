@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses**
+**📄 Defensive Boosting for Online Probabilistic Forecasting**
 
-👥 *Authors*: Cheng Qian, Wenting Zhao, Liangwei Yang et al.
+👥 *Authors*: Georgy Noarov, Aaron Roth
 
-📝 *Abstract*: Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-time methods. In this paper, we ask whether such transfer can instead occur at test time. We stud...
+📝 *Abstract*: We study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain two incomparable guarantees that existing online boosting techniques provide separately. Online gra...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2608.12307v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2608.13554v1)
 
-*Last updated: 2026-08-13 02:30 UTC*
+*Last updated: 2026-08-14 02:29 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
