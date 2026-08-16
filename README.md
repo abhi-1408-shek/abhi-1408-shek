@@ -173,9 +173,9 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | 🌆 Evening Hacker |
-| 📅 Most Active | Saturday |
-| 💬 Favorite Word | `generated` |
+| ⏰ Coding Style | ☀️ Day Coder |
+| 📅 Most Active | Sunday |
+| 💬 Favorite Word | `updated` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
