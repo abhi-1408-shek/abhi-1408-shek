@@ -167,15 +167,15 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 | | |
 |---|---|
-| **[AQI_PREDICTER](https://github.com/abhi-1408-shek/AQI_PREDICTER)** | SIMPLE STREAMLIT APP FOR AQI PREDICTION (NO API) |
-| 🔤 Python | ⭐ 0 stars |
+| **[SIH_RAG](https://github.com/abhi-1408-shek/SIH_RAG)** | Multimodal RAG prototype built during SIH’25 Finale |
+| 🔤 HTML | ⭐ 4 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | ☀️ Day Coder |
+| ⏰ Coding Style | 🌆 Evening Hacker |
 | 📅 Most Active | Sunday |
-| 💬 Favorite Word | `updated` |
+| 💬 Favorite Word | `generated` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
@@ -184,7 +184,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Aug 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-08-16*
+*Auto-updated: 2026-08-17*
 <!--END_SECTION:unique-->
 
 <br>
