@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Defensive Boosting for Online Probabilistic Forecasting**
+**📄 On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification**
 
-👥 *Authors*: Georgy Noarov, Aaron Roth
+👥 *Authors*: Qinyuan Ye, Yu Li, Yada Pruksachatkun et al.
 
-📝 *Abstract*: We study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain two incomparable guarantees that existing online boosting techniques provide separately. Online gra...
+📝 *Abstract*: Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, the reliability aspects of these methods have been critically overlooked. In this work, we conduc...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2608.13554v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2608.18066v1)
 
-*Last updated: 2026-08-14 02:29 UTC*
+*Last updated: 2026-08-20 01:39 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
