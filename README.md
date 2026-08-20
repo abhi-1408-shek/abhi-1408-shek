@@ -108,7 +108,7 @@ timeline
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%208%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -135,15 +135,15 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   31 mins             ████████████░░░░░░░░░░░░░   47.40 % 
-TypeScript               15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-Markdown                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-CSV                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+TypeScript               21 mins             ███████████░░░░░░░░░░░░░░   45.93 % 
+Markdown                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+Python                   8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+CSV                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-old                      50 mins             ███████████████████░░░░░░   77.01 % 
-MY_PORTFOLIO             15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+old                      25 mins             ██████████████░░░░░░░░░░░   54.07 % 
+MY_PORTFOLIO             21 mins             ███████████░░░░░░░░░░░░░░   45.93 % 
 ```
 
 **I Mostly Code in Python** 
@@ -159,7 +159,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 13:34:55 UTC
+ Last Updated on 20/08/2026 13:37:03 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
