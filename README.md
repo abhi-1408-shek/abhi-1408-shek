@@ -169,15 +169,15 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 | | |
 |---|---|
-| **[SIH_RAG](https://github.com/abhi-1408-shek/SIH_RAG)** | Multimodal RAG prototype built during SIH’25 Finale |
-| 🔤 HTML | ⭐ 4 stars |
+| **[LanguagePlay](https://github.com/abhi-1408-shek/LanguagePlay)** | LanguagePlay Android App |
+| 🔤 Kotlin | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | ☀️ Day Coder |
+| ⏰ Coding Style | 🌆 Evening Hacker |
 | 📅 Most Active | Sunday |
-| 💬 Favorite Word | `updated` |
+| 💬 Favorite Word | `generated` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
@@ -186,7 +186,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Aug 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-08-23*
+*Auto-updated: 2026-08-24*
 <!--END_SECTION:unique-->
 
 <br>
