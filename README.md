@@ -135,14 +135,11 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               21 mins             ████████████░░░░░░░░░░░░░   46.32 % 
-Markdown                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-Python                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-CSV                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Markdown                 6 mins              ██████████████░░░░░░░░░░░   56.85 % 
+CSV                      5 mins              ███████████░░░░░░░░░░░░░░   43.15 % 
 
 🐱‍💻 Projects: 
-old                      24 mins             █████████████░░░░░░░░░░░░   53.68 % 
-MY_PORTFOLIO             21 mins             ████████████░░░░░░░░░░░░░   46.32 % 
+old                      12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -158,7 +155,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 13:23:38 UTC
+ Last Updated on 24/08/2026 13:40:53 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
