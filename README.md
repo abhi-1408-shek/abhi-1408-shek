@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification**
+**📄 How to Train a Critic Stably and Efficiently**
 
-👥 *Authors*: Qinyuan Ye, Yu Li, Yada Pruksachatkun et al.
+👥 *Authors*: Penghui Qi, Xiangxin Zhou, Wee Sun Lee
 
-📝 *Abstract*: Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, the reliability aspects of these methods have been critically overlooked. In this work, we conduc...
+📝 *Abstract*: Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstabl...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2608.18066v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2608.23566v1)
 
-*Last updated: 2026-08-20 01:39 UTC*
+*Last updated: 2026-08-26 01:45 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
