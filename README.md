@@ -171,8 +171,8 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | ☀️ Day Coder |
-| 📅 Most Active | Wednesday |
+| ⏰ Coding Style | 🌙 Night Owl |
+| 📅 Most Active | Sunday |
 | 💬 Favorite Word | `auto-update:` |
 
 ## 📅 My GitHub Journey
