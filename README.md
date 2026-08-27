@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 How to Train a Critic Stably and Efficiently**
+**📄 VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**
 
-👥 *Authors*: Penghui Qi, Xiangxin Zhou, Wee Sun Lee
+👥 *Authors*: Junxiang Xu, Ruisi Wang, Fanyi Pu et al.
 
-📝 *Abstract*: Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstabl...
+📝 *Abstract*: Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for problem solving beyond language. Yet progress remains bottlenecked by the lac...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2608.23566v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2608.26105v1)
 
-*Last updated: 2026-08-26 01:45 UTC*
+*Last updated: 2026-08-27 08:49 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
