@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**
+**📄 Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study**
 
-👥 *Authors*: Junxiang Xu, Ruisi Wang, Fanyi Pu et al.
+👥 *Authors*: Kevin Zhu, Ryan Zhang, Baraa Abed et al.
 
-📝 *Abstract*: Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for problem solving beyond language. Yet progress remains bottlenecked by the lac...
+📝 *Abstract*: Currently used sepsis severity indices rely on fixed variables and weights established decades ago, which are coarsely discretized and calibrated to a cohort that no longer reflects contemporary critical care. No alternative learned directly from patient trajectories is in routine use. We conduct...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2608.26105v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2608.27421v1)
 
-*Last updated: 2026-08-27 08:49 UTC*
+*Last updated: 2026-08-28 11:02 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
