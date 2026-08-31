@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study**
+**📄 QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs**
 
-👥 *Authors*: Kevin Zhu, Ryan Zhang, Baraa Abed et al.
+👥 *Authors*: Vaibhav Mehandiratta, Saket Ramchandra
 
-📝 *Abstract*: Currently used sepsis severity indices rely on fixed variables and weights established decades ago, which are coarsely discretized and calibrated to a cohort that no longer reflects contemporary critical care. No alternative learned directly from patient trajectories is in routine use. We conduct...
+📝 *Abstract*: We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a general computational implementation in which the solution on each edge of the graph is approximated...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2608.27421v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2608.28589v1)
 
-*Last updated: 2026-08-30 05:00 UTC*
+*Last updated: 2026-08-31 05:06 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
