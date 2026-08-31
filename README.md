@@ -165,14 +165,14 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 | | |
 |---|---|
-| **[LanguagePlay](https://github.com/abhi-1408-shek/LanguagePlay)** | LanguagePlay Android App |
-| 🔤 Kotlin | ⭐ 0 stars |
+| **[EDGE_CORRECTOR_THERMAL](https://github.com/abhi-1408-shek/EDGE_CORRECTOR_THERMAL)** | pixelift group |
+| 🔤 Jupyter Notebook | ⭐ 3 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | ☀️ Day Coder |
-| 📅 Most Active | Saturday |
+| ⏰ Coding Style | 🌆 Evening Hacker |
+| 📅 Most Active | Sunday |
 | 💬 Favorite Word | `auto-update:` |
 
 ## 📅 My GitHub Journey
@@ -182,7 +182,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Aug 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-08-30*
+*Auto-updated: 2026-08-31*
 <!--END_SECTION:unique-->
 
 <br>
