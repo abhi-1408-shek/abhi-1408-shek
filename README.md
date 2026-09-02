@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs**
+**📄 Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation**
 
-👥 *Authors*: Vaibhav Mehandiratta, Saket Ramchandra
+👥 *Authors*: Himil Vasava, Ming Jiang
 
-📝 *Abstract*: We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a general computational implementation in which the solution on each edge of the graph is approximated...
+📝 *Abstract*: LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remains poorly understood. We investigate this procedure mechanistically through an eight-attack pertu...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2608.28589v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2609.01604v1)
 
-*Last updated: 2026-08-31 05:06 UTC*
+*Last updated: 2026-09-02 04:05 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
