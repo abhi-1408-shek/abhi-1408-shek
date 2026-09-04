@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation**
+**📄 Compile by Training: Turning Natural-Language Specifications into Local Neural Functions**
 
-👥 *Authors*: Himil Vasava, Ming Jiang
+👥 *Authors*: Yuntian Deng, Pengyu Nie, Stuart Shieber
 
-📝 *Abstract*: LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remains poorly understood. We investigate this procedure mechanistically through an eight-attack pertu...
+📝 *Abstract*: Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusabl...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2609.01604v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2609.04199v1)
 
-*Last updated: 2026-09-02 04:05 UTC*
+*Last updated: 2026-09-04 04:07 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
