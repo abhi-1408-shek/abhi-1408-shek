@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Compile by Training: Turning Natural-Language Specifications into Local Neural Functions**
+**📄 UniMate: One Unified Model to Animate Diverse Skeletons**
 
-👥 *Authors*: Yuntian Deng, Pengyu Nie, Stuart Shieber
+👥 *Authors*: Linzhan Mou, Jiahui Lei, Zhiyang Dou et al.
 
-📝 *Abstract*: Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusabl...
+📝 *Abstract*: Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motion...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2609.04199v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2609.05415v1)
 
-*Last updated: 2026-09-06 04:11 UTC*
+*Last updated: 2026-09-07 04:10 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
