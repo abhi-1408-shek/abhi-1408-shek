@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 UniMate: One Unified Model to Animate Diverse Skeletons**
+**📄 Learning Length-Extrapolatable Recurrent Models**
 
-👥 *Authors*: Linzhan Mou, Jiahui Lei, Zhiyang Dou et al.
+👥 *Authors*: Hanwen Jiang
 
-📝 *Abstract*: Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motion...
+📝 *Abstract*: Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gradients that vanish or explode along temporal paths. However, dense per-token losses can still tra...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2609.05415v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2609.09157v1)
 
-*Last updated: 2026-09-08 04:11 UTC*
+*Last updated: 2026-09-09 04:17 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
