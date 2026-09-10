@@ -135,16 +135,15 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 18 mins        ██████████░░░░░░░░░░░░░░░   40.97 % 
-C                        40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Python                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-C++                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Python                   55 mins             ███████████░░░░░░░░░░░░░░   45.59 % 
+C                        41 mins             ████████░░░░░░░░░░░░░░░░░   33.72 % 
+C++                      25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-btorch                   1 hr 29 mins        ████████████░░░░░░░░░░░░░   46.76 % 
-pre                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   34.36 % 
-foreign                  36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+pre                      1 hr 6 mins         ██████████████░░░░░░░░░░░   54.21 % 
+cyber_assignment         51 mins             ██████████░░░░░░░░░░░░░░░   41.91 % 
+btorch                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 
 **I Mostly Code in Python** 
@@ -160,7 +159,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 16:56:28 UTC
+ Last Updated on 10/09/2026 16:44:03 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
