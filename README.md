@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Learning Length-Extrapolatable Recurrent Models**
+**📄 Likelihood-free inference with nuisance parameters through normalizing flows**
 
-👥 *Authors*: Hanwen Jiang
+👥 *Authors*: Phil Assheton
 
-📝 *Abstract*: Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gradients that vanish or explode along temporal paths. However, dense per-token losses can still tra...
+📝 *Abstract*: We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from the distribution of interest. We show that the statistic is near-pivotal in t...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2609.09157v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2609.10534v1)
 
-*Last updated: 2026-09-09 04:17 UTC*
+*Last updated: 2026-09-10 04:15 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
