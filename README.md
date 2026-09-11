@@ -108,7 +108,7 @@ timeline
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -135,15 +135,15 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   55 mins             ███████████░░░░░░░░░░░░░░   45.59 % 
-C                        41 mins             ████████░░░░░░░░░░░░░░░░░   33.72 % 
-C++                      25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+C++                      1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   35.73 % 
+Python                   57 mins             ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+C                        41 mins             █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Other                    26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 
 🐱‍💻 Projects: 
-pre                      1 hr 6 mins         ██████████████░░░░░░░░░░░   54.21 % 
-cyber_assignment         51 mins             ██████████░░░░░░░░░░░░░░░   41.91 % 
-btorch                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+pre                      1 hr 51 mins        ██████████████░░░░░░░░░░░   57.44 % 
+cyber_assignment         51 mins             ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+btorch                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
 ```
 
 **I Mostly Code in Python** 
@@ -159,7 +159,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 16:44:03 UTC
+ Last Updated on 11/09/2026 16:48:30 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
