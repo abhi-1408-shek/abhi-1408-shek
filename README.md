@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Likelihood-free inference with nuisance parameters through normalizing flows**
+**📄 General Quantification of Covariate and Concept Shifts**
 
-👥 *Authors*: Phil Assheton
+👥 *Authors*: Hongbo Chen, Li Charlie Xia
 
-📝 *Abstract*: We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from the distribution of interest. We show that the statistic is near-pivotal in t...
+📝 *Abstract*: Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samples. In this paper, we bridge the gap between theory and practical applications. We first show tha...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2609.10534v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2609.11918v1)
 
-*Last updated: 2026-09-10 04:15 UTC*
+*Last updated: 2026-09-11 04:14 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
