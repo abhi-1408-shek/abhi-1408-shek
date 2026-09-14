@@ -108,7 +108,7 @@ timeline
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2015%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -135,17 +135,17 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   35.29 % 
-Python                   57 mins             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-C++                      45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Other                    1 hr 34 mins        ██████████░░░░░░░░░░░░░░░   41.64 % 
+Python                   57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+C++                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🐱‍💻 Projects: 
-kudi                     1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   36.28 % 
-cyber_assignment         51 mins             ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-pre                      46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-btorch                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+kudi                     1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   32.72 % 
+btorch                   53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+cyber_assignment         51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+pre                      46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
 ```
 
 **I Mostly Code in Python** 
@@ -161,7 +161,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 16:41:48 UTC
+ Last Updated on 14/09/2026 18:14:45 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
