@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 General Quantification of Covariate and Concept Shifts**
+**📄 ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation**
 
-👥 *Authors*: Hongbo Chen, Li Charlie Xia
+👥 *Authors*: Vicky Feliren, A. Taufiq Asyhari, Muhamad Risqi U. Saputra
 
-📝 *Abstract*: Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samples. In this paper, we bridge the gap between theory and practical applications. We first show tha...
+📝 *Abstract*: Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decisions. As one of the most advanced uncertainty estimation frameworks, conformal prediction (CP) offer...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2609.11918v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2609.17499v1)
 
-*Last updated: 2026-09-12 04:13 UTC*
+*Last updated: 2026-09-16 04:28 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
