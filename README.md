@@ -113,21 +113,21 @@ timeline
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-🌆 Daytime                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-🌃 Evening                418 commits         ████████████████░░░░░░░░░   63.91 % 
-🌙 Night                  113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+🌞 Morning                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+🌆 Daytime                92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+🌃 Evening                422 commits         ████████████████░░░░░░░░░   64.13 % 
+🌙 Night                  113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   146 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Tuesday                  92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Wednesday                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Thursday                 82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Friday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Saturday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Sunday                   138 commits         █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Monday                   146 commits         ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Tuesday                  92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Wednesday                64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Thursday                 82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Friday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Saturday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Sunday                   138 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
 ```
 
 
@@ -135,33 +135,34 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 34 mins        ██████████░░░░░░░░░░░░░░░   41.64 % 
-Python                   57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-C++                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Other                    1 hr 34 mins        ██████████░░░░░░░░░░░░░░░   40.22 % 
+Python                   1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+C++                      48 mins             █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🐱‍💻 Projects: 
-kudi                     1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   32.72 % 
-btorch                   53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-cyber_assignment         51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-pre                      46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+kudi                     1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   31.60 % 
+btorch                   53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+cyber_assignment         51 mins             █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+pre                      46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+foreign                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   13 repos            █████████░░░░░░░░░░░░░░░░   37.14 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
 
- Last Updated on 15/09/2026 17:20:54 UTC
+ Last Updated on 16/09/2026 17:20:37 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
