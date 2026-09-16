@@ -167,21 +167,21 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 <!--START_SECTION:unique-->
 ## 🧠 Currently Thinking About
-> Working on: abhi-1408-shek
+> Exploring: Optimize
 
 ## 🌟 Repo Spotlight (This Week)
 
 | | |
 |---|---|
-| **[AQI_PREDICTER](https://github.com/abhi-1408-shek/AQI_PREDICTER)** | SIMPLE STREAMLIT APP FOR AQI PREDICTION (NO API) |
-| 🔤 Python | ⭐ 0 stars |
+| **[EDGE_CORRECTOR_THERMAL](https://github.com/abhi-1408-shek/EDGE_CORRECTOR_THERMAL)** | pixelift group |
+| 🔤 Jupyter Notebook | ⭐ 3 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | 🌆 Evening Hacker |
-| 📅 Most Active | Sunday |
-| 💬 Favorite Word | `generated` |
+| ⏰ Coding Style | ☀️ Day Coder |
+| 📅 Most Active | Wednesday |
+| 💬 Favorite Word | `auto-update:` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
