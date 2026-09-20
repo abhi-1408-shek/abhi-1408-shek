@@ -135,18 +135,18 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   37.68 % 
-Other                    1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   30.01 % 
-Markdown                 48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Text                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Python                   1 hr 51 mins        █████████████░░░░░░░░░░░░   50.39 % 
+Other                    44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Text                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🐱‍💻 Projects: 
-vikash                   2 hrs 46 mins       ██████████████░░░░░░░░░░░   55.95 % 
-kudi                     1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-btorch                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-digital-twin             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-foreign                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+vikash                   2 hrs 46 mins       ███████████████████░░░░░░   74.82 % 
+btorch                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+digital-twin             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+foreign                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+hf-space                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +162,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 16:08:16 UTC
+ Last Updated on 20/09/2026 16:33:22 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
