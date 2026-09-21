@@ -173,15 +173,15 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 | | |
 |---|---|
-| **[EDGE_CORRECTOR_THERMAL](https://github.com/abhi-1408-shek/EDGE_CORRECTOR_THERMAL)** | pixelift group |
-| 🔤 Jupyter Notebook | ⭐ 3 stars |
+| **[SunLe-AI](https://github.com/abhi-1408-shek/SunLe-AI)** | A serverless GenAI prototype for health coaching, featuring strict evidence grounding and human-in-the-loop review. |
+| 🔤 JavaScript | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
 | ⏰ Coding Style | ☀️ Day Coder |
 | 📅 Most Active | Sunday |
-| 💬 Favorite Word | `updated` |
+| 💬 Favorite Word | `generated` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
@@ -190,7 +190,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Sep 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-09-20*
+*Auto-updated: 2026-09-21*
 <!--END_SECTION:unique-->
 
 <br>
