@@ -135,17 +135,17 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 51 mins        ██████████████░░░░░░░░░░░   55.97 % 
-Text                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Python                   1 hr 45 mins        █████████████░░░░░░░░░░░░   50.14 % 
+Text                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+C++                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 
 🐱‍💻 Projects: 
-vikash                   2 hrs 46 mins       █████████████████████░░░░   83.10 % 
-digital-twin             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-foreign                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-hf-space                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+vikash                   2 hrs 46 mins       ████████████████████░░░░░   79.31 % 
+digital-twin             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+cyber_assignment         17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+hf-space                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -161,7 +161,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 17:23:31 UTC
+ Last Updated on 23/09/2026 17:32:18 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
