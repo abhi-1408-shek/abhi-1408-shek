@@ -135,10 +135,16 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      17 mins             █████████████████████████   100.00 % 
+C++                      23 mins             ██████████░░░░░░░░░░░░░░░   41.93 % 
+JavaScript               17 mins             ████████░░░░░░░░░░░░░░░░░   31.35 % 
+Markdown                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🐱‍💻 Projects: 
-cyber_assignment         17 mins             █████████████████████████   100.00 % 
+cyber_assignment         23 mins             ██████████░░░░░░░░░░░░░░░   41.93 % 
+winning                  17 mins             ████████░░░░░░░░░░░░░░░░░   31.23 % 
+Unknown Project          14 mins             ███████░░░░░░░░░░░░░░░░░░   26.84 % 
 ```
 
 **I Mostly Code in Python** 
@@ -154,7 +160,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 17:36:47 UTC
+ Last Updated on 26/09/2026 16:48:48 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
