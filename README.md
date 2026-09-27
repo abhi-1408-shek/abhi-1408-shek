@@ -108,7 +108,7 @@ timeline
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2020%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -135,16 +135,16 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      23 mins             ██████████░░░░░░░░░░░░░░░   41.93 % 
-JavaScript               17 mins             ████████░░░░░░░░░░░░░░░░░   31.35 % 
-Markdown                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+C++                      23 mins             ██████████░░░░░░░░░░░░░░░   39.99 % 
+JavaScript               17 mins             ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+Markdown                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🐱‍💻 Projects: 
-cyber_assignment         23 mins             ██████████░░░░░░░░░░░░░░░   41.93 % 
-winning                  17 mins             ████████░░░░░░░░░░░░░░░░░   31.23 % 
-Unknown Project          14 mins             ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+cyber_assignment         23 mins             ██████████░░░░░░░░░░░░░░░   39.99 % 
+Unknown Project          17 mins             ████████░░░░░░░░░░░░░░░░░   30.22 % 
+winning                  17 mins             ███████░░░░░░░░░░░░░░░░░░   29.79 % 
 ```
 
 **I Mostly Code in Python** 
@@ -160,7 +160,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 16:48:48 UTC
+ Last Updated on 27/09/2026 17:20:35 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
