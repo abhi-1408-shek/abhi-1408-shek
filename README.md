@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation**
+**📄 Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency**
 
-👥 *Authors*: Vicky Feliren, A. Taufiq Asyhari, Muhamad Risqi U. Saputra
+👥 *Authors*: Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe et al.
 
-📝 *Abstract*: Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decisions. As one of the most advanced uncertainty estimation frameworks, conformal prediction (CP) offer...
+📝 *Abstract*: Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping mechanisms or by explicitly encouraging shorter reasoning during training, for example through rein...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2609.17499v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2609.31619v1)
 
-*Last updated: 2026-09-16 04:28 UTC*
+*Last updated: 2026-09-28 04:58 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
