@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency**
+**📄 PDMD: Projected Distribution Matching Distillation for Video Diffusion Models**
 
-👥 *Authors*: Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe et al.
+👥 *Authors*: Zimo Wang, Junkun Yuan, Angtian Wang et al.
 
-📝 *Abstract*: Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping mechanisms or by explicitly encouraging shorter reasoning during training, for example through rein...
+📝 *Abstract*: Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) to just a few. However, DMD samples can degrade during training, exhibiting progressive oversatur...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2609.31619v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2609.35768v1)
 
-*Last updated: 2026-09-28 04:58 UTC*
+*Last updated: 2026-09-29 05:23 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
