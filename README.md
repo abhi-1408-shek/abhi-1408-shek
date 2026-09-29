@@ -165,21 +165,21 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 <!--START_SECTION:unique-->
 ## 🧠 Currently Thinking About
-> Exploring: Optimize
+> Working on: abhi-1408-shek
 
 ## 🌟 Repo Spotlight (This Week)
 
 | | |
 |---|---|
-| **[AQI_PREDICTER](https://github.com/abhi-1408-shek/AQI_PREDICTER)** | SIMPLE STREAMLIT APP FOR AQI PREDICTION (NO API) |
+| **[Shipboard-Power-Management-Fault-Diagnosis](https://github.com/abhi-1408-shek/Shipboard-Power-Management-Fault-Diagnosis)** | Software-Defined Virtual Digital Twin for Shipboard Power Management & Fault Diagnosis |
 | 🔤 Python | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
-| ⏰ Coding Style | ☀️ Day Coder |
-| 📅 Most Active | Wednesday |
-| 💬 Favorite Word | `auto-update:` |
+| ⏰ Coding Style | 🌆 Evening Hacker |
+| 📅 Most Active | Tuesday |
+| 💬 Favorite Word | `fix:` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
