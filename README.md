@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 PDMD: Projected Distribution Matching Distillation for Video Diffusion Models**
+**📄 Skill-Space Shooting for Autonomous Robot Policy Improvement**
 
-👥 *Authors*: Zimo Wang, Junkun Yuan, Angtian Wang et al.
+👥 *Authors*: Zihang Rui, Renhao Wang, Haoxu Huang et al.
 
-📝 *Abstract*: Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) to just a few. However, DMD samples can degrade during training, exhibiting progressive oversatur...
+📝 *Abstract*: Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2609.35768v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2609.38178v1)
 
-*Last updated: 2026-09-29 05:23 UTC*
+*Last updated: 2026-09-30 05:11 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
