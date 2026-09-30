@@ -135,16 +135,18 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      23 mins             ██████████░░░░░░░░░░░░░░░   39.99 % 
-JavaScript               17 mins             ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-Markdown                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+JavaScript               36 mins             ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+TypeScript               32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+TOML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+CSS                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 
 🐱‍💻 Projects: 
-cyber_assignment         23 mins             ██████████░░░░░░░░░░░░░░░   39.99 % 
-Unknown Project          17 mins             ████████░░░░░░░░░░░░░░░░░   30.22 % 
-winning                  17 mins             ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+heoil                    59 mins             ██████████░░░░░░░░░░░░░░░   41.24 % 
+Unknown Project          24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+JMC-Vimarsh              20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+winning                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+hi                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 ```
 
 **I Mostly Code in Python** 
@@ -160,7 +162,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 18:21:53 UTC
+ Last Updated on 30/09/2026 18:11:08 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
