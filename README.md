@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Skill-Space Shooting for Autonomous Robot Policy Improvement**
+**📄 Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis**
 
-👥 *Authors*: Zihang Rui, Renhao Wang, Haoxu Huang et al.
+👥 *Authors*: Tian Xia, Minghao Liu, Yiqing Liang et al.
 
-📝 *Abstract*: Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic ...
+📝 *Abstract*: Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanced: a constant-majority predictor can score above 90% accuracy while being clinically useless. We...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2609.38178v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2609.40361v1)
 
-*Last updated: 2026-09-30 05:11 UTC*
+*Last updated: 2026-10-01 05:26 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
