@@ -108,7 +108,7 @@ timeline
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -135,18 +135,18 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               36 mins             ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-TypeScript               32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-TOML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-CSS                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+JavaScript               36 mins             ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+TypeScript               32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+TOML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+CSS                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 
 🐱‍💻 Projects: 
-heoil                    59 mins             ██████████░░░░░░░░░░░░░░░   41.01 % 
-Unknown Project          24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-JMC-Vimarsh              20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-winning                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-hi                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+heoil                    59 mins             ██████████░░░░░░░░░░░░░░░   39.83 % 
+Unknown Project          24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+JMC-Vimarsh              20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+winning                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+cyber_assignment         10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +162,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 18:37:06 UTC
+ Last Updated on 02/10/2026 18:06:10 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
