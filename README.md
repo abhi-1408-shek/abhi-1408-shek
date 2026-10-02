@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis**
+**📄 One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars**
 
-👥 *Authors*: Tian Xia, Minghao Liu, Yiqing Liang et al.
+👥 *Authors*: Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev
 
-📝 *Abstract*: Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanced: a constant-majority predictor can score above 90% accuracy while being clinically useless. We...
+📝 *Abstract*: 3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendsh...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2609.40361v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.02207v1)
 
-*Last updated: 2026-10-01 05:26 UTC*
+*Last updated: 2026-10-02 05:14 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
