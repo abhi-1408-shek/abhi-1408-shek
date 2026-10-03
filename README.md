@@ -135,18 +135,18 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               36 mins             ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-TypeScript               32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-TOML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-CSS                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+TypeScript               32 mins             ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+TOML                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+JavaScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+CSS                      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 
 🐱‍💻 Projects: 
-heoil                    59 mins             ██████████░░░░░░░░░░░░░░░   39.83 % 
-Unknown Project          24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-JMC-Vimarsh              20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-winning                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-cyber_assignment         10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+heoil                    59 mins             █████████████░░░░░░░░░░░░   53.55 % 
+JMC-Vimarsh              20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Unknown Project          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+hi                       7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Resil-Mesh               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +162,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 18:06:10 UTC
+ Last Updated on 03/10/2026 16:49:53 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
