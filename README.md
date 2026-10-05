@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars**
+**📄 What Should World Models Forget? Stratified Retention for Continual Adaptation**
 
-👥 *Authors*: Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev
+👥 *Authors*: Nishit Anand, Ramani Duraiswami, Dinesh Manocha
 
-📝 *Abstract*: 3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendsh...
+📝 *Abstract*: Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World models do not satisfy this condition. Their prediction target is the environmen...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.02207v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.03713v1)
 
-*Last updated: 2026-10-04 05:30 UTC*
+*Last updated: 2026-10-05 05:13 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
