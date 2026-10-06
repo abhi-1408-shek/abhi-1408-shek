@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 What Should World Models Forget? Stratified Retention for Continual Adaptation**
+**📄 Base Models Can Reason By Taking a Cue From Training Data**
 
-👥 *Authors*: Nishit Anand, Ramani Duraiswami, Dinesh Manocha
+👥 *Authors*: Sophie L. Wang, Amil Dravid, Rulin Shao et al.
 
-📝 *Abstract*: Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World models do not satisfy this condition. Their prediction target is the environmen...
+📝 *Abstract*: In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting token cues makes a base model's performance competitive with that of its reinfor...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.03713v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.06851v1)
 
-*Last updated: 2026-10-05 05:13 UTC*
+*Last updated: 2026-10-06 05:58 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
