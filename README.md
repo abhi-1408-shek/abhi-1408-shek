@@ -108,7 +108,7 @@ timeline
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2040%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -135,18 +135,16 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 54 mins        ████████████░░░░░░░░░░░░░   47.36 % 
-TypeScript               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-TOML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-CSS                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+HTML                     2 hrs 11 mins       ████████████████████░░░░░   80.15 % 
+Text                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-presentation             2 hrs 13 mins       ██████████████░░░░░░░░░░░   54.90 % 
-heoil                    59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-JMC-Vimarsh              20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-hi                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+presentation             2 hrs 21 mins       █████████████████████░░░░   85.87 % 
+Unknown Project          16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+cyber_assignment         6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +160,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 18:40:49 UTC
+ Last Updated on 07/10/2026 19:07:16 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
