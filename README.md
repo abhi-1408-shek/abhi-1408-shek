@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Base Models Can Reason By Taking a Cue From Training Data**
+**📄 QF3: Fast Flow RL with Filtered Q-Gradients**
 
-👥 *Authors*: Sophie L. Wang, Amil Dravid, Rulin Shao et al.
+👥 *Authors*: Chung Min Kim, Brent Yi, David McAllister et al.
 
-📝 *Abstract*: In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting token cues makes a base model's performance competitive with that of its reinfor...
+📝 *Abstract*: Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning them from scratch through interaction. We introduce QF3 (Fast Flow RL with Filtered Q-Gradients), an...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.06851v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.08789v1)
 
-*Last updated: 2026-10-06 05:58 UTC*
+*Last updated: 2026-10-07 05:32 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
