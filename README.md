@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 QF3: Fast Flow RL with Filtered Q-Gradients**
+**📄 Decoupling Exploration from Optimization in RLVR**
 
-👥 *Authors*: Chung Min Kim, Brent Yi, David McAllister et al.
+👥 *Authors*: Saif Punjwani, Micah Goldblum
 
-📝 *Abstract*: Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning them from scratch through interaction. We introduce QF3 (Fast Flow RL with Filtered Q-Gradients), an...
+📝 *Abstract*: Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In practice, however, a...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.08789v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.10536v1)
 
-*Last updated: 2026-10-07 05:32 UTC*
+*Last updated: 2026-10-08 05:40 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
