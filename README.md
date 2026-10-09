@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Decoupling Exploration from Optimization in RLVR**
+**📄 CSF: Contextual Safety Filtering for Motion Generators**
 
-👥 *Authors*: Saif Punjwani, Micah Goldblum
+👥 *Authors*: Lizhi Yang, Yiling Hou, Yao Tang et al.
 
-📝 *Abstract*: Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In practice, however, a...
+📝 *Abstract*: Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraints; therefore, the...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.10536v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.12467v1)
 
-*Last updated: 2026-10-08 05:40 UTC*
+*Last updated: 2026-10-09 05:45 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
