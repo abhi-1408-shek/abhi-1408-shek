@@ -108,7 +108,7 @@ timeline
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%208%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -135,17 +135,16 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     2 hrs 11 mins       ██████████████████░░░░░░░   70.21 % 
-Python                   30 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Text                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   1 hr 28 mins        ████████████████░░░░░░░░░   65.50 % 
+HTML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Text                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🐱‍💻 Projects: 
-presentation             2 hrs 21 mins       ███████████████████░░░░░░   75.21 % 
-ocean                    28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Unknown Project          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-cyber_assignment         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+ocean                    1 hr 24 mins        ████████████████░░░░░░░░░   63.05 % 
+Unknown Project          41 mins             ████████░░░░░░░░░░░░░░░░░   30.74 % 
+presentation             8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 
 **I Mostly Code in Python** 
@@ -161,7 +160,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 17:50:23 UTC
+ Last Updated on 12/10/2026 21:26:55 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
