@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 CSF: Contextual Safety Filtering for Motion Generators**
+**📄 Hide and Seek: HIDE Concepts to SEEK explanations for black box models**
 
-👥 *Authors*: Lizhi Yang, Yiling Hou, Yao Tang et al.
+👥 *Authors*: Bhanu Tokas, Rahul Nair, Rockwell Jackson et al.
 
-📝 *Abstract*: Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraints; therefore, the...
+📝 *Abstract*: Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They re...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.12467v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.13935v1)
 
-*Last updated: 2026-10-11 05:22 UTC*
+*Last updated: 2026-10-12 05:34 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
