@@ -80,7 +80,7 @@ timeline
 
 🔗 [Read on ArXiv](https://arxiv.org/abs/2610.13935v1)
 
-*Last updated: 2026-10-12 05:34 UTC*
+*Last updated: 2026-10-13 06:30 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
