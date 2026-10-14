@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Hide and Seek: HIDE Concepts to SEEK explanations for black box models**
+**📄 Two For The Price Of One: Curvature-Aware Pruning Preserves Influence Functions Too**
 
-👥 *Authors*: Bhanu Tokas, Rahul Nair, Rockwell Jackson et al.
+👥 *Authors*: Mehdi Makni, Natalia Ponomareva, Rahul Mazumder
 
-📝 *Abstract*: Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They re...
+📝 *Abstract*: Post-training pruning enables efficient deployment, but conventional methods do not explicitly preserve internal-gradient alignment between sparse and dense models. We study novel connections between downstream performance of compressed models and the ability to retain gradient information via in...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.13935v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.18516v1)
 
-*Last updated: 2026-10-13 06:30 UTC*
+*Last updated: 2026-10-14 04:32 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
