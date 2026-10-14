@@ -108,7 +108,7 @@ timeline
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2018%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -135,17 +135,18 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   37.95 % 
-TypeScript               57 mins             ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-Text                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-HTML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Python                   1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   41.17 % 
+TypeScript               58 mins             ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+Text                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🐱‍💻 Projects: 
-ocean                    1 hr 58 mins        ████████████░░░░░░░░░░░░░   48.38 % 
-presentation             1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-Unknown Project          41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-second                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+ocean                    1 hr 58 mins        █████████████░░░░░░░░░░░░   52.49 % 
+presentation             59 mins             ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+Unknown Project          24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+second                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+breach-rewind            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 
 **I Mostly Code in Python** 
@@ -161,7 +162,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 19:36:25 UTC
+ Last Updated on 14/10/2026 17:39:58 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
