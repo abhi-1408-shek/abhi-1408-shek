@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Two For The Price Of One: Curvature-Aware Pruning Preserves Influence Functions Too**
+**📄 Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion**
 
-👥 *Authors*: Mehdi Makni, Natalia Ponomareva, Rahul Mazumder
+👥 *Authors*: Huixuan Cheng, Bike Zhang, Shankar Sastry et al.
 
-📝 *Abstract*: Post-training pruning enables efficient deployment, but conventional methods do not explicitly preserve internal-gradient alignment between sparse and dense models. We study novel connections between downstream performance of compressed models and the ability to retain gradient information via in...
+📝 *Abstract*: Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has been given to dir...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.18516v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.20606v1)
 
-*Last updated: 2026-10-14 04:32 UTC*
+*Last updated: 2026-10-15 04:14 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
