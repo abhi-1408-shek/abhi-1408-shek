@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion**
+**📄 LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation**
 
-👥 *Authors*: Huixuan Cheng, Bike Zhang, Shankar Sastry et al.
+👥 *Authors*: Zhixu Li, Keqian Tang, Litian Gong et al.
 
-📝 *Abstract*: Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has been given to dir...
+📝 *Abstract*: Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion fr...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.20606v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.22372v1)
 
-*Last updated: 2026-10-15 04:14 UTC*
+*Last updated: 2026-10-16 04:09 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
