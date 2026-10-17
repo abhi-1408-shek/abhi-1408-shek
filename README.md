@@ -180,7 +180,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 | Trait | Value |
 |-------|-------|
 | ⏰ Coding Style | ☀️ Day Coder |
-| 📅 Most Active | Friday |
+| 📅 Most Active | Wednesday |
 | 💬 Favorite Word | `profile` |
 
 ## 📅 My GitHub Journey
