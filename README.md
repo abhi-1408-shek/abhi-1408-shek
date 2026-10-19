@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation**
+**📄 Behavioral Couplings: From Formation to Behavioral Emergence in Language Models**
 
-👥 *Authors*: Zhixu Li, Keqian Tang, Litian Gong et al.
+👥 *Authors*: Dongyoon Hahm, Woogyeol Jin, Dennis Wei et al.
 
-📝 *Abstract*: Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion fr...
+📝 *Abstract*: Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code can cause broad misalignment on prompts unrelated to coding. We refer to a rela...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.22372v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.23847v1)
 
-*Last updated: 2026-10-18 04:07 UTC*
+*Last updated: 2026-10-19 04:16 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
