@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Behavioral Couplings: From Formation to Behavioral Emergence in Language Models**
+**📄 Text-to-Image Generative Modeling Without Language Pretraining**
 
-👥 *Authors*: Dongyoon Hahm, Woogyeol Jin, Dennis Wei et al.
+👥 *Authors*: Keshigeyan Chandrasegaran, Yue Zhao, Armin W. Thomas et al.
 
-📝 *Abstract*: Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code can cause broad misalignment on prompts unrelated to coding. We refer to a rela...
+📝 *Abstract*: Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal autoregressive models pretrained entirely from sc...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.23847v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.26863v1)
 
-*Last updated: 2026-10-19 04:16 UTC*
+*Last updated: 2026-10-20 04:28 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
