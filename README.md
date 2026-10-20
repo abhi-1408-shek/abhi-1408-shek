@@ -108,7 +108,7 @@ timeline
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2044%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -135,18 +135,18 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.07 % 
-Markdown                 1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Text                     1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Markdown                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+TypeScript               1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Python                   49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Text                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
 
 🐱‍💻 Projects: 
-localATS                 2 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   38.37 % 
-Downloads                1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-presentation             59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-second                   49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-ocean                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+localATS                 2 hrs 47 mins       ███████████░░░░░░░░░░░░░░   44.68 % 
+fraud_detection_mietauton1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Downloads                1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+second                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+internship_project       26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +162,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 18:52:45 UTC
+ Last Updated on 20/10/2026 17:36:33 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
