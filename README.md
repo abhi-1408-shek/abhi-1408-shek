@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Text-to-Image Generative Modeling Without Language Pretraining**
+**📄 Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs**
 
-👥 *Authors*: Keshigeyan Chandrasegaran, Yue Zhao, Armin W. Thomas et al.
+👥 *Authors*: Noam Rotstein, Yoad Tewel, Chen Tessler et al.
 
-📝 *Abstract*: Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal autoregressive models pretrained entirely from sc...
+📝 *Abstract*: Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cannot return that jum...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.26863v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.28632v1)
 
-*Last updated: 2026-10-20 04:28 UTC*
+*Last updated: 2026-10-21 04:19 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
