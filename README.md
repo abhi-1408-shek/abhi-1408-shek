@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs**
+**📄 LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data**
 
-👥 *Authors*: Noam Rotstein, Yoad Tewel, Chen Tessler et al.
+👥 *Authors*: Zhennan Wan, Jianfei Chen
 
-📝 *Abstract*: Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cannot return that jum...
+📝 *Abstract*: Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.28632v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.30132v1)
 
-*Last updated: 2026-10-21 04:19 UTC*
+*Last updated: 2026-10-22 04:19 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
