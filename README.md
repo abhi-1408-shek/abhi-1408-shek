@@ -135,18 +135,18 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-TypeScript               1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Python                   49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Text                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Markdown                 1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+TypeScript               1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+Other                    41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Python                   31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
 
 🐱‍💻 Projects: 
-localATS                 2 hrs 47 mins       ███████████░░░░░░░░░░░░░░   45.42 % 
-fraud_detection_mietauton1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Downloads                1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-second                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-internship_project       26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+localATS                 2 hrs 47 mins       ██████████████░░░░░░░░░░░   57.08 % 
+fraud_detection_mietauton1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Downloads                26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+internship_project       26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+repo                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +162,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 17:43:47 UTC
+ Last Updated on 22/10/2026 17:42:16 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
