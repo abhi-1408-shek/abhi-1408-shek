@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data**
+**📄 Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success**
 
-👥 *Authors*: Zhennan Wan, Jianfei Chen
+👥 *Authors*: Yunfei Xie, Howard H. Qian, Shiyi Lan et al.
 
-📝 *Abstract*: Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain ...
+📝 *Abstract*: Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge towar...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.30132v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.31670v1)
 
-*Last updated: 2026-10-22 04:19 UTC*
+*Last updated: 2026-10-23 04:23 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
