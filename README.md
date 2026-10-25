@@ -135,18 +135,17 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 39 mins             ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-Other                    35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-Python                   31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-TypeScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Markdown                 39 mins             ████████░░░░░░░░░░░░░░░░░   30.86 % 
+Other                    35 mins             ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+Python                   31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🐱‍💻 Projects: 
-fraud_detection_mietauton1 hr 10 mins        ████████████░░░░░░░░░░░░░   48.60 % 
-Downloads                26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-internship_project       26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-localATS                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-repo                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+fraud_detection_mietauton1 hr 10 mins        ██████████████░░░░░░░░░░░   55.54 % 
+Downloads                26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+internship_project       26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+repo                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +161,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 16:19:20 UTC
+ Last Updated on 25/10/2026 16:53:55 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
