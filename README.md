@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success**
+**📄 RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms**
 
-👥 *Authors*: Yunfei Xie, Howard H. Qian, Shiyi Lan et al.
+👥 *Authors*: Xi Chen, Fengqi Hu, Zeyu Shen et al.
 
-📝 *Abstract*: Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge towar...
+📝 *Abstract*: Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles, yet two major barriers limit their broader potential: limited algorithm reu...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.31670v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.32971v1)
 
-*Last updated: 2026-10-25 04:17 UTC*
+*Last updated: 2026-10-26 04:20 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
