@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms**
+**📄 Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction**
 
-👥 *Authors*: Xi Chen, Fengqi Hu, Zeyu Shen et al.
+👥 *Authors*: Prakhar Kaushik, Soumava Paul, Alan Yuille
 
-📝 *Abstract*: Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles, yet two major barriers limit their broader potential: limited algorithm reu...
+📝 *Abstract*: Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spatial color field for...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.32971v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.37668v1)
 
-*Last updated: 2026-10-26 04:20 UTC*
+*Last updated: 2026-10-28 05:13 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
