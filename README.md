@@ -108,7 +108,7 @@ timeline
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2047%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -135,10 +135,11 @@ Sunday                   138 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      3 mins              ████████████████████████░   95.47 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Downloads                3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -154,7 +155,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 18:33:15 UTC
+ Last Updated on 29/10/2026 18:42:19 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:unique-->
