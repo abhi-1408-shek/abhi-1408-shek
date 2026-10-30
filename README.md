@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction**
+**📄 Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering**
 
-👥 *Authors*: Prakhar Kaushik, Soumava Paul, Alan Yuille
+👥 *Authors*: Moshe Shenfeld, Eliad Tsfadia, Katrina Ligett
 
-📝 *Abstract*: Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spatial color field for...
+📝 *Abstract*: An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data would allow far le...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.37668v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.40654v1)
 
-*Last updated: 2026-10-29 05:24 UTC*
+*Last updated: 2026-10-30 05:24 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
