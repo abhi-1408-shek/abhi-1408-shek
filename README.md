@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering**
+**📄 Latent Reasoning in Continuous Space for Unified Multimodal Models**
 
-👥 *Authors*: Moshe Shenfeld, Eliad Tsfadia, Katrina Ligett
+👥 *Authors*: Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee et al.
 
-📝 *Abstract*: An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data would allow far le...
+📝 *Abstract*: Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image generation. As a result, existing reasoning-augmented UMMs often fail to inheri...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.40654v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2610.42149v1)
 
-*Last updated: 2026-11-01 05:39 UTC*
+*Last updated: 2026-11-02 05:37 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
