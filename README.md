@@ -166,7 +166,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 | | |
 |---|---|
-| **[AQI_PREDICTER](https://github.com/abhi-1408-shek/AQI_PREDICTER)** | SIMPLE STREAMLIT APP FOR AQI PREDICTION (NO API) |
+| **[Shipboard-Power-Management-Fault-Diagnosis](https://github.com/abhi-1408-shek/Shipboard-Power-Management-Fault-Diagnosis)** | Software-Defined Virtual Digital Twin for Shipboard Power Management & Fault Diagnosis |
 | 🔤 Python | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
@@ -183,7 +183,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Nov 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-11-01*
+*Auto-updated: 2026-11-02*
 <!--END_SECTION:unique-->
 
 <br>
