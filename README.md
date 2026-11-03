@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Latent Reasoning in Continuous Space for Unified Multimodal Models**
+**📄 From PID to Reinforcement Learning in Building HVAC Control: A Control-Architecture Review of Tuning Strategies, Formulations, and Deployment Trade-offs**
 
-👥 *Authors*: Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee et al.
+👥 *Authors*: Erfan Haghighat Damavandi, Davide Papurello, Mahdi Alibeigi et al.
 
-📝 *Abstract*: Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image generation. As a result, existing reasoning-augmented UMMs often fail to inheri...
+📝 *Abstract*: This paper reviews control architectures for building heating, ventilation and air-conditioning (HVAC) systems, addressing the tension among energy demand, occupant comfort and equipment operability, and situating proportional-integral-derivative (PID) regulation within a layered control stack th...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2610.42149v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.03152v1)
 
-*Last updated: 2026-11-02 05:37 UTC*
+*Last updated: 2026-11-03 06:17 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
