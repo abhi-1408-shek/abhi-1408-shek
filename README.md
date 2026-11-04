@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 From PID to Reinforcement Learning in Building HVAC Control: A Control-Architecture Review of Tuning Strategies, Formulations, and Deployment Trade-offs**
+**📄 Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization**
 
-👥 *Authors*: Erfan Haghighat Damavandi, Davide Papurello, Mahdi Alibeigi et al.
+👥 *Authors*: Austin Tsai, Saurav Nanda, Ganapathy Parthasarathy et al.
 
-📝 *Abstract*: This paper reviews control architectures for building heating, ventilation and air-conditioning (HVAC) systems, addressing the tension among energy demand, occupant comfort and equipment operability, and situating proportional-integral-derivative (PID) regulation within a layered control stack th...
+📝 *Abstract*: Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates on-policy sampling, LLM-based rating of the samples together with a teacher's gold response, lar...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2611.03152v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.05373v1)
 
-*Last updated: 2026-11-03 06:17 UTC*
+*Last updated: 2026-11-04 05:52 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
