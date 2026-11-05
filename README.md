@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization**
+**📄 A Framework for Context Enrichment and Selective Robustness in LLM Social Agents**
 
-👥 *Authors*: Austin Tsai, Saurav Nanda, Ganapathy Parthasarathy et al.
+👥 *Authors*: Mattia Greiche, Reihaneh Rabbany, Maximilian Puelma Touzel
 
-📝 *Abstract*: Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates on-policy sampling, LLM-based rating of the samples together with a teacher's gold response, lar...
+📝 *Abstract*: Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been shown to substantially change their behavior under meaning-preserving prompt variations, creating...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2611.05373v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.06914v1)
 
-*Last updated: 2026-11-04 05:52 UTC*
+*Last updated: 2026-11-05 06:14 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
