@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 A Framework for Context Enrichment and Selective Robustness in LLM Social Agents**
+**📄 User Embeddings are Superpositions of Interpretable Behavioral Modes**
 
-👥 *Authors*: Mattia Greiche, Reihaneh Rabbany, Maximilian Puelma Touzel
+👥 *Authors*: Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen et al.
 
-📝 *Abstract*: Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been shown to substantially change their behavior under meaning-preserving prompt variations, creating...
+📝 *Abstract*: User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user emb...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2611.06914v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.08487v1)
 
-*Last updated: 2026-11-05 06:14 UTC*
+*Last updated: 2026-11-07 05:38 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
