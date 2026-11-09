@@ -166,8 +166,8 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 | | |
 |---|---|
-| **[Shipboard-Power-Management-Fault-Diagnosis](https://github.com/abhi-1408-shek/Shipboard-Power-Management-Fault-Diagnosis)** | Software-Defined Virtual Digital Twin for Shipboard Power Management & Fault Diagnosis |
-| 🔤 Python | ⭐ 0 stars |
+| **[LanguagePlay](https://github.com/abhi-1408-shek/LanguagePlay)** | LanguagePlay Android App |
+| 🔤 Kotlin | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
@@ -183,7 +183,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Nov 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-11-08*
+*Auto-updated: 2026-11-09*
 <!--END_SECTION:unique-->
 
 <br>
