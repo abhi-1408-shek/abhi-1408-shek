@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 User Embeddings are Superpositions of Interpretable Behavioral Modes**
+**📄 On Agentic Manipulation Policies**
 
-👥 *Authors*: Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen et al.
+👥 *Authors*: Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji et al.
 
-📝 *Abstract*: User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user emb...
+📝 *Abstract*: Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We systematically analyze ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2611.08487v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.09892v1)
 
-*Last updated: 2026-11-08 05:40 UTC*
+*Last updated: 2026-11-09 05:50 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
