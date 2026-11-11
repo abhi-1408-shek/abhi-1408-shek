@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 On Agentic Manipulation Policies**
+**📄 TorchCurves: Differentiable Parametric Curves**
 
-👥 *Authors*: Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji et al.
+👥 *Authors*: Alex Shtoff
 
-📝 *Abstract*: Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We systematically analyze ...
+📝 *Abstract*: We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients. C...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2611.09892v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.14516v1)
 
-*Last updated: 2026-11-09 05:50 UTC*
+*Last updated: 2026-11-11 05:46 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
