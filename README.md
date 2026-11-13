@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 TorchCurves: Differentiable Parametric Curves**
+**📄 Edge-Gradient Augmentation under Reinforcement Learning for Temporal Graph**
 
-👥 *Authors*: Alex Shtoff
+👥 *Authors*: Yongqing Zhou, Jiawei Chen, Wenjun Wang et al.
 
-📝 *Abstract*: We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients. C...
+📝 *Abstract*: Temporal link prediction is critical for understand- ing dynamic interactions in evolving networks, informing appli- cations ranging from social network analysis to recommendation systems. Existing methods typically rely on raw temporal graph data, often neglecting explicit edge-change informatio...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2611.14516v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.16678v1)
 
-*Last updated: 2026-11-12 06:52 UTC*
+*Last updated: 2026-11-13 06:11 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
