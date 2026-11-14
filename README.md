@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Edge-Gradient Augmentation under Reinforcement Learning for Temporal Graph**
+**📄 Unbundling Multimodal Vision Encoding**
 
-👥 *Authors*: Yongqing Zhou, Jiawei Chen, Wenjun Wang et al.
+👥 *Authors*: Ellis Brown, Chris Hoang, Shengyi Qian et al.
 
-📝 *Abstract*: Temporal link prediction is critical for understand- ing dynamic interactions in evolving networks, informing appli- cations ranging from social network analysis to recommendation systems. Existing methods typically rely on raw temporal graph data, often neglecting explicit edge-change informatio...
+📝 *Abstract*: How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prio...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2611.16678v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.17334v1)
 
-*Last updated: 2026-11-13 06:11 UTC*
+*Last updated: 2026-11-14 05:56 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
