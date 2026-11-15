@@ -166,8 +166,8 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 | | |
 |---|---|
-| **[LanguagePlay](https://github.com/abhi-1408-shek/LanguagePlay)** | LanguagePlay Android App |
-| 🔤 Kotlin | ⭐ 0 stars |
+| **[SunLe-AI](https://github.com/abhi-1408-shek/SunLe-AI)** | A serverless GenAI prototype for health coaching, featuring strict evidence grounding and human-in-the-loop review. |
+| 🔤 JavaScript | ⭐ 0 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
@@ -183,7 +183,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Nov 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-11-14*
+*Auto-updated: 2026-11-15*
 <!--END_SECTION:unique-->
 
 <br>
