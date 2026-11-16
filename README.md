@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Unbundling Multimodal Vision Encoding**
+**📄 Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion**
 
-👥 *Authors*: Ellis Brown, Chris Hoang, Shengyi Qian et al.
+👥 *Authors*: Daniel Grimm, Kyra Jongman, Renato Cordeiro Ferreira et al.
 
-📝 *Abstract*: How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prio...
+📝 *Abstract*: Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnera...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2611.17334v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.18563v1)
 
-*Last updated: 2026-11-15 05:58 UTC*
+*Last updated: 2026-11-16 05:57 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
