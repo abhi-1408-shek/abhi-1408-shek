@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion**
+**📄 STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies**
 
-👥 *Authors*: Daniel Grimm, Kyra Jongman, Renato Cordeiro Ferreira et al.
+👥 *Authors*: Shenghao Xiong, Xiaolin Chang
 
-📝 *Abstract*: Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnera...
+📝 *Abstract*: Multimodal reinforcement learning (MRL) offers a promising paradigm for autonomous driving by jointly leveraging complementary sensor observations to learn effective decision-making policies. However, its effectiveness critically depends on temporal alignment across modalities, making temporal in...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2611.18563v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.20765v1)
 
-*Last updated: 2026-11-16 05:57 UTC*
+*Last updated: 2026-11-17 07:35 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
