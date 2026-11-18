@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies**
+**📄 Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching**
 
-👥 *Authors*: Shenghao Xiong, Xiaolin Chang
+👥 *Authors*: Giannis Daras, Marios Papachristou, Adam Klivans et al.
 
-📝 *Abstract*: Multimodal reinforcement learning (MRL) offers a promising paradigm for autonomous driving by jointly leveraging complementary sensor observations to learn effective decision-making policies. However, its effectiveness critically depends on temporal alignment across modalities, making temporal in...
+📝 *Abstract*: Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catast...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2611.20765v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.23229v1)
 
-*Last updated: 2026-11-17 07:35 UTC*
+*Last updated: 2026-11-18 06:58 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
