@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching**
+**📄 Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems**
 
-👥 *Authors*: Giannis Daras, Marios Papachristou, Adam Klivans et al.
+👥 *Authors*: Priyanka Sinha, Sugam Pandey
 
-📝 *Abstract*: Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catast...
+📝 *Abstract*: When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2611.23229v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.24932v1)
 
-*Last updated: 2026-11-18 06:58 UTC*
+*Last updated: 2026-11-19 06:58 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
