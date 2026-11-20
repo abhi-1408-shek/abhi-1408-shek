@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems**
+**📄 RL Post-Training in Diffusion Transformers Is Activation Steering**
 
-👥 *Authors*: Priyanka Sinha, Sugam Pandey
+👥 *Authors*: Tuna Han Salih Meral, Kaan Oktay, Alec Helbling et al.
 
-📝 *Abstract*: When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We...
+📝 *Abstract*: Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is t...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2611.24932v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.26627v1)
 
-*Last updated: 2026-11-19 06:58 UTC*
+*Last updated: 2026-11-20 06:51 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
