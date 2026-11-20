@@ -160,21 +160,21 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 <!--START_SECTION:unique-->
 ## 🧠 Currently Thinking About
-> Working on: abhi-1408-shek
+> Exploring: Python
 
 ## 🌟 Repo Spotlight (This Week)
 
 | | |
 |---|---|
-| **[AQI_PREDICTER](https://github.com/abhi-1408-shek/AQI_PREDICTER)** | SIMPLE STREAMLIT APP FOR AQI PREDICTION (NO API) |
-| 🔤 Python | ⭐ 0 stars |
+| **[EDGE_CORRECTOR_THERMAL](https://github.com/abhi-1408-shek/EDGE_CORRECTOR_THERMAL)** | pixelift group |
+| 🔤 Jupyter Notebook | ⭐ 3 stars |
 
 ## 🎭 My Commit Personality
 | Trait | Value |
 |-------|-------|
 | ⏰ Coding Style | 🌅 Early Bird |
-| 📅 Most Active | Tuesday |
-| 💬 Favorite Word | `fix:` |
+| 📅 Most Active | Wednesday |
+| 💬 Favorite Word | `auto-update:` |
 
 ## 📅 My GitHub Journey
 | When | Milestone |
@@ -183,7 +183,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 | 💻 Sep 2024 | 📁 First Repo: CIPHER-GUARD |
 | ⚡ Nov 2026 | 🔥 Still Going Strong! |
 
-*Auto-updated: 2026-11-19*
+*Auto-updated: 2026-11-20*
 <!--END_SECTION:unique-->
 
 <br>
