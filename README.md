@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 RL Post-Training in Diffusion Transformers Is Activation Steering**
+**📄 Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**
 
-👥 *Authors*: Tuna Han Salih Meral, Kaan Oktay, Alec Helbling et al.
+👥 *Authors*: Seongchan Kim, Soowon Son, Sangoh Kim et al.
 
-📝 *Abstract*: Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is t...
+📝 *Abstract*: Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2611.26627v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.31240v1)
 
-*Last updated: 2026-11-22 06:16 UTC*
+*Last updated: 2026-11-24 09:31 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
