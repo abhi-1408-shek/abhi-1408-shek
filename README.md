@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**
+**📄 OmniAct: One Policy, One Million Embodiments**
 
-👥 *Authors*: Seongchan Kim, Soowon Son, Sangoh Kim et al.
+👥 *Authors*: Xiang Fan, Yuheng Wang, Jiayuan Yan et al.
 
-📝 *Abstract*: Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory ...
+📝 *Abstract*: A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how ...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2611.31240v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.33158v1)
 
-*Last updated: 2026-11-24 09:31 UTC*
+*Last updated: 2026-11-25 08:03 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
