@@ -72,15 +72,15 @@ timeline
 <div align="center">
 
 <!--START_SECTION:arxiv-->
-**📄 OmniAct: One Policy, One Million Embodiments**
+**📄 Tokenisation is not in APX**
 
-👥 *Authors*: Xiang Fan, Yuheng Wang, Jiayuan Yan et al.
+👥 *Authors*: Violeta Kastreva, Philip Whittington, Dennis Komm et al.
 
-📝 *Abstract*: A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how ...
+📝 *Abstract*: In this paper, we prove that, unless P=NP, no polynomial-time algorithm can find a tokeniser whose objective is within any constant factor of the optimum, meaning that tokenisation is not in the APX complexity class. We prove this for direct and bottom-up tokenisation, under both a compression or...
 
-🔗 [Read on ArXiv](https://arxiv.org/abs/2611.33158v1)
+🔗 [Read on ArXiv](https://arxiv.org/abs/2611.34938v1)
 
-*Last updated: 2026-11-25 08:03 UTC*
+*Last updated: 2026-11-26 07:53 UTC*
 <!--END_SECTION:arxiv-->
 
 </div>
